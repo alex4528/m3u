@@ -2,6 +2,11 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/tp-ww/key.php?id=1363
+#EXTINF:-1 tvg-id="1363" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPANML_Thumbnail-v2/TPANML_Thumbnail.png" group-title="Kids",TataPlay Anime Local
+https://yuvraj43.xyz/tp-ww/manifest.mpd?id=1363
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/tp-ww/key.php?id=22
 #EXTINF:-1 tvg-id="22" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52679-k7zx7qqg-v1/imageContent-52679-k7zx7qqg-m2.png" group-title="Lifestyle",News World India
 https://yuvraj43.xyz/tp-ww/manifest.mpd?id=22
