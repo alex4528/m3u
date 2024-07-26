@@ -1,8 +1,24 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="474" tvg-logo="https://www.thesportsnews.in/wp-content/uploads/2022/08/The-Hundred-Women-2022-Points-Table-and-Team-Standings.jpg" group-title="",Hundreds (women)
-https://dai.google.com/linear/hls/event/w7TJ7oYWTW25rktGtjBpjA/master.m3u8
-
+https://dai.fancode.com/primary/103510_english_hls_8380ta-no/index.m3u8
 
 #EXTINF:-1 tvg-id="474" tvg-logo="https://www.thesportsnews.in/wp-content/uploads/2022/08/The-Hundred-Women-2022-Points-Table-and-Team-Standings.jpg" group-title="",Hundreds (men)
 https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
+
+
+#EXTINF:-1 tvg-id="474" tvg-logo="https://play-lh.googleusercontent.com/lp1Tdhp75MQyrHqrsyRBV74HxoL3Ko8KRAjOUI1wUHREAxuuVwKR6vnamgvMEn4C4Q" group-title="",eng vs sa
+https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
+
+#EXTINF:-1 tvg-id="474" tvg-logo="https://play-lh.googleusercontent.com/lp1Tdhp75MQyrHqrsyRBV74HxoL3Ko8KRAjOUI1wUHREAxuuVwKR6vnamgvMEn4C4Q" group-title="",scotland vs nimibia
+https://dai.google.com/linear/hls/event/BpJhRgT8SDOmh98mswMIdA/master.m3u8
+
+#EXTINF:-1 tvg-id="474" tvg-logo="https://play-lh.googleusercontent.com/lp1Tdhp75MQyrHqrsyRBV74HxoL3Ko8KRAjOUI1wUHREAxuuVwKR6vnamgvMEn4C4Q" group-title="",zim vs ireland
+https://dai.fancode.com/primary/103501_english_hls_8715ta-no/index.m3u8
+
+
+#EXTINF:-1 tvg-id="474" tvg-logo="https://play-lh.googleusercontent.com/lp1Tdhp75MQyrHqrsyRBV74HxoL3Ko8KRAjOUI1wUHREAxuuVwKR6vnamgvMEn4C4Q" group-title="",formula f1
+https://du29j5e8vbtm9.cloudfront.net/out/v1/1e88a25b3e9c40f487976cdf9c85bb31/index.m3u8
+
+#EXTINF:-1 tvg-id="474" tvg-logo="https://play-lh.googleusercontent.com/lp1Tdhp75MQyrHqrsyRBV74HxoL3Ko8KRAjOUI1wUHREAxuuVwKR6vnamgvMEn4C4Q" group-title="",tnpl
+https://dai.fancode.com/primary/100454_english_hls_4624ta-no/index.m3u8
