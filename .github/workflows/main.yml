@@ -25,6 +25,6 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add fc.m3u
-        git commit -m "Update fc.m3u file"
+        git commit -m "Update jcinema.m3u file"
         git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
         git push origin HEAD:main
