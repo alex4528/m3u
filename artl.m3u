@@ -1,939 +1,927 @@
 #EXTM3U
-#playlist by @yuvraj824
 
-
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SET" tvg-name="SET" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978ac9d8fb452ad919bdf/images/378221101.webp" group-title="Airtel | Entertainment", SET
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=set
-#EXTINF:-1 tvg-id="set" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978ac9d8fb452ad919bdf/images/378221101.webp" group-title="Airtel | Entertainment",SONY SET
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=set
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"CURSyaod8vjdUH1iNThVdQ", "kid":"34e4yFj_PoCKxY5UMCwEsw" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media1/set/ndashd/set.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_SAB" tvg-name="SONY SAB" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Airtel | Entertainment", SONY SAB
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=sony-sab
-#EXTINF:-1 tvg-id="sony-sab" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Airtel | Entertainment",SONY SAB
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=sony-sab
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"HVI1gWcNLyiDkdkcpDuH4g", "kid":"SSdaXt39OKuyrZXpDHWyoA" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media14/sony_sab/ndashd/sony_sab.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_PAL" tvg-name="Sony Pal" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978b19d8fb452ad919c21/images/519221101.webp" group-title="Airtel | Entertainment", Sony Pal
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=sony-pal
-#EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978b19d8fb452ad919c21/images/519221101.webp" group-title="Airtel | Entertainment",Sony Pal
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=sony-pal
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"IALh8PLBZlr__Nb6DdZJJQ", "kid":"FnEB0P1XMl+5Ek2MR4pj2A" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media1/sony_pal/ndashd/sony_pal.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY" tvg-name="Investigation Discovery" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bff583bf8d2567aab4d6/images/424.webp" group-title="Airtel | Documentary", Investigation Discovery
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=investigation-discovery
-#EXTINF:-1 tvg-id="investigation-discovery" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bff583bf8d2567aab4d6/images/424.webp" group-title="Airtel | Documentary",Investigation Discovery
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=investigation-discovery
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"Ae+T4vLJ4HsXozVGQwH0xA", "kid":"HOZox+35NUyiwcCO_VDqSg" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media2/investigation_discovery/ndashd/investigation_discovery.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_EPIC" tvg-name="Epic" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e623d1fb238115f8b9/images/279.webp" group-title="Airtel | Infotainment", Epic
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=epic
-#EXTINF:-1 tvg-id="epic" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e623d1fb238115f8b9/images/279.webp" group-title="Airtel | Infotainment",Epic
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=epic
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"sJL3euL9IldlIbL4kFiFvA", "kid":"DucvJ8ZbPee4KUnKLXbeOg" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media2/epic/ndashd/epic.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ISHARA_TV" tvg-name="Ishara TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bfeb23d1fb238115e25d/images/778.webp" group-title="Airtel | Entertainment", Ishara TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=ishara-tv
-#EXTINF:-1 tvg-id="ishara-tv" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bfeb23d1fb238115e25d/images/778.webp" group-title="Airtel | Entertainment",Ishara TV
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=ishara-tv
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"3ihroEpk4py4JICtbU8u6w", "kid":"1X_C5e2pNPiVTJWTD+_t3g" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media14/ishara_tv/ndashd/ishara_tv.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_NATIONAL" tvg-name="DD National" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657611b152133304ca060093/images/550.webp" group-title="Airtel | Entertainment", DD National
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=dd-national
-#EXTINF:-1 tvg-id="dd-national" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657611b152133304ca060093/images/550.webp" group-title="Airtel | Entertainment",DD National
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=dd-national
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"pzMdVz7zrq+xQBraTXoaZw", "kid":"4M_LeF+PPKC193cZq8o+PA" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media1/dd_national/ndashd/dd_national.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_INDIA" tvg-name="DD India" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610f961da8470744738e1/images/456.webp" group-title="Airtel | Entertainment", DD India
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=dd-india
-#EXTINF:-1 tvg-id="dd-india" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610f961da8470744738e1/images/456.webp" group-title="Airtel | Entertainment",DD India
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=dd-india
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"Kqg_yvfg6Wbbv108CDuu9Q", "kid":"TtBOcmgeMk+xzxBGnUF3ww" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media10/dd_india/ndashd/dd_india.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_BHARATI" tvg-name="DD Bharati" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6576110f6886c012a8aa294c/images/366.webp" group-title="Airtel | Infotainment", DD Bharati
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=dd-bharati
-#EXTINF:-1 tvg-id="dd-bharati" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6576110f6886c012a8aa294c/images/366.webp" group-title="Airtel | Infotainment",DD Bharati
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=dd-bharati
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"4nNvEluyxMCLJFA6uqdbXw", "kid":"6Zyf5Md4MiyqTN8odrRYTA" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media1/dd_bharati/ndashd/dd_bharati.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_KISAN" tvg-name="DD Kisan" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65761106a3b7866cb8414c70/images/665.webp" group-title="Airtel | Infotainment", DD Kisan
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=dd-kisan
-#EXTINF:-1 tvg-id="dd-kisan" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65761106a3b7866cb8414c70/images/665.webp" group-title="Airtel | Infotainment",DD Kisan
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=dd-kisan
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"jpa1Qb3hohzNxWUPhVIhxQ", "kid":"XIWEcFM7NLSQKHJe5Dwq6A" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media10/dd_kissan/ndashd/dd_kissan.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_UP" tvg-name="DD UP" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e623d1fb238115f8ae/images/568.webp" group-title="Airtel | Entertainment", DD UP
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=dd-up
-#EXTINF:-1 tvg-id="dd-up" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e623d1fb238115f8ae/images/568.webp" group-title="Airtel | Entertainment",DD UP
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=dd-up
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"eMXmoGiHUQm1c0meP5F9bg", "kid":"ar5RpYTnOXC63N3NwAl9Pw" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media1/dd_up/ndashd/dd_up.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_RAJASTHAN" tvg-name="DD Rajasthan" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6576113851545a065210830f/images/349.webp" group-title="Airtel | Infotainment", DD Rajasthan
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=dd-rajasthan
-#EXTINF:-1 tvg-id="dd-rajasthan" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6576113851545a065210830f/images/349.webp" group-title="Airtel | Infotainment",DD Rajasthan
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=dd-rajasthan
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"HQ7i36s3HYcVHm941E5GPw", "kid":"HXpxb0HcOmC+DRqBg35eJw" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media1/dd_rajasthan/ndashd/dd_rajasthan.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_MP" tvg-name="DD MP" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6616ec3851d9d7117a501879/images/399.webp" group-title="Airtel | Entertainment", DD MP
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=dd-mp
-#EXTINF:-1 tvg-id="dd-mp" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6616ec3851d9d7117a501879/images/399.webp" group-title="Airtel | Entertainment",DD MP
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=dd-mp
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"SDnIFLLg6B2nK67_lDJ+gg", "kid":"yIh0zdM8MkCkzMILi_kADw" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media10/dd_mp/ndashd/dd_mp.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_MAX" tvg-name="SONY Max" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f1fd033abf53d08e75ac/images/97221101.webp" group-title="Airtel | Movies", SONY Max
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=sony-max
-#EXTINF:-1 tvg-id="sony-max" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f1fd033abf53d08e75ac/images/97221101.webp" group-title="Airtel | Movies",SONY Max
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=sony-max
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"ItM+2Ied3W5O2gvubiBV8Q", "kid":"1G2VVpNDO5+SSfTf_W8Baw" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media1/sony_max/ndashd/sony_max.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_MAX_2" tvg-name="Sony Max 2" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f584fe0772265fedff18/images/13221101.webp" group-title="Airtel | Movies", Sony Max 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=sony-max-2
-#EXTINF:-1 tvg-id="sony-max-2" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f584fe0772265fedff18/images/13221101.webp" group-title="Airtel | Movies",Sony Max 2
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=sony-max-2
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"TypHhX1nJMhIUkR83LAnZQ", "kid":"wjcBUi3FOnijhp7msdLY9Q" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media14/sony_max_2/ndashd/sony_max_2.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_WAH" tvg-name="Sony Wah" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f4d8033abf53d08e93a2/images/294221101.webp" group-title="Airtel | Movies", Sony Wah
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=sony-wah
-#EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f4d8033abf53d08e93a2/images/294221101.webp" group-title="Airtel | Movies",Sony Wah
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=sony-wah
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"2LQP7a9dGPaccGHfz7+kBw", "kid":"bMrMPinkOPqqu8j3y40f5w" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media14/sony_wah/ndashd/sony_wah.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_B4U_KADAK" tvg-name="B4U Kadak" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f8effe0772265fee2350/images/179.webp" group-title="Airtel | Movies", B4U Kadak
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=b4u-kadak
-#EXTINF:-1 tvg-id="b4u-kadak" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f8effe0772265fee2350/images/179.webp" group-title="Airtel | Movies",B4U Kadak
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=b4u-kadak
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"T6Mon0cAe8k9FcAbrAllNA", "kid":"a1b9rjRSN7aQBS5QB_AO5Q" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media2/b4u_kadak/ndashd/b4u_kadak.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_B4U_MOVIES" tvg-name="B4U Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572ef03dc5dfc4403f7a33a/images/650.webp" group-title="Airtel | Movies", B4U Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=b4u-movies
-#EXTINF:-1 tvg-id="b4u-movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572ef03dc5dfc4403f7a33a/images/650.webp" group-title="Airtel | Movies",B4U Movies
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=b4u-movies
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"+EH_eeyhGuBgPqCBVbXMqA", "kid":"XEkgWMoMNmajcshMWjN5yQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media1/b4u_movies/ndashd/b4u_movies.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_MH_ONE_DIL_SE" tvg-name="MH One Dil Se" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572ef81033abf53d08e5b99/images/887.webp" group-title="Airtel | Movies", MH One Dil Se
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=mh-one-dil-se
-#EXTINF:-1 tvg-id="mh-one-dil-se" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572ef81033abf53d08e5b99/images/887.webp" group-title="Airtel | Movies",MH One Dil Se
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=mh-one-dil-se
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"50ZnpCocpGKLLWkavwR9Jg", "kid":"icJonKZ3MmiXYfw_tzoD2g" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media14/mh_one_dil_se/ndashd/mh_one_dil_se.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_PIX" tvg-name="SONY PIX" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6579791fac7f66229607bd43/images/277221101.webp" group-title="Airtel | Movies", SONY PIX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=sony-pix
-#EXTINF:-1 tvg-id="sony-pix" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6579791fac7f66229607bd43/images/277221101.webp" group-title="Airtel | Movies",SONY PIX
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=sony-pix
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"nRDFK0an2Qm2nE1e31abWg", "kid":"t0SuDKuuOZi7+9d41TfwSQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media4/sony_pix/ndashd/sony_pix.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_MOVIES_NOW" tvg-name="Movies Now" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574c00debd2ee1bebbf9c51/images/503.webp" group-title="Airtel | Movies", Movies Now
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=movies-now
-#EXTINF:-1 tvg-id="movies-now" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574c00debd2ee1bebbf9c51/images/503.webp" group-title="Airtel | Movies",Movies Now
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=movies-now
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"egITRG6imZlJJLIpd+0tRw", "kid":"ACnSf11EN4eQIOHNzchVvQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media3/movies_now/ndashd/movies_now.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_MNSYMPLUS" tvg-name="MN+" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65a046277849cc653ced0ed6/images/LANDSCAPE_169/LANDSCAPE_169_xL_ScvEc7_MN+_264x144.webp" group-title="Airtel | Movies", MN+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=mn+
-#EXTINF:-1 tvg-id="mn+" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65a046277849cc653ced0ed6/images/LANDSCAPE_169/LANDSCAPE_169_xL_ScvEc7_MN+_264x144.webp" group-title="Airtel | Movies",MN+
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=mn+
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"K5nRDbmfyK2FKDHlB22Sww", "kid":"OyOss5ALMBWaxY6MaNFYbg" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media6/mn_plus/ndashd/mn_plus.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ROMEDY_NOW" tvg-name="Romedy Now" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978ac9d8fb452ad919bd7/images/347.webp" group-title="Airtel | Movies", Romedy Now
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=romedy-now
-#EXTINF:-1 tvg-id="romedy-now" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978ac9d8fb452ad919bd7/images/347.webp" group-title="Airtel | Movies",Romedy Now
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=romedy-now
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"9gMUZUBaUZeaY1ZHfwmFVQ", "kid":"ECpwMqyBO7WWycUmHREY6A" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media3/romedy_now/ndashd/romedy_now.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_MNX" tvg-name="MNX" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65a0462994ec8e00c48d19c3/images/LANDSCAPE_169/LANDSCAPE_169_PDye_Z5Fz_MNX_264x144.webp" group-title="Airtel | Movies", MNX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=mnx
-#EXTINF:-1 tvg-id="mnx" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65a0462994ec8e00c48d19c3/images/LANDSCAPE_169/LANDSCAPE_169_PDye_Z5Fz_MNX_264x144.webp" group-title="Airtel | Movies",MNX
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=mnx
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"OsqJnmGSx5Xt9pLYFyWnlw", "kid":"kZyVicnuM2+InyoKS_E9jw" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media3/mnx/ndashd/mnx.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1" tvg-name="SONY SPORTS TEN 1" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a125986346a8f0e23b/images/SONY-SPORTS-TEN-1_264x144.webp" group-title="Airtel | Sports", SONY SPORTS TEN 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=sony-sports-ten-1
-#EXTINF:-1 tvg-id="sony-sports-ten-1" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a125986346a8f0e23b/images/SONY-SPORTS-TEN-1_264x144.webp" group-title="Airtel | Sports",SONY SPORTS TEN 1
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=sony-sports-ten-1
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"7LiPAOUPZDMxI8eKR+p10A", "kid":"bnlM7DO+NG20VEGEwLZ9xg" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media13/sony_sports_ten_1/ndashd/sony_sports_ten_1.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2" tvg-name="SONY SPORTS TEN 2" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b43/images/385221101.webp" group-title="Airtel | Sports", SONY SPORTS TEN 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=sony-sports-ten-2
-#EXTINF:-1 tvg-id="sony-sports-ten-2" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b43/images/385221101.webp" group-title="Airtel | Sports",SONY SPORTS TEN 2
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=sony-sports-ten-2
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"jAD2xTfkuHuvXWp9yYLkCQ", "kid":"N5A0RBI1N3ibSSX3niG21w" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media13/sony_sports_ten_2/ndashd/sony_sports_ten_2.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_3" tvg-name="SONY SPORTS TEN 3" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b44/images/386221101.webp" group-title="Airtel | Sports", SONY SPORTS TEN 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=sony-sports-ten-3
-#EXTINF:-1 tvg-id="sony-sports-ten-3" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b44/images/386221101.webp" group-title="Airtel | Sports",SONY SPORTS TEN 3
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=sony-sports-ten-3
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"uyyZ12Txe3COfN1YeFNbTg", "kid":"7C0pjMWUPb+y_Rt11UxMmg" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media13/sony_sports_ten_3/ndashd/sony_sports_ten_3.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5" tvg-name="SONY SPORTS TEN 5" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a1c5625a16ee72e8ff/images/449221101.webp" group-title="Airtel | Sports", SONY SPORTS TEN 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=sony-sports-ten-5
-#EXTINF:-1 tvg-id="sony-sports-ten-5" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a1c5625a16ee72e8ff/images/449221101.webp" group-title="Airtel | Sports",SONY SPORTS TEN 5
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=sony-sports-ten-5
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"_iDkeNcdZ8JIxng3tGkhGA", "kid":"qgzEgKMWN7yoe87Vo848dQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media4/sony_sports_ten_5/ndashd/sony_sports_ten_5.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_SPORTS" tvg-name="DD Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610ee83bf8d2567aaca6a/images/667.webp" group-title="Airtel | Sports", DD Sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=dd-sports
-#EXTINF:-1 tvg-id="dd-sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610ee83bf8d2567aaca6a/images/667.webp" group-title="Airtel | Sports",DD Sports
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=dd-sports
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"KVJ5A6AUyxvcYqHLSGiH7g", "kid":"hDLw0wy4NAyet4I+oOUBqA" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media1/dd_sports/ndashd/dd_sports.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_EUROSPORT" tvg-name="Eurosport" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bfe21d2c0e2cbafc1adb/images/19.webp" group-title="Airtel | Sports", Eurosport
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=eurosport
-#EXTINF:-1 tvg-id="eurosport" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bfe21d2c0e2cbafc1adb/images/19.webp" group-title="Airtel | Sports",Eurosport
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=eurosport
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"7Qntem0UgCbloFVfPjJjCg", "kid":"0p+cwlkoM6uDUi_6Azq3Hw" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media11/eurosport/ndashd/eurosport.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ABP_NEWS" tvg-name="ABP News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eedd033abf53d08e53f8/images/LANDSCAPE_169/LANDSCAPE_169_t9XCpWn0A_ABP-NEWS-LOGO_264x144.webp" group-title="Airtel | News", ABP News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=abp-news
-#EXTINF:-1 tvg-id="abp-news" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eedd033abf53d08e53f8/images/LANDSCAPE_169/LANDSCAPE_169_t9XCpWn0A_ABP-NEWS-LOGO_264x144.webp" group-title="Airtel | News",ABP News
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=abp-news
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"MxGrHKbk34s_1wkxkPr_uw", "kid":"+PRKTyhTNIS6ljYte9Xpbw" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media14/abp_news/ndashd/abp_news.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_AAJ_TAK" tvg-name="Aaj Tak" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eec8fe0772265fedb972/images/566.webp" group-title="Airtel | News", Aaj Tak
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=aaj-tak
-#EXTINF:-1 tvg-id="aaj-tak" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eec8fe0772265fedb972/images/566.webp" group-title="Airtel | News",Aaj Tak
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=aaj-tak
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"dBufPT+n_eBbGfKnnykzGA", "kid":"IidO4Ah7M7ipJcdGPHku_w" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media1/aaj_tak/ndashd/aaj_tak.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_INDIA_TV" tvg-name="India TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bff251545a0652105dfd/images/546.webp" group-title="Airtel | News", India TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=india-tv
-#EXTINF:-1 tvg-id="india-tv" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bff251545a0652105dfd/images/546.webp" group-title="Airtel | News",India TV
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=india-tv
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"vZSuR6qo6YgMX5XosywDMA", "kid":"wQxi_Pr9P_GJ74VIC5x5iA" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media1/india_tv/ndashd/india_tv.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_R_BHARAT" tvg-name="R Bharat" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978cea9540e6b3ede3fb6/images/8.webp" group-title="Airtel | News", R Bharat
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=r-bharat
-#EXTINF:-1 tvg-id="r-bharat" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978cea9540e6b3ede3fb6/images/8.webp" group-title="Airtel | News",R Bharat
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=r-bharat
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"t3heTdRhvLsFYEQj1K3QJA", "kid":"p8Q6L0EEOnWLG70d_ctckA" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media14/r_bharat/ndashd/r_bharat.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_NDTV_INDIA" tvg-name="NDTV India" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bff4885fc401d48ff794/images/304.webp" group-title="Airtel | News", NDTV India
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=ndtv-india
-#EXTINF:-1 tvg-id="ndtv-india" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bff4885fc401d48ff794/images/304.webp" group-title="Airtel | News",NDTV India
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=ndtv-india
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"iwnXVLJE_BWA4AEVvCpjrg", "kid":"8zbRwib2MIeGuHBnaHzGDg" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media3/ndtv_india/ndashd/ndtv_india.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=tv9-bharatvarsh
-#EXTINF:-1 tvg-id="tv9-bharatvarsh" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978cbc5625a16ee72ec36/images/420.webp" group-title="Airtel | News",TV9 Bharatvarsh
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=tv9-bharatvarsh
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_TV9_BHARATVARSH" tvg-name="TV9 Bharatvarsh" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978cbc5625a16ee72ec36/images/420.webp" group-title="Airtel | News", TV9 Bharatvarsh
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://vg-tv9live.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-320325/main.m3u8?ads.partner=airtel
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_NEWS_NATION" tvg-name="News Nation" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6579788f8d36cd1598f95f1f/images/577.webp" group-title="Airtel | News", News Nation
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=news-nation
-#EXTINF:-1 tvg-id="news-nation" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6579788f8d36cd1598f95f1f/images/577.webp" group-title="Airtel | News",News Nation
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=news-nation
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"t9gjCyxOUY+wqOACF3ZWBA", "kid":"bk5+qa2cOxKOvS59rIPvRw" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media3/news_nation/ndashd/news_nation.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_GOOD_NEWS_TODAY" tvg-name="Good News Today" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bfeb23d1fb238115e252/images/618.webp" group-title="Airtel | News", Good News Today
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=good-news-today
-#EXTINF:-1 tvg-id="good-news-today" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bfeb23d1fb238115e252/images/618.webp" group-title="Airtel | News",Good News Today
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=good-news-today
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"g7LejbVmGZlhXVgisdE0Rg", "kid":"hFR4hRZyOdiCWgEsjxmW2Q" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media2/good_news_today/ndashd/good_news_today.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_TIMES_NOW_NAVBHARAT" tvg-name="Times Now Navbharat" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978c1c5625a16ee72eb49/images/818220423.webp" group-title="Airtel | News", Times Now Navbharat
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=times-now-navbharat
-#EXTINF:-1 tvg-id="times-now-navbharat" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978c1c5625a16ee72eb49/images/818220423.webp" group-title="Airtel | News",Times Now Navbharat
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=times-now-navbharat
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"eondFLiZWfYzs4W9X8_WyA", "kid":"Kq3sBekJNmqkhwJnuFCu5Q" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media14/times_now_navbharat/ndashd/times_now_navbharat.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_NEWS24" tvg-name="News24" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a59d8fb452ad919b7e/images/556.webp" group-title="Airtel | News", News24
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=news24
-#EXTINF:-1 tvg-id="news24" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a59d8fb452ad919b7e/images/556.webp" group-title="Airtel | News",News24
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=news24
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"kj7Lw7Dq1jn752q8xWVy0g", "kid":"HNRUJQNrMJ2x6XJNpzy+4A" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media3/news24/ndashd/news24.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ET_NOW_SWADESH" tvg-name="ET NOW SWADESH" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65761110e533e2124e759923/images/813.webp" group-title="Airtel | News", ET NOW SWADESH
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=et-now-swadesh
-#EXTINF:-1 tvg-id="et-now-swadesh" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65761110e533e2124e759923/images/813.webp" group-title="Airtel | News",ET NOW SWADESH
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=et-now-swadesh
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"N2QVG+ETAj7I_mKuKXz0ZQ", "kid":"mGFPEz30NKqFBzorp8YcAw" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media13/et_now_swadesh/ndashd/et_now_swadesh.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_NEWS" tvg-name="DD News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610ed83bf8d2567aaca69/images/447.webp" group-title="Airtel | News", DD News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=dd-news
-#EXTINF:-1 tvg-id="dd-news" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610ed83bf8d2567aaca69/images/447.webp" group-title="Airtel | News",DD News
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=dd-news
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"8G7_S83zwh6XE4rHYfgoDg", "kid":"6AVOG2NhOEG8bVXrmccpKg" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media1/dd_news/ndashd/dd_news.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_TIMES_NOW" tvg-name="TIMES NOW" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657979ba9d8fb452ad91a99f/images/63.webp" group-title="Airtel | News", TIMES NOW
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=times-now
-#EXTINF:-1 tvg-id="times-now" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657979ba9d8fb452ad91a99f/images/63.webp" group-title="Airtel | News",TIMES NOW
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=times-now
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"1QKLNispvE1emyxZ6XDx3A", "kid":"aiZ0vtTmNlesskEdhi45dA" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media4/times_now/ndashd/times_now.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_NDTV_24X7" tvg-name="NDTV 24x7" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572ef92033abf53d08e5c5c/images/623.webp" group-title="Airtel | News", NDTV 24x7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=ndtv-24x7
-#EXTINF:-1 tvg-id="ndtv-24x7" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572ef92033abf53d08e5c5c/images/623.webp" group-title="Airtel | News",NDTV 24x7
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=ndtv-24x7
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"LGReDj3xHoo6t0k6YiuEVQ", "kid":"UYOVTsX5PZSQOPnG7lpwqQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media3/ndtv_24x7/ndashd/ndtv_24x7.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_INDIA_TODAY" tvg-name="INDIA TODAY" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574c019ebd2ee1bebbf9ca6/images/487.webp" group-title="Airtel | News", INDIA TODAY
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=india-today
-#EXTINF:-1 tvg-id="india-today" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574c019ebd2ee1bebbf9ca6/images/487.webp" group-title="Airtel | News",INDIA TODAY
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=india-today
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"4tyRG3YXxGV6AegpNn15Cw", "kid":"IvKxFspWPvKz8dNwoWqciQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media2/india_today/ndashd/india_today.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_MIRROR_NOW" tvg-name="MIRROR NOW" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bff751545a0652105e7d/images/482.webp" group-title="Airtel | News", MIRROR NOW
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=mirror-now
-#EXTINF:-1 tvg-id="mirror-now" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bff751545a0652105e7d/images/482.webp" group-title="Airtel | News",MIRROR NOW
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=mirror-now
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"47njzPB+VbtBECr4VqYckw", "kid":"LaWPnYBSNgaUCeFMK_HNqQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media2/mirror_now/ndashd/mirror_now.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ET_NOW" tvg-name="ET Now" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65761110e533e2124e75991e/images/613.webp" group-title="Airtel | News", ET Now
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=et-now
-#EXTINF:-1 tvg-id="et-now" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65761110e533e2124e75991e/images/613.webp" group-title="Airtel | News",ET Now
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=et-now
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"+lXez2DhLi1K8kG13P0HDg", "kid":"fepH1ws_NvCS7qzNeS9IxQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media2/et_now/ndashd/et_now.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_NDTV_PROFIT_PRIME" tvg-name="NDTV Profit Prime" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574c00debd2ee1bebbf9c52/images/157.webp" group-title="Airtel | News", NDTV Profit Prime
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=ndtv-profit-prime
-#EXTINF:-1 tvg-id="ndtv-profit-prime" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574c00debd2ee1bebbf9c52/images/157.webp" group-title="Airtel | News",NDTV Profit Prime
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=ndtv-profit-prime
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"2mRSSoCy5UcJMYhYVcMyFw", "kid":"Ul6CYXyzNaWf_DeS_hh9CA" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media3/ndtv_profit_prime/ndashd/ndtv_profit_prime.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL" tvg-name="CNN International" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6576112751545a065210815b/images/232.webp" group-title="Airtel | News", CNN International
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=cnn-international
-#EXTINF:-1 tvg-id="cnn-international" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6576112751545a065210815b/images/232.webp" group-title="Airtel | News",CNN International
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=cnn-international
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"jh9E6J6fIIUCWusXEpIj1w", "kid":"vQ+DK6FNPZ6GTdBnwoIUDQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media14/cnn_international/ndashd/cnn_international.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_BBC_NEWS" tvg-name="BBC News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e883bf8d2567aaca21/images/172230519.webp" group-title="Airtel | News", BBC News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=bbc-news
-#EXTINF:-1 tvg-id="bbc-news" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e883bf8d2567aaca21/images/172230519.webp" group-title="Airtel | News",BBC News
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=bbc-news
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"UPjqCohR3vS7WJ7AJgShmw", "kid":"NZeq5nurMFCCZuvwhPQBBg" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media2/bbc_news/ndashd/bbc_news.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_TLC" tvg-name="TLC" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978ab25986346a8f0e2f1/images/275.webp" group-title="Airtel | Lifestyle", TLC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=tlc
-#EXTINF:-1 tvg-id="tlc" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978ab25986346a8f0e2f1/images/275.webp" group-title="Airtel | Lifestyle",TLC
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=tlc
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"CmlzB7QIqKvnRgqIQHOY9g", "kid":"86+rk8poNLKcRmwzEqWOuQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media4/tlc/ndashd/tlc.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_GOOD_TIMES" tvg-name="GOOD TiMES" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bfe21d2c0e2cbafc1adf/images/468.webp" group-title="Airtel | Lifestyle", GOOD TiMES
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=good-times
-#EXTINF:-1 tvg-id="good-times" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bfe21d2c0e2cbafc1adf/images/468.webp" group-title="Airtel | Lifestyle",GOOD TiMES
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=good-times
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"W5_OHIQ9p71RnPD7edYWdg", "kid":"hIdQAS+cO96CeZ+WsHphYQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media2/good_times/ndashd/good_times.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_TRAVELXP" tvg-name="Travelxp" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978c3c5625a16ee72eb73/images/412.webp" group-title="Airtel | Infotainment", Travelxp
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=travelxp
-#EXTINF:-1 tvg-id="travelxp" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978c3c5625a16ee72eb73/images/412.webp" group-title="Airtel | Infotainment",Travelxp
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=travelxp
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"ZCKXFPsHz5bFIhU2+mfK9Q", "kid":"cz5TaDq0Pbipoo0+XFxjQg" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media4/travelxp/ndashd/travelxp.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DISCOVERY_CHANNEL" tvg-name="Discovery Channel" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65761105e533e2124e759846/images/313.webp" group-title="Airtel | Documentary", Discovery Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=discovery-channel
-#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65761105e533e2124e759846/images/313.webp" group-title="Airtel | Documentary",Discovery Channel
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=discovery-channel
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"uMduwGGHj+KkqAGQelFReQ", "kid":"l+3qKnw3Nz6BDQP2RBx7LA" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media1/discovery_channel/ndashd/discovery_channel.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ANIMAL_PLANET" tvg-name="Animal Planet" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e283bf8d2567aac9d7/images/262.webp" group-title="Airtel | Infotainment", Animal Planet
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=animal-planet
-#EXTINF:-1 tvg-id="animal-planet" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e283bf8d2567aac9d7/images/262.webp" group-title="Airtel | Infotainment",Animal Planet
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=animal-planet
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"8gYWpsEpKr7Sumw6r8YVQA", "kid":"GCaic0buNUa2i2XPNp1hcQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media1/animal_planet/ndashd/animal_planet.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DISCOVERY_SCIENCE" tvg-name="Discovery Science" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65761111a3b7866cb8414d76/images/110.webp" group-title="Airtel | Documentary", Discovery Science
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=discovery-science
-#EXTINF:-1 tvg-id="discovery-science" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65761111a3b7866cb8414d76/images/110.webp" group-title="Airtel | Documentary",Discovery Science
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=discovery-science
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"jfP2Rtc3jaxHqnCwQf45mQ", "kid":"IkFEOhO0OdWnQae9aRWzVA" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media13/discovery_science/ndashd/discovery_science.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO" tvg-name="Discovery Turbo" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e623d1fb238115f8b3/images/303.webp" group-title="Airtel | Infotainment", Discovery Turbo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=discovery-turbo
-#EXTINF:-1 tvg-id="discovery-turbo" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e623d1fb238115f8b3/images/303.webp" group-title="Airtel | Infotainment",Discovery Turbo
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=discovery-turbo
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"S02bVKiqCGltSVnbgOPmpw", "kid":"vhyplLwkOp+5l8txkyySaQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media14/discovery_turbo/ndashd/discovery_turbo.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_BBC_EARTH" tvg-name="Sony BBC earth" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f5e6033abf53d08e9e78/images/163221101.webp" group-title="Airtel | Documentary", Sony BBC earth
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=sony-bbc-earth
-#EXTINF:-1 tvg-id="sony-bbc-earth" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f5e6033abf53d08e9e78/images/163221101.webp" group-title="Airtel | Documentary",Sony BBC earth
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=sony-bbc-earth
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"iuYnwIO5kgf4IhrCr8wyQw", "kid":"Cq2igbSgNJ2q07h769mkCg" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media13/sony_bbc_earth/ndashd/sony_bbc_earth.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SANSAD_TV" tvg-name="SANSAD TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736e891cd2bb19dca31199/images/384.webp" group-title="Airtel | Infotainment", SANSAD TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=sansad-tv
-#EXTINF:-1 tvg-id="sansad-tv" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736e891cd2bb19dca31199/images/384.webp" group-title="Airtel | Infotainment",SANSAD TV
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=sansad-tv
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"EmiPCRNp2r7E4gM4xVkL_g", "kid":"+HCV1b4INEaHHHJkdWQckA" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media14/sansad_tv/ndashd/sansad_tv.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_GYANDARSHAN" tvg-name="Gyandarshan" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bfeb23d1fb238115e255/images/132.webp" group-title="Airtel | Educational", Gyandarshan
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=gyandarshan
-#EXTINF:-1 tvg-id="gyandarshan" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bfeb23d1fb238115e255/images/132.webp" group-title="Airtel | Educational",Gyandarshan
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=gyandarshan
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"CezcXjZmOLy6u15a6ueOYg", "kid":"IeQvMuy+Mc+NcE9SPLt4eg" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media10/gyandarshan/ndashd/gyandarshan.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_CARTOON_NETWORK" tvg-name="Cartoon Network" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572ef03dc5dfc4403f7a33c/images/594.webp" group-title="Airtel | Kids", Cartoon Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=cartoon-network
-#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572ef03dc5dfc4403f7a33c/images/594.webp" group-title="Airtel | Kids",Cartoon Network
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=cartoon-network
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"Hw7i9K+FnPXef5j+D5bwdQ", "kid":"vvdajJHiOAidF6q_ijL82A" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media3/cartoon_network/ndashd/cartoon_network.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_POGO" tvg-name="Pogo" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a69d8fb452ad919b83/images/494.webp" group-title="Airtel | Kids", Pogo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=pogo
-#EXTINF:-1 tvg-id="pogo" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a69d8fb452ad919b83/images/494.webp" group-title="Airtel | Kids",Pogo
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=pogo
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"fRZAvOQSsI8gtxoiJuVgng", "kid":"YOPbW2kgPG6IK1Lpdntfdg" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media4/pogo/ndashd/pogo.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DISCOVERY_KIDS" tvg-name="Discovery Kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e623d1fb238115f8b8/images/169.webp" group-title="Airtel | Kids", Discovery Kids
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=discovery-kids
-#EXTINF:-1 tvg-id="discovery-kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e623d1fb238115f8b8/images/169.webp" group-title="Airtel | Kids",Discovery Kids
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=discovery-kids
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"E_AjzXFz2pYj5BSTRnBGww", "kid":"PuxKGob1MgKzP6NoulZIHQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media1/discovery_kids/ndashd/discovery_kids.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_CBEEBIES" tvg-name="CBeebies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f29d033abf53d08e7c80/images/739.webp" group-title="Airtel | Kids", CBeebies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=cbeebies
-#EXTINF:-1 tvg-id="cbeebies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f29d033abf53d08e7c80/images/739.webp" group-title="Airtel | Kids",CBeebies
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=cbeebies
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"qLzNha6myjir4qWxxYzA6Q", "kid":"CYWY4qc9MzGTeQgubjYuhw" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media13/cbeebies/ndashd/cbeebies.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_GUBBARE" tvg-name="Gubbare" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bff483bf8d2567aab4d1/images/770.webp" group-title="Airtel | Kids", Gubbare
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=gubbare
-#EXTINF:-1 tvg-id="gubbare" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bff483bf8d2567aab4d1/images/770.webp" group-title="Airtel | Kids",Gubbare
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=gubbare
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"aio3GIyYxIaXNthcKZUrBw", "kid":"zeM3m_YdMjyh1g+MFMTQ0w" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media14/gubbare/ndashd/gubbare.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_YAY" tvg-name="Sony Yay" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978bbac7f66229607b5db/images/189221101.webp" group-title="Airtel | Kids", Sony Yay
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=sony-yay
-#EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978bbac7f66229607b5db/images/189221101.webp" group-title="Airtel | Kids",Sony Yay
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=sony-yay
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"i9ZMOlpcpZ73wlya3EDmSA", "kid":"vqZg1kkNMNiiG2nbZzDjIg" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media11/sony_yay/ndashd/sony_yay.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_B4U_MUSIC" tvg-name="B4U Music" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610f151545a0652107a65/images/527.webp" group-title="Airtel | Music", B4U Music
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=b4u-music
-#EXTINF:-1 tvg-id="b4u-music" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610f151545a0652107a65/images/527.webp" group-title="Airtel | Music",B4U Music
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=b4u-music
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"a_3cO1DW14J0j1pxhDVtpA", "kid":"f+S0ucG8Pd6kCinJaqVsNw" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media4/b4u_music/ndashd/b4u_music.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_MASTIII" tvg-name="Mastiii" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574c034e533e2124e758025/images/400.webp" group-title="Airtel | Music", Mastiii
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=mastiii
-#EXTINF:-1 tvg-id="mastiii" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574c034e533e2124e758025/images/400.webp" group-title="Airtel | Music",Mastiii
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=mastiii
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"Ldiy_g7Jduzy10wfsyJVjw", "kid":"W7iibLDtNXmPVJEOHPBDMw" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media2/mastiii/ndashd/mastiii.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SHOWBOX" tvg-name="Showbox" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978af9b315d22c1f80b77/images/565.webp" group-title="Airtel | Music", Showbox
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=showbox
-#EXTINF:-1 tvg-id="showbox" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978af9b315d22c1f80b77/images/565.webp" group-title="Airtel | Music",Showbox
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=showbox
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"XTVGW9B3+b0ArgC15RcZDA", "kid":"MzB8jq+VOmCdcGCtlvDyhA" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media14/showbox/ndashd/showbox.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZOOM" tvg-name="Zoom" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6579794e25986346a8f0edcf/images/51.webp" group-title="Airtel | Music", Zoom
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=zoom
-#EXTINF:-1 tvg-id="zoom" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6579794e25986346a8f0edcf/images/51.webp" group-title="Airtel | Music",Zoom
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=zoom
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"05gEnocJCrLy39c3OIPmxw", "kid":"JOqbErYRMjaudFvdQXxqSQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media3/zoom/ndashd/zoom.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_MARATHI" tvg-name="Sony Marathi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978e36cbc4372820a5a9c/images/351221101.webp" group-title="Airtel | Entertainment", Sony Marathi
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=sony-marathi
-#EXTINF:-1 tvg-id="sony-marathi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978e36cbc4372820a5a9c/images/351221101.webp" group-title="Airtel | Entertainment",Sony Marathi
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=sony-marathi
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"lILCzh6X8bL2gUhB5q_MMg", "kid":"KP17sZuUMGCEifSORjhVXg" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media14/sony_marathi/ndashd/sony_marathi.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_FAKT_MARATHI" tvg-name="Fakt Marathi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f968fe0772265fee2883/images/295.webp" group-title="Airtel | Movies", Fakt Marathi
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=fakt-marathi
-#EXTINF:-1 tvg-id="fakt-marathi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f968fe0772265fee2883/images/295.webp" group-title="Airtel | Movies",Fakt Marathi
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=fakt-marathi
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"Y+dPORpVTIY2QgMaUs3cvQ", "kid":"l8Aqw3TaPViOv2lO6cKawA" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media2/fakt_marathi/ndashd/fakt_marathi.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ABP_MAJHA" tvg-name="ABP Majha" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f15cfe0772265fedd308/images/615.webp" group-title="Airtel | News", ABP Majha
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=abp-majha
-#EXTINF:-1 tvg-id="abp-majha" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f15cfe0772265fedd308/images/615.webp" group-title="Airtel | News",ABP Majha
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=abp-majha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"2m_OlBDWlzJhgXBITWE7gQ", "kid":"vSQNXy67MNGZQ4gBB0fNEA" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media1/abp_majha/ndashd/abp_majha.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SAAM_TV" tvg-name="Saam TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978d211ea19309d4c5be8/images/38.webp" group-title="Airtel | News", Saam TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=saam-tv
-#EXTINF:-1 tvg-id="saam-tv" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978d211ea19309d4c5be8/images/38.webp" group-title="Airtel | News",Saam TV
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=saam-tv
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"DDBA8ZLeD3O8bpvpHdRbsg", "kid":"Z4VTNwWIPAKCp3zYrM_XwQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media3/saam_tv/ndashd/saam_tv.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=tv9-marathi
-#EXTINF:-1 tvg-id="tv9-marathi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bff023d1fb238115e320/images/533.webp" group-title="Airtel | News",TV9 Marathi
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=tv9-marathi
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_TV9_MARATHI" tvg-name="TV9 Marathi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bff023d1fb238115e320/images/533.webp" group-title="Airtel | News", TV9 Marathi
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://vg-tv9live.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-865266/main.m3u8?ads.partner=airtel
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_SAHYADRI" tvg-name="DD Sahyadri" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657611a9e533e2124e75aae4/images/292.webp" group-title="Airtel | Infotainment", DD Sahyadri
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=dd-sahyadri
-#EXTINF:-1 tvg-id="dd-sahyadri" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657611a9e533e2124e75aae4/images/292.webp" group-title="Airtel | Infotainment",DD Sahyadri
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=dd-sahyadri
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"nyYpxBhQ6Ob+kKu3FX_8iQ", "kid":"j+6O51jWOey6OD8gf_JR8A" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media10/dd_sahyadri/ndashd/dd_sahyadri.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_PTC_PUNJABI" tvg-name="PTC Punjabi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978979383dc75068840db/images/231.webp" group-title="Airtel | Devotional", PTC Punjabi
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=ptc-punjabi
-#EXTINF:-1 tvg-id="ptc-punjabi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978979383dc75068840db/images/231.webp" group-title="Airtel | Devotional",PTC Punjabi
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=ptc-punjabi
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"obAl1U3TNO2psmZFOFHzqA", "kid":"x4ifeKIKPP6UrhMCxYCPdQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media1/ptc_punjabi/ndashd/ptc_punjabi.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_PITAARA" tvg-name="Pitaara" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736f0c1cd2bb19dca31753/images/280.webp" group-title="Airtel | Movies", Pitaara
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=pitaara
-#EXTINF:-1 tvg-id="pitaara" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736f0c1cd2bb19dca31753/images/280.webp" group-title="Airtel | Movies",Pitaara
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=pitaara
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"UMKpZlzU2sKtWPnMp4FTGQ", "kid":"pPVXJSgoMMadS0nwvQlBHw" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media14/pitaara/ndashd/pitaara.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_PTC_SIMRAN" tvg-name="PTC Simran" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f5c9033abf53d08e9d33/images/506.webp" group-title="Airtel | Devotional", PTC Simran
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=ptc-simran
-#EXTINF:-1 tvg-id="ptc-simran" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f5c9033abf53d08e9d33/images/506.webp" group-title="Airtel | Devotional",PTC Simran
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=ptc-simran
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"HbLXoMKCfUYZMyMB_zBk1w", "kid":"tP_6E3etOPOP2CKTpDj3Gw" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media14/ptc_simran/ndashd/ptc_simran.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_MH1" tvg-name="MH1" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574c00ef03c4100b4b695bc/images/360.webp" group-title="Airtel | Music", MH1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=mh1
-#EXTINF:-1 tvg-id="mh1" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574c00ef03c4100b4b695bc/images/360.webp" group-title="Airtel | Music",MH1
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=mh1
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"Z0cjX3n6ib6+9psj6mQLhg", "kid":"eRaLQUWeP8eIH3Y6NrpoBQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media2/mh1/ndashd/mh1.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_PUNJABI" tvg-name="DD Punjabi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610ec23d1fb238115f940/images/12.webp" group-title="Airtel | Infotainment", DD Punjabi
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=dd-punjabi
-#EXTINF:-1 tvg-id="dd-punjabi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610ec23d1fb238115f940/images/12.webp" group-title="Airtel | Infotainment",DD Punjabi
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=dd-punjabi
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"ZhMELjWEfDk3hTQJfWCGQg", "kid":"x9Rw_XorO1SWdg8PXQiz5w" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media1/dd_punjabi/ndashd/dd_punjabi.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=tv9-gujarati
-#EXTINF:-1 tvg-id="tv9-gujarati" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978cd11ea19309d4c5bc0/images/284.webp" group-title="Airtel | News",TV9 Gujarati
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=tv9-gujarati
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_TV9_GUJARATI" tvg-name="TV9 Gujarati" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978cd11ea19309d4c5bc0/images/284.webp" group-title="Airtel | News", TV9 Gujarati
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://vg-tv9live.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-365783/main.m3u8?ads.partner=airtel
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ABP_ASMITA" tvg-name="ABP Asmita" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eedd033abf53d08e53ee/images/287.webp" group-title="Airtel | News", ABP Asmita
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=abp-asmita
-#EXTINF:-1 tvg-id="abp-asmita" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eedd033abf53d08e53ee/images/287.webp" group-title="Airtel | News",ABP Asmita
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=abp-asmita
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"dZCLpLFPRTHwluX2_UwAFA", "kid":"LxZ2NzqiMAeE2rRBn89I3w" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media14/abp_asmita/ndashd/abp_asmita.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_GIRNAR" tvg-name="DD Girnar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610ec23d1fb238115f939/images/78.webp" group-title="Airtel | Infotainment", DD Girnar
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=dd-girnar
-#EXTINF:-1 tvg-id="dd-girnar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610ec23d1fb238115f939/images/78.webp" group-title="Airtel | Infotainment",DD Girnar
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=dd-girnar
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"TbBJfCTg_p_3s+MFpd45Pg", "kid":"DoR03aODN4uAreZtQcdM7Q" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media10/dd_girnar/ndashd/dd_girnar.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_TARANG" tvg-name="Tarang" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736ea2ded97660c182a72d/images/443.webp" group-title="Airtel | Entertainment", Tarang
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=tarang
-#EXTINF:-1 tvg-id="tarang" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736ea2ded97660c182a72d/images/443.webp" group-title="Airtel | Entertainment",Tarang
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=tarang
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"VigDAKk6GMEwQqJPBMVC2Q", "kid":"KbE9dgrRPQir7wfnaSK4iQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media2/tarang_tv/ndashd/tarang_tv.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_PRARTHANA_TV" tvg-name="Prarthana TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f369033abf53d08e8453/images/290.webp" group-title="Airtel | Entertainment", Prarthana TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=prarthana-tv
-#EXTINF:-1 tvg-id="prarthana-tv" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f369033abf53d08e8453/images/290.webp" group-title="Airtel | Entertainment",Prarthana TV
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=prarthana-tv
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"v15afR76pR99eSvPI6WIYg", "kid":"cxLbsvy3MAmZwtTyQPsIvQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media2/prarthana_tv/ndashd/prarthana_tv.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SIDHARTH_TV" tvg-name="SIDHARTH TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f0f7033abf53d08e6a9d/images/839.webp" group-title="Airtel | Entertainment", SIDHARTH TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=sidharth-tv
-#EXTINF:-1 tvg-id="sidharth-tv" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f0f7033abf53d08e6a9d/images/839.webp" group-title="Airtel | Entertainment",SIDHARTH TV
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=sidharth-tv
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"_TTaASY8XSlJohTOrGkm8A", "kid":"YVznjCszMquyrTeHA+_Dtw" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media14/sidharth_tv/ndashd/sidharth_tv.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ALANKAR" tvg-name="Alankar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610f623d1fb238115faff/images/46.webp" group-title="Airtel | Entertainment", Alankar
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=alankar
-#EXTINF:-1 tvg-id="alankar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610f623d1fb238115faff/images/46.webp" group-title="Airtel | Entertainment",Alankar
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=alankar
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"lxSn3BkHZkpr830oaljD5w", "kid":"h1NEpgnDOOWXzeAi2FlOXQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media14/alankar/ndashd/alankar.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SIDHARTH_GOLD" tvg-name="SIDHARTH GOLD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f11e033abf53d08e6c8e/images/841.webp" group-title="Airtel | Music", SIDHARTH GOLD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=sidharth-gold
-#EXTINF:-1 tvg-id="sidharth-gold" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f11e033abf53d08e6c8e/images/841.webp" group-title="Airtel | Music",SIDHARTH GOLD
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=sidharth-gold
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"tEsZ4vBkhVlePd6n6yaY8g", "kid":"1AErSrrKMIOcqISQP_7dIA" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media14/sidharth_gold/ndashd/sidharth_gold.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_OTV" tvg-name="OTV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657764159f7e407f8ff23c00/images/319.webp" group-title="Airtel | News", OTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=otv
-#EXTINF:-1 tvg-id="otv" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657764159f7e407f8ff23c00/images/319.webp" group-title="Airtel | News",OTV
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=otv
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"rrNhBWoTlONDxJxIYAcrCA", "kid":"9Ab__qnWMQqbi9qQAe57uA" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media1/otv/ndashd/otv.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_TARANG_MUSIC" tvg-name="Tarang Music" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736e9dded97660c182a613/images/636.webp" group-title="Airtel | Music", Tarang Music
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=tarang-music
-#EXTINF:-1 tvg-id="tarang-music" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736e9dded97660c182a613/images/636.webp" group-title="Airtel | Music",Tarang Music
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=tarang-music
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"_jtQwmSXpEmQdeSDgA556w", "kid":"oMXxgylCM_OAyR+b+vwMLw" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media4/tarang_music/ndashd/tarang_music.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_JAY_JAGANNATH" tvg-name="Jay JAGANNATH" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736e950230904c4f276017/images/928.webp" group-title="Airtel | Religious", Jay JAGANNATH
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=jay-jagannath
-#EXTINF:-1 tvg-id="jay-jagannath" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736e950230904c4f276017/images/928.webp" group-title="Airtel | Religious",Jay JAGANNATH
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=jay-jagannath
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"J3hy6ASLVI2k4SvnjQeNVQ", "kid":"qxiPCz0VMuaqp5jIadX9IQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media13/jay_jagannath/ndashd/jay_jagannath.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SIDHARTH_BHAKTI" tvg-name="SIDHARTH BHAKTI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f12cdc5dfc4403f7bbea/images/840.webp" group-title="Airtel | Religious", SIDHARTH BHAKTI
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=sidharth-bhakti
-#EXTINF:-1 tvg-id="sidharth-bhakti" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f12cdc5dfc4403f7bbea/images/840.webp" group-title="Airtel | Religious",SIDHARTH BHAKTI
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=sidharth-bhakti
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"_hA_BO5T+Ovb5ec+bw1ixw", "kid":"osel1pVJOTKApWw9MFbXTg" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media14/sidharth_bhakti/ndashd/sidharth_bhakti.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_ORIYA" tvg-name="DD Oriya" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610f961da8470744738e7/images/155.webp" group-title="Airtel | Entertainment", DD Oriya
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=dd-oriya
-#EXTINF:-1 tvg-id="dd-oriya" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610f961da8470744738e7/images/155.webp" group-title="Airtel | Entertainment",DD Oriya
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=dd-oriya
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"4KsWxIFnW6MMZqDUsyP_VA", "kid":"mnyNgzO_MqilRHShe1BOhw" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media1/dd_oriya/ndashd/dd_oriya.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_URDU" tvg-name="DD Urdu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e623d1fb238115f8af/images/466.webp" group-title="Airtel | Infotainment", DD Urdu
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=dd-urdu
-#EXTINF:-1 tvg-id="dd-urdu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e623d1fb238115f8af/images/466.webp" group-title="Airtel | Infotainment",DD Urdu
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=dd-urdu
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"khPWw+k5brYYVBLRXBytgg", "kid":"RpDCFEI+PLel9fytF9f2cw" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media1/dd_urdu/ndashd/dd_urdu.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_KASHIR" tvg-name="DD Kashir" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610f961da8470744738e6/images/273.webp" group-title="Airtel | Entertainment", DD Kashir
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=dd-kashir
-#EXTINF:-1 tvg-id="dd-kashir" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610f961da8470744738e6/images/273.webp" group-title="Airtel | Entertainment",DD Kashir
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=dd-kashir
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"MhORLpTX2MyieOnlkgL0jQ", "kid":"+0gFj7wdO7a9er07_kqRYg" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media10/dd_kashir/ndashd/dd_kashir.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_RENGONI_TV" tvg-name="Rengoni TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bffd1d2c0e2cbafc1d91/images/242.webp" group-title="Airtel | Entertainment", Rengoni TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=rengoni-tv
-#EXTINF:-1 tvg-id="rengoni-tv" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bffd1d2c0e2cbafc1d91/images/242.webp" group-title="Airtel | Entertainment",Rengoni TV
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=rengoni-tv
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"quCUqyX2Le2x_ZsuPeE92g", "kid":"WtG0G7qXPtKoMO_Lb_SpBQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media3/rengoni_tv/ndashd/rengoni_tv.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_IMPHAL" tvg-name="DD Imphal" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610ec23d1fb238115f93b/images/23.webp" group-title="Airtel | Entertainment", DD Imphal
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=dd-imphal
-#EXTINF:-1 tvg-id="dd-imphal" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610ec23d1fb238115f93b/images/23.webp" group-title="Airtel | Entertainment",DD Imphal
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=dd-imphal
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"5nsus0CzcTAFMYxtF2pvZg", "kid":"_GijHr2hNAOFjA8I+GbrXw" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media10/dd_imphal/ndashd/dd_imphal.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_NORTH_EAST" tvg-name="DD North East" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6576110f6886c012a8aa2950/images/LANDSCAPE_169/LANDSCAPE_169_FSJdlxo_n_DD-North-East_264x144.webp" group-title="Airtel | Infotainment", DD North East
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=dd-north-east
-#EXTINF:-1 tvg-id="dd-north-east" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6576110f6886c012a8aa2950/images/LANDSCAPE_169/LANDSCAPE_169_FSJdlxo_n_DD-North-East_264x144.webp" group-title="Airtel | Infotainment",DD North East
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=dd-north-east
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"R4V0w_w2gVSpntR1W8XG8w", "kid":"uIWRc2EZPHGQlg2HJ4OJVg" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media1/dd_north_east/ndashd/dd_north_east.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_B4U_BHOJPURI" tvg-name="B4U Bhojpuri" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572ef49fe0772265fedbf4c/images/307.webp" group-title="Airtel | Movies", B4U Bhojpuri
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=b4u-bhojpuri
-#EXTINF:-1 tvg-id="b4u-bhojpuri" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572ef49fe0772265fedbf4c/images/307.webp" group-title="Airtel | Movies",B4U Bhojpuri
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=b4u-bhojpuri
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"5Tqat9eOc6MY4OLP1pABrA", "kid":"KCDlxIA0M62xTIthiexRug" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media1/b4u_bhojpuri/ndashd/b4u_bhojpuri.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_FILAMCHI_BHOJPURI" tvg-name="Filamchi Bhojpuri" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bfeb23d1fb238115e24a/images/736.webp" group-title="Airtel | Movies", Filamchi Bhojpuri
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=filamchi-bhojpuri
-#EXTINF:-1 tvg-id="filamchi-bhojpuri" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bfeb23d1fb238115e24a/images/736.webp" group-title="Airtel | Movies",Filamchi Bhojpuri
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=filamchi-bhojpuri
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"JR+PhyLsjB+9P4UCUieJ+w", "kid":"G5FfsoenOAqfxBcDkSpbSQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media14/filamchi_bhojpuri/ndashd/filamchi_bhojpuri.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_BIHAR" tvg-name="DD Bihar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6576113851545a0652108306/images/514.webp" group-title="Airtel | Entertainment", DD Bihar
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=dd-bihar
-#EXTINF:-1 tvg-id="dd-bihar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6576113851545a0652108306/images/514.webp" group-title="Airtel | Entertainment",DD Bihar
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=dd-bihar
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"JtyYceGigttMUYDokRjtmA", "kid":"rhR8OWRzNp6TymWJn4Aenw" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media10/dd_bihar/ndashd/dd_bihar.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_AASTHA" tvg-name="Aastha" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eed7033abf53d08e53b4/images/491.webp" group-title="Airtel | Devotional", Aastha
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=aastha
-#EXTINF:-1 tvg-id="aastha" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eed7033abf53d08e53b4/images/491.webp" group-title="Airtel | Devotional",Aastha
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=aastha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"XOXQZbgwZtkWub_rYJ0l7g", "kid":"o0mONI0dOwy8EHG4cx1hGw" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media1/aastha/ndashd/aastha.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SANSKAR" tvg-name="Sanskar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978ad9b315d22c1f80b64/images/557.webp" group-title="Airtel | Devotional", Sanskar
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=sanskar
-#EXTINF:-1 tvg-id="sanskar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978ad9b315d22c1f80b64/images/557.webp" group-title="Airtel | Devotional",Sanskar
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=sanskar
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"Lib5X3z_a9CGjFJwWjc2qw", "kid":"+IISkhWAPIK4LZNYiqWKig" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media3/sanskar/ndashd/sanskar.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_MH_ONE_SHRADDHA" tvg-name="MH One Shraddha" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bff5e533e2124e757677/images/20.webp" group-title="Airtel | Religious", MH One Shraddha
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=mh-one-shraddha
-#EXTINF:-1 tvg-id="mh-one-shraddha" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bff5e533e2124e757677/images/20.webp" group-title="Airtel | Religious",MH One Shraddha
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=mh-one-shraddha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"F2NmH63u4dTQfkbrYSetug", "kid":"cR9DxJeoP9mpSaiWoUwQ6Q" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media4/mh_one_shraddha/ndashd/mh_one_shraddha.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DIVYA_TV" tvg-name="Divya TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65761107a3b7866cb8414c72/images/107.webp" group-title="Airtel | Devotional", Divya TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=divya-tv
-#EXTINF:-1 tvg-id="divya-tv" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65761107a3b7866cb8414c72/images/107.webp" group-title="Airtel | Devotional",Divya TV
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=divya-tv
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"JgARwKyqdUhG5tieuDTpVw", "kid":"IFGCoVULNl2xFWz3b1Kb8Q" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media2/divya_tv/ndashd/divya_tv.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SATSANG" tvg-name="Satsang" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978f68d36cd1598f9677a/images/642.webp" group-title="Airtel | Devotional", Satsang
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=satsang
-#EXTINF:-1 tvg-id="satsang" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978f68d36cd1598f9677a/images/642.webp" group-title="Airtel | Devotional",Satsang
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=satsang
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"lQi7xK6qh6kcb7HbqaYCFQ", "kid":"A6OY6hh3NUS243jFMEsYOg" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media14/satsang/ndashd/satsang.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_8" tvg-name="Sony 8" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978fb8d36cd1598f967c9/images/LANDSCAPE_169/LANDSCAPE_169_Jk_mm6AZZ_Sony-AATH_264x144-copy.webp" group-title="Airtel | Entertainment", Sony 8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=sony-8
-#EXTINF:-1 tvg-id="sony-8" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978fb8d36cd1598f967c9/images/LANDSCAPE_169/LANDSCAPE_169_Jk_mm6AZZ_Sony-AATH_264x144-copy.webp" group-title="Airtel | Entertainment",Sony 8
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=sony-8
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"2WeCaTqYxMmUDS7lGrMxgw", "kid":"7FdYfc_nOcaXQd_IHwN1Eg" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media14/sony_aath/ndashd/sony_aath.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ENTERR10_BANGLA" tvg-name="Enterr10 Bangla" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f323fe0772265fede4ba/images/76.webp" group-title="Airtel | Entertainment", Enterr10 Bangla
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=enterr10-bangla
-#EXTINF:-1 tvg-id="enterr10-bangla" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f323fe0772265fede4ba/images/76.webp" group-title="Airtel | Entertainment",Enterr10 Bangla
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=enterr10-bangla
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"pAcoRa337hiKABypQLWsrg", "kid":"5+kWQtlxPmuJwCaKcAA7Tg" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media1/enterr10_bangla/ndashd/enterr10_bangla.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_RONGEEN_TV" tvg-name="Rongeen Tv" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574c00b885fc401d48ff875/images/910.webp" group-title="Airtel | Kids", Rongeen Tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=rongeen-tv
-#EXTINF:-1 tvg-id="rongeen-tv" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574c00b885fc401d48ff875/images/910.webp" group-title="Airtel | Kids",Rongeen Tv
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=rongeen-tv
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"vNt2uoM7kYPYQ8xEndYz8g", "kid":"D+FASNQxOdK6tImRjSiWrA" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media14/rongeen_tv/ndashd/rongeen_tv.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ABP_ANANDA" tvg-name="ABP Ananda" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eecefe0772265fedb9da/images/LANDSCAPE_169/LANDSCAPE_169_hfSOYTVDB_ABP-Ananda.webp" group-title="Airtel | News", ABP Ananda
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=abp-ananda
-#EXTINF:-1 tvg-id="abp-ananda" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eecefe0772265fedb9da/images/LANDSCAPE_169/LANDSCAPE_169_hfSOYTVDB_ABP-Ananda.webp" group-title="Airtel | News",ABP Ananda
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=abp-ananda
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"KVM4CsdoqVaJvYWl2m87Yw", "kid":"7a3sCMlnO9eJ3Ylik65_MQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media14/abp_ananda/ndashd/abp_ananda.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=tv9-bangla
-#EXTINF:-1 tvg-id="tv9-bangla" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bfffe533e2124e7577d7/images/775.webp" group-title="Airtel | News",TV9 Bangla
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=tv9-bangla
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_TV9_BANGLA" tvg-name="TV9 Bangla" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bfffe533e2124e7577d7/images/775.webp" group-title="Airtel | News", TV9 Bangla
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://vg-tv9live.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-683682/main.m3u8?ads.partner=airtel
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_RSYMDOT_BANGLA" tvg-name="R. Bangla" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574c00b885fc401d48ff870/images/780.webp" group-title="Airtel | News", R. Bangla
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=r.-bangla
-#EXTINF:-1 tvg-id="r.-bangla" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574c00b885fc401d48ff870/images/780.webp" group-title="Airtel | News",R. Bangla
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=r.-bangla
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"gEW5Txpg3mEX6art4Aqahw", "kid":"0is5QID9MUqOQQpxDV8HMQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media14/r_bangla/ndashd/r_bangla.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_BANGLA" tvg-name="DD Bangla" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657611a052133304ca05ffc7/images/478.webp" group-title="Airtel | Entertainment", DD Bangla
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=dd-bangla
-#EXTINF:-1 tvg-id="dd-bangla" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657611a052133304ca05ffc7/images/478.webp" group-title="Airtel | Entertainment",DD Bangla
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=dd-bangla
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"0OFOUXXt1lpdThDsaoXsDA", "kid":"q1XRao9dOvOt_NmBuwgEzA" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media1/dd_bangla/ndashd/dd_bangla.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_RAJ_DIGITAL_PLUS" tvg-name="Raj Digital Plus" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f46dfe0772265fedf316/images/660.webp" group-title="Airtel | Entertainment", Raj Digital Plus
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=raj-digital-plus
-#EXTINF:-1 tvg-id="raj-digital-plus" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f46dfe0772265fedf316/images/660.webp" group-title="Airtel | Entertainment",Raj Digital Plus
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=raj-digital-plus
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"zHYbRtRvFF3WoUNuDZcCFA", "kid":"xxzW2DevNsKK8HiWZ6m9Rw" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media3/raj_digital_plus/ndashd/raj_digital_plus.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_MEGA_TV" tvg-name="Mega TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f3cdfe0772265fedec1a/images/117.webp" group-title="Airtel | Entertainment", Mega TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=mega-tv
-#EXTINF:-1 tvg-id="mega-tv" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f3cdfe0772265fedec1a/images/117.webp" group-title="Airtel | Entertainment",Mega TV
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=mega-tv
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"4YC7Sf+CbXUHsD3+weZ48w", "kid":"bYOmfqgZPmWdFpREBmvT3g" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media2/mega_tv/ndashd/mega_tv.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_PUTHU_YUGAM" tvg-name="Puthu Yugam" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f5bc033abf53d08e9ca4/images/638.webp" group-title="Airtel | Entertainment", Puthu Yugam
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=puthu-yugam
-#EXTINF:-1 tvg-id="puthu-yugam" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f5bc033abf53d08e9ca4/images/638.webp" group-title="Airtel | Entertainment",Puthu Yugam
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=puthu-yugam
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"tQhCSkP8aHPdq+s7MB6QzQ", "kid":"8xG2g326OCaTaPTa2R18pw" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media3/puthu_yugam/ndashd/puthu_yugam.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_KALAIGNAR_TV" tvg-name="Kalaignar TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574c00083bf8d2567aab540/images/605.webp" group-title="Airtel | Entertainment", Kalaignar TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=kalaignar-tv
-#EXTINF:-1 tvg-id="kalaignar-tv" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574c00083bf8d2567aab540/images/605.webp" group-title="Airtel | Entertainment",Kalaignar TV
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=kalaignar-tv
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"K5sxzi2+7jZnYPXStIaSsA", "kid":"Bq7w5+cjN+askhYmOtp0wA" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media13/kalaignar_tv/ndashd/kalaignar_tv.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_JAYA_TV" tvg-name="Jaya TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736e86ded97660c182a101/images/221.webp" group-title="Airtel | Entertainment", Jaya TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=jaya-tv
-#EXTINF:-1 tvg-id="jaya-tv" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736e86ded97660c182a101/images/221.webp" group-title="Airtel | Entertainment",Jaya TV
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=jaya-tv
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"pMRFapCGKHAUA_AvVdvG7A", "kid":"JqTQRLAyNYqW85psZy2Epw" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media6/jaya_tv/ndashd/jaya_tv.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_RAJ_TV" tvg-name="Raj TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572fc4efe0772265fee4867/images/336.webp" group-title="Airtel | Entertainment", Raj TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=raj-tv
-#EXTINF:-1 tvg-id="raj-tv" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572fc4efe0772265fee4867/images/336.webp" group-title="Airtel | Entertainment",Raj TV
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=raj-tv
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"E9JYRdaPWVeB8aHbjAi31w", "kid":"DlBPQ4ekN4CXTDE22a1AVg" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media3/raj_tv/ndashd/raj_tv.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SIRIPPOLI" tvg-name="Sirippoli" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65776428359b7130a1f47c0a/images/354.webp" group-title="Airtel | Movies", Sirippoli
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=sirippoli
-#EXTINF:-1 tvg-id="sirippoli" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65776428359b7130a1f47c0a/images/354.webp" group-title="Airtel | Movies",Sirippoli
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=sirippoli
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"P6_24RD68_H6e02nUhbwzg", "kid":"cqEnrWrLNRuP4UfZmQ5Law" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media4/sirippoli/ndashd/sirippoli.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_VASANTH_TV" tvg-name="Vasanth TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572fde6fe0772265fee5b84/images/327.webp" group-title="Airtel | Entertainment", Vasanth TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=vasanth-tv
-#EXTINF:-1 tvg-id="vasanth-tv" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572fde6fe0772265fee5b84/images/327.webp" group-title="Airtel | Entertainment",Vasanth TV
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=vasanth-tv
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"GmjYMt+Jbvfkx3eVIcbFIg", "kid":"BgJsXLCuOYaVarhXkxocuQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media14/vasanth_tv/ndashd/vasanth_tv.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_MEGA_24" tvg-name="Mega 24" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572fba8fe0772265fee40f6/images/886.webp" group-title="Airtel | News", Mega 24
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=mega-24
-#EXTINF:-1 tvg-id="mega-24" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572fba8fe0772265fee40f6/images/886.webp" group-title="Airtel | News",Mega 24
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=mega-24
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"QxMqwnTZQq7gk88NIsMUYA", "kid":"BdyoHfrIPQyP1OhQY+QEig" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media13/mega_24/ndashd/mega_24.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_J_MOVIES" tvg-name="J Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736ee9d21a0c75770864e1/images/652.webp" group-title="Airtel | Movies", J Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=j-movies
-#EXTINF:-1 tvg-id="j-movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736ee9d21a0c75770864e1/images/652.webp" group-title="Airtel | Movies",J Movies
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=j-movies
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"DS7mCO2ay+Wq48q33oPMcA", "kid":"zwpnPuCeOKaX4BT00zdX6Q" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media2/j_movies/ndashd/j_movies.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_MURASU" tvg-name="Murasu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574c01be533e2124e757cf6/images/170.webp" group-title="Airtel | Movies", Murasu
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=murasu
-#EXTINF:-1 tvg-id="murasu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574c01be533e2124e757cf6/images/170.webp" group-title="Airtel | Movies",Murasu
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=murasu
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"Sy8XfwKtxRSk39Ltr29J0Q", "kid":"c4LehzQZPM6HF916291lbw" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media3/murasu/ndashd/murasu.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_PUTHIYA_THALAIMURAI" tvg-name="Puthiya Thalaimurai" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f032033abf53d08e6245/images/481.webp" group-title="Airtel | News", Puthiya Thalaimurai
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=puthiya-thalaimurai
-#EXTINF:-1 tvg-id="puthiya-thalaimurai" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f032033abf53d08e6245/images/481.webp" group-title="Airtel | News",Puthiya Thalaimurai
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=puthiya-thalaimurai
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"bIyTIaxPg3CSXGXK1sxiqQ", "kid":"Mg8cIEkLMziNFO9SJXq6WA" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media3/puthiya_thalaimurai/ndashd/puthiya_thalaimurai.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SEITHIGAL_24X7" tvg-name="Seithigal 24x7" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f522fe0772265fedfb18/images/560.webp" group-title="Airtel | News", Seithigal 24x7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=seithigal-24x7
-#EXTINF:-1 tvg-id="seithigal-24x7" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f522fe0772265fedfb18/images/560.webp" group-title="Airtel | News",Seithigal 24x7
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=seithigal-24x7
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"9DLYYV6Bxj6i1ILA07NEVg", "kid":"Cgh24ii5MKSJoOL8aKH6JQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media13/seithigal_24x7/ndashd/seithigal_24x7.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_JAYA_PLUS" tvg-name="Jaya Plus" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736e97ded97660c182a4b2/images/230.webp" group-title="Airtel | Entertainment", Jaya Plus
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=jaya-plus
-#EXTINF:-1 tvg-id="jaya-plus" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736e97ded97660c182a4b2/images/230.webp" group-title="Airtel | Entertainment",Jaya Plus
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=jaya-plus
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"DMxf8EsacKX4d9HsKQQtxg", "kid":"UiJNx8+BMT2AeqmhwYtj7g" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media2/jaya_plus/ndashd/jaya_plus.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SATHIYAM_TV" tvg-name="Sathiyam TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f07d033abf53d08e6559/images/630.webp" group-title="Airtel | News", Sathiyam TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=sathiyam-tv
-#EXTINF:-1 tvg-id="sathiyam-tv" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f07d033abf53d08e6559/images/630.webp" group-title="Airtel | News",Sathiyam TV
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=sathiyam-tv
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"bJKMjNY9HnOpoApHMTaISQ", "kid":"s1MzGsyNPYi_xW5_sLOzkQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media3/sathiyam_tv/ndashd/sathiyam_tv.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_RAJ_NEWS_TAMIL" tvg-name="Raj News Tamil" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f455fe0772265fedf203/images/LANDSCAPE_169/LANDSCAPE_169_EpteuOwxr_Raj-news-tamil_264x144.webp" group-title="Airtel | News", Raj News Tamil
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=raj-news-tamil
-#EXTINF:-1 tvg-id="raj-news-tamil" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f455fe0772265fedf203/images/LANDSCAPE_169/LANDSCAPE_169_EpteuOwxr_Raj-news-tamil_264x144.webp" group-title="Airtel | News",Raj News Tamil
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=raj-news-tamil
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"ScyteImsPMy0PZMIBheRag", "kid":"M2SZ8wp0O0ezDU8twA3Rvg" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media13/raj_news/ndashd/raj_news.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_D_TAMIL" tvg-name="D Tamil" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572ef93fe0772265fedc26d/images/373.webp" group-title="Airtel | Documentary", D Tamil
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=d-tamil
-#EXTINF:-1 tvg-id="d-tamil" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572ef93fe0772265fedc26d/images/373.webp" group-title="Airtel | Documentary",D Tamil
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=d-tamil
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"IM4fYrG3G3BWpc2dzDAyFQ", "kid":"qaDyBhjgPG2+8G3LCLvNng" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media2/d_tamil/ndashd/d_tamil.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_4" tvg-name="SONY SPORTS TEN 4" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f16cdc5dfc4403f7beeb/images/LANDSCAPE_169/LANDSCAPE_169_1WRe-uvTy_Sony-sports-Ten-4_264x144.webp" group-title="Airtel | Sports", SONY SPORTS TEN 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=sony-sports-ten-4
-#EXTINF:-1 tvg-id="sony-sports-ten-4" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f16cdc5dfc4403f7beeb/images/LANDSCAPE_169/LANDSCAPE_169_1WRe-uvTy_Sony-sports-Ten-4_264x144.webp" group-title="Airtel | Sports",SONY SPORTS TEN 4
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=sony-sports-ten-4
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"wsWgKR28UltSdKbH08qaGA", "kid":"na_wVhrENBetPnW4mwjuNA" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media13/sony_ten_4/ndashd/sony_ten_4.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_MEGA_MUSIQ" tvg-name="Mega Musiq" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736e950230904c4f27602a/images/885.webp" group-title="Airtel | Music", Mega Musiq
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=mega-musiq
-#EXTINF:-1 tvg-id="mega-musiq" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736e950230904c4f27602a/images/885.webp" group-title="Airtel | Music",Mega Musiq
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=mega-musiq
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"bRQzL9VdqEMwWlq8clNUDw", "kid":"KQ0d8V2yPaSOLm2dglSrcQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media2/mega_musiq/ndashd/mega_musiq.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ISAI_ARUVI" tvg-name="Isai Aruvi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bfe21d2c0e2cbafc1ae3/images/99.webp" group-title="Airtel | Music", Isai Aruvi
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=isai-aruvi
-#EXTINF:-1 tvg-id="isai-aruvi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bfe21d2c0e2cbafc1ae3/images/99.webp" group-title="Airtel | Music",Isai Aruvi
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=isai-aruvi
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"ef3o8gscjR3S5pdAQ3d2Zw", "kid":"ADBz56w6OQS5mnLteInH5w" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media2/isai_aruvi/ndashd/isai_aruvi.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_JAYA_MAX" tvg-name="Jaya Max" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736e8f0230904c4f275ef5/images/639.webp" group-title="Airtel | Music", Jaya Max
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=jaya-max
-#EXTINF:-1 tvg-id="jaya-max" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736e8f0230904c4f275ef5/images/639.webp" group-title="Airtel | Music",Jaya Max
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=jaya-max
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"x_vPEIQp3fblKLhNtlGLIw", "kid":"1LbaB0BEMAGFVeSr+ZZKIw" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media2/jaya_max/ndashd/jaya_max.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TAMIL" tvg-name="Raj Musix Tamil" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65d3b5998dca8201dffa8504/images/LANDSCAPE_169/LANDSCAPE_169_rPMthZpUL_Raj-Musix-tamil_264x144.webp" group-title="Airtel | Music", Raj Musix Tamil
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=raj-musix-tamil
-#EXTINF:-1 tvg-id="raj-musix-tamil" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65d3b5998dca8201dffa8504/images/LANDSCAPE_169/LANDSCAPE_169_rPMthZpUL_Raj-Musix-tamil_264x144.webp" group-title="Airtel | Music",Raj Musix Tamil
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=raj-musix-tamil
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"WYi2XhPtaP_Jta2kip6bLA", "kid":"0baTG5dnMCq9lwkZWM3gTQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media13/raj_musix_tamil/ndashd/raj_musix_tamil.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_TAMIL" tvg-name="DD Tamil" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_TAMIL/images/LANDSCAPE_169/LANDSCAPE_169_AvMnOEpSh_DD-Tamil_264x144.webp" group-title="Airtel | Entertainment", DD Tamil
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=dd-tamil
-#EXTINF:-1 tvg-id="dd-tamil" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_TAMIL/images/LANDSCAPE_169/LANDSCAPE_169_AvMnOEpSh_DD-Tamil_264x144.webp" group-title="Airtel | Entertainment",DD Tamil
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=dd-tamil
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"g5pW7aVZpDhb4qWiyvraKA", "kid":"F8vZMDQgPFm9Yt8UafIXNA" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media1/dd_tamil/ndashd/dd_tamil.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_MAZHAVIL_MANORAMA" tvg-name="Mazhavil Manorama" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bff251545a0652105e03/images/5.webp" group-title="Airtel | Entertainment", Mazhavil Manorama
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=mazhavil-manorama
-#EXTINF:-1 tvg-id="mazhavil-manorama" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bff251545a0652105e03/images/5.webp" group-title="Airtel | Entertainment",Mazhavil Manorama
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=mazhavil-manorama
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"2nNKEcA8wMsUJGfsv+wsCA", "kid":"OpYtTJ6kMP+iEUyaMoBNbA" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media2/mazhavil_manorama/ndashd/mazhavil_manorama.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_FLOWERS_TV" tvg-name="Flowers TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f2cb033abf53d08e7e18/images/442.webp" group-title="Airtel | Entertainment", Flowers TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=flowers-tv
-#EXTINF:-1 tvg-id="flowers-tv" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f2cb033abf53d08e7e18/images/442.webp" group-title="Airtel | Entertainment",Flowers TV
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=flowers-tv
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"rsRBkQSbJI0lRWVusNQo9g", "kid":"XiRIEC6RPMiRB_gvzxdhnA" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media2/flowers_tv/ndashd/flowers_tv.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ASIANET_NEWS" tvg-name="Asianet News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65a0461aaa41b21ae460a1b8/images/LANDSCAPE_169/LANDSCAPE_169_hMw_9cMa-_DAsianet-News_264x144.webp" group-title="Airtel | News", Asianet News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=asianet-news
-#EXTINF:-1 tvg-id="asianet-news" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65a0461aaa41b21ae460a1b8/images/LANDSCAPE_169/LANDSCAPE_169_hMw_9cMa-_DAsianet-News_264x144.webp" group-title="Airtel | News",Asianet News
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=asianet-news
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"oxsFe3gxuUbMuMRqF4URuw", "kid":"AsXVDncyOnOexYfI0XY2fA" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media1/asianet_news/ndashd/asianet_news.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_TWENTY_FOUR" tvg-name="Twenty Four" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f231033abf53d08e7832/images/644.webp" group-title="Airtel | News", Twenty Four
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=twenty-four
-#EXTINF:-1 tvg-id="twenty-four" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f231033abf53d08e7832/images/644.webp" group-title="Airtel | News",Twenty Four
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=twenty-four
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"pOqJUwWXN1UROtxLXh0YRQ", "kid":"mZ_N_jDwP1mtevQA57Imtg" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media4/twenty_four/ndashd/twenty_four.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_MALAYALAM" tvg-name="DD Malayalam" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610ec23d1fb238115f943/images/199.webp" group-title="Airtel | Entertainment", DD Malayalam
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=dd-malayalam
-#EXTINF:-1 tvg-id="dd-malayalam" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610ec23d1fb238115f943/images/199.webp" group-title="Airtel | Entertainment",DD Malayalam
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=dd-malayalam
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"iXvrxrumYv4biYxIY0mhgw", "kid":"2OE7N39eO+WgAHv9Lqu0qA" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media1/dd_malayalam/ndashd/dd_malayalam.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=tv9-telugu-news
-#EXTINF:-1 tvg-id="tv9-telugu-news" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bffa83bf8d2567aab4f9/images/496.webp" group-title="Airtel | News",TV9 Telugu News
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=tv9-telugu-news
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_TV9_TELUGU_NEWS" tvg-name="TV9 Telugu News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bffa83bf8d2567aab4f9/images/496.webp" group-title="Airtel | News", TV9 Telugu News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://vg-tv9live.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-277772/main.m3u8?ads.partner=airtel
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_NTV" tvg-name="NTV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f0a3dc5dfc4403f7b5a1/images/121.webp" group-title="Airtel | News", NTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=ntv
-#EXTINF:-1 tvg-id="ntv" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f0a3dc5dfc4403f7b5a1/images/121.webp" group-title="Airtel | News",NTV
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=ntv
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"iExModLT5v5IX4T8sMy0Vg", "kid":"+bHzPcebOPuwgTIDrTwKcg" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media3/ntv/ndashd/ntv.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_V6_NEWS" tvg-name="V6 NEWS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f4f5033abf53d08e94f2/images/190.webp" group-title="Airtel | News", V6 NEWS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=v6-news
-#EXTINF:-1 tvg-id="v6-news" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f4f5033abf53d08e94f2/images/190.webp" group-title="Airtel | News",V6 NEWS
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=v6-news
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"LxKlgGfBN0gRvsS1_rxD8g", "kid":"9WMOwFcTM2WNBzg6VhfNog" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media14/v6_news/ndashd/v6_news.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_10TV" tvg-name="10TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f11cfe0772265fedd068/images/123.webp" group-title="Airtel | News", 10TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=10tv
-#EXTINF:-1 tvg-id="10tv" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f11cfe0772265fedd068/images/123.webp" group-title="Airtel | News",10TV
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=10tv
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"St_5HfWeQyskb5Vko09YDA", "kid":"L96Xoq9OPZup2h6WHmLa6g" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media1/10tv/ndashd/10tv.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_BHAKTI_TV" tvg-name="Bhakti TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e283bf8d2567aac9d9/images/176.webp" group-title="Airtel | Religious", Bhakti TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=bhakti-tv
-#EXTINF:-1 tvg-id="bhakti-tv" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e283bf8d2567aac9d9/images/176.webp" group-title="Airtel | Religious",Bhakti TV
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=bhakti-tv
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"G_CN6WS5nsUe8Dp5UGVGTA", "kid":"eDLe6yVHOy2pWo_N7iwFog" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media2/bhakti_tv/ndashd/bhakti_tv.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_YADAGIRI" tvg-name="DD Yadagiri" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e651545a0652107952/images/555.webp" group-title="Airtel | Entertainment", DD Yadagiri
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=dd-yadagiri
-#EXTINF:-1 tvg-id="dd-yadagiri" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e651545a0652107952/images/555.webp" group-title="Airtel | Entertainment",DD Yadagiri
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=dd-yadagiri
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"ecSqZKRKth3kCHyxXkukvg", "kid":"TkEI4Py2NbmwWklGCz+wng" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media10/dd_yadagiri/ndashd/dd_yadagiri.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_SAPTAGIRI" tvg-name="DD Saptagiri" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e623d1fb238115f8b0/images/365.webp" group-title="Airtel | Entertainment", DD Saptagiri
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=dd-saptagiri
-#EXTINF:-1 tvg-id="dd-saptagiri" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e623d1fb238115f8b0/images/365.webp" group-title="Airtel | Entertainment",DD Saptagiri
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=dd-saptagiri
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"mZ87G2JpKfpKR3jm3Sqs1g", "kid":"eaxoCUFSM_6PIepWy7SPNg" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media10/dd_saptagiri/ndashd/dd_saptagiri.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SIRI_KANNADA_ALL_TIME" tvg-name="SIRI KANNADA ALL TIME" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f155dc5dfc4403f7bde9/images/790.webp" group-title="Airtel | Entertainment", SIRI KANNADA ALL TIME
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=siri-kannada-all-time
-#EXTINF:-1 tvg-id="siri-kannada-all-time" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f155dc5dfc4403f7bde9/images/790.webp" group-title="Airtel | Entertainment",SIRI KANNADA ALL TIME
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=siri-kannada-all-time
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"ggwsskr3Rbuqo9uzLWi7Mw", "kid":"v+5AFcpbP5yFX4OZPcTLCw" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media4/siri_kannada_all_time/ndashd/siri_kannada_all_time.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_PUBLIC_MOVIES" tvg-name="PUBLIC MOVIES" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f43afe0772265fedf0d1/images/693.webp" group-title="Airtel | Movies", PUBLIC MOVIES
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=public-movies
-#EXTINF:-1 tvg-id="public-movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f43afe0772265fedf0d1/images/693.webp" group-title="Airtel | Movies",PUBLIC MOVIES
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=public-movies
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"3Da3j5Fls+0f9hN4H8I7_g", "kid":"T1QSe5rAO7aV5h3NusXx+w" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media14/public_movies/ndashd/public_movies.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ASIANET_SUVARNA_NEWS" tvg-name="Asianet Suvarna News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65a0461aaa41b21ae460a1bb/images/LANDSCAPE_169/LANDSCAPE_169_5UD-yVOeT_Asianet-suvarna-news_264x144.webp" group-title="Airtel | News", Asianet Suvarna News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=asianet-suvarna-news
-#EXTINF:-1 tvg-id="asianet-suvarna-news" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65a0461aaa41b21ae460a1bb/images/LANDSCAPE_169/LANDSCAPE_169_5UD-yVOeT_Asianet-suvarna-news_264x144.webp" group-title="Airtel | News",Asianet Suvarna News
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=asianet-suvarna-news
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"yLVTm_MQvyK1EwcIEM4hlA", "kid":"iV6_bxFyORu_3fr+fQBOmw" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media1/asianet_suvarna_news/ndashd/asianet_suvarna_news.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_PUBLIC_TV" tvg-name="Public TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736eb4ded97660c182aba8/images/323.webp" group-title="Airtel | News", Public TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=public-tv
-#EXTINF:-1 tvg-id="public-tv" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736eb4ded97660c182aba8/images/323.webp" group-title="Airtel | News",Public TV
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=public-tv
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"BvV4g6cFECVFMfQet6uNyA", "kid":"ZU1AqM6xMt2_N+fzccnGBQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media3/public_tv/ndashd/public_tv.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_RSYMDOTKANNADA" tvg-name="R.Kannada" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f3bc033abf53d08e879e/images/250231007.webp" group-title="Airtel | News", R.Kannada
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=r.kannada
-#EXTINF:-1 tvg-id="r.kannada" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f3bc033abf53d08e879e/images/250231007.webp" group-title="Airtel | News",R.Kannada
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=r.kannada
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"Qu1t+t9++xIOd_kQMl1YKQ", "kid":"T_i1FHqIPXia6RNbF6dr4g" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media14/r_kannada/ndashd/r_kannada.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_CHANDANA" tvg-name="DD Chandana" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e651545a065210794b/images/535.webp" group-title="Airtel | Entertainment", DD Chandana
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=dd-chandana
-#EXTINF:-1 tvg-id="dd-chandana" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e651545a065210794b/images/535.webp" group-title="Airtel | Entertainment",DD Chandana
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=dd-chandana
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"afD5D_aVxYoPQBrYRxus5g", "kid":"uyDloIpJP3edEIm5725TGQ" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media10/dd_chandna/ndashd/dd_chandna.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_PUBLIC_MUSIC" tvg-name="PUBLIC MUSIC" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736f1b1cd2bb19dca317ec/images/875.webp" group-title="Airtel | Music", PUBLIC MUSIC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/airtel/key.php?id=public-music
-#EXTINF:-1 tvg-id="public-music" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736f1b1cd2bb19dca317ec/images/875.webp" group-title="Airtel | Music",PUBLIC MUSIC
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://yuvraj49.xyz/airtel/manifest.mpd?id=public-music
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"0NOuvx652eKx97_EnBo7lg", "kid":"GeQ8ls2TNpirxxuzRifI9g" }], "type":"temporary" }
+https://companion-live-play1.streamready.in/live/media14/public_music/ndashd/public_music.mpd
