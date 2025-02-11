@@ -1,1057 +1,932 @@
-#EXTM3U x Playlist by @yuvraj824
-
+#EXTM3U
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d296843afb053136af4d2c5aefce9398:8ba9f4a2eb8c42adc82086dd760da9b2
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=zee-tv
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657979d4a9540e6b3ede4b1e/images/542.webp" group-title="Entertainment", Zee TV
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV90di9uZGFzaGQv:Expires=1739203347:KeyName=iptv-prod-media-cdn-keys:Signature=rhQblEGdZKdhPnvnSW-4I3C2IPGyRgSnPYH9sJtPn6v4KTCYrR2R_byyD5WlwpqimphtLFitIYMUDBOytXbdCg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV90di9uZGFzaGQv:Expires=1739291581:KeyName=iptv-prod-media-cdn-keys:Signature=f8Xqwfrf8WBJ2bVOCdrXIfXtNfAoadFAWABf82vGl1TZxt9HW7I5BgBOSGGHUCbUmmIvdUctIqguCT2UlmCjCA=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med12/zee_tv/ndashd/zee_tv.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=df87b8c858ff3e808ac58e54302c04b3:094452c9aa1df2f8dd507d6235385575
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=set
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SET" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978ac9d8fb452ad919bdf/images/378221101.webp" group-title="Entertainment", SET
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvc2V0L25kYXNoZC8=:Expires=1739203348:KeyName=iptv-prod-media-cdn-keys:Signature=roUNwlhhNn60xgOIaG0h-mKxqvzYsKdCdFuctSjGYzb7UwKN06g8G4jf-uwKpMEgYDDQ_9Rc2NW96SVWo7YCBg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvc2V0L25kYXNoZC8=:Expires=1739291583:KeyName=iptv-prod-media-cdn-keys:Signature=3LnYxl1XkrwA5wgTvxW7zE7xT_mXLhPaf97LhRAp_DmGaXFx-cTW2BecAUHlWwj-c8lnG2E_574r9LezOvvDDA=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/set/ndashd/set.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b8ef304d6c1e319abae99a4fe2072f75:d1bab6bd5236eb43da8a4ec18c587342
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=andtv
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SYMANDTV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eed7033abf53d08e53b1/images/340.webp" group-title="Entertainment", &TV
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1L2FuZF90di9uZGFzaGQv:Expires=1739203349:KeyName=iptv-prod-media-cdn-keys:Signature=zqujFT-9qGsXr6XKIC5a-zfr5pP7INhFi0KrmYo-vm9Fw0ELYYCWAUD94CpAPpKtkY3I_U1DDyO_B02E3YtQBg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1L2FuZF90di9uZGFzaGQv:Expires=1739291586:KeyName=iptv-prod-media-cdn-keys:Signature=oJ1J8z1rGRJprFNYmS6avorQCIKjwkJTMv0r_cjR_dc_vRU2hHWFUi6B0GamvHx0lgfeTFNLtD0sCOhGHbpKCw=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med15/and_tv/ndashd/and_tv.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b9bf6a3be4632548a81d29cf272d58a:c1e2f6daaa32fb170799f8d5237a77d7
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=big-magic
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_BIG_MAGIC" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610ed61da847074473880/images/207.webp" group-title="Entertainment", Big Magic
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDUvYmlnX21hZ2ljL25kYXNoZC8=:Expires=1739203350:KeyName=iptv-prod-media-cdn-keys:Signature=I0XC4ZQpxqkYgJJhy1dofj8_7AcgV41IsSAUSxouOKhayLAhMR6yfkSiZUeqVlzqp43DDDdl_TXvHvBRsVX9Dw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDUvYmlnX21hZ2ljL25kYXNoZC8=:Expires=1739291588:KeyName=iptv-prod-media-cdn-keys:Signature=7Vpt56w4MWpSzCe_7d1alZlCzyh9B3j1nuyYMEXRW84aUly4P9c9_XD7CsxWSR4UM6gX62VkzcDCaK2WrAD1BA=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med5/big_magic/ndashd/big_magic.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=49275a5eddfd38abb2ad95e90c75b2a0:1d523581670d2f288391d91ca43b87e2
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=sony-sab
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_SAB" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="Entertainment", SONY SAB
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3Nvbnlfc2FiL25kYXNoZC8=:Expires=1739203351:KeyName=iptv-prod-media-cdn-keys:Signature=QuYgSRor3cyUdyiJ3_JqXY_w8sAbED1oeQKY8pg7n6ecQWeIk7nV2nTZ9W575mFiT38t4vW7diqe6a460zHUBA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3Nvbnlfc2FiL25kYXNoZC8=:Expires=1739291591:KeyName=iptv-prod-media-cdn-keys:Signature=GR79h-ckvcN4LqP4SRMw5ArMWRBR4ZbWc8PikxJloHZqJgAW1G5BQKKWpjGKK-GtCwQxs9qYxqvfQYCRO23wCg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med14/sony_sab/ndashd/sony_sab.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=167101d0fd57325fb9124d8c478a63d8:2002e1f0f2c1665afffcd6fa0dd64925
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=sony-pal
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_PAL" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978b19d8fb452ad919c21/images/519221101.webp" group-title="Entertainment", Sony Pal
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvc29ueV9wYWwvbmRhc2hkLw==:Expires=1739203353:KeyName=iptv-prod-media-cdn-keys:Signature=xTJhD72QxmsXPwj9pAmWzmKnD2H2zhMbpDfQ_PME3K3db7HT8HETlewzLNSRH5bCsEE-ZkhDBH5MM1JNlM3_DA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvc29ueV9wYWwvbmRhc2hkLw==:Expires=1739291593:KeyName=iptv-prod-media-cdn-keys:Signature=eqju-kvij7l_z5Pjwuo9BGnpDE9e1w6udwm416-x1ovoYV0lOmKQT6gRrjGRxG_kjK-myklQQeSDsfQlSYH3BA=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/sony_pal/ndashd/sony_pal.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1ce668c7edf9354ca2c1c08efd50ea4a:01ef93e2f2c9e07b17a335464301f4c4
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=investigation-discovery
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bff583bf8d2567aab4d6/images/424.webp" group-title="Entertainment", Investigation Discovery
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDIvaW52ZXN0aWdhdGlvbl9kaXNjb3ZlcnkvbmRhc2hkLw==:Expires=1739203354:KeyName=iptv-prod-media-cdn-keys:Signature=MT1CYiEaBa2RPhjLYfucPgyeFoGlFl2cf8AtsLvydNq_fmBylHeBs9p69vrVwazCDp4wgk_F9SvGLN1sE2nWAg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDIvaW52ZXN0aWdhdGlvbl9kaXNjb3ZlcnkvbmRhc2hkLw==:Expires=1739291596:KeyName=iptv-prod-media-cdn-keys:Signature=m2jIjzll43IFedFU4lZopaEYz4rYjYFku1moYCPw3JQ1WU6BKnKWEmljsxpS5WMVtT7kwI39d3DvI_cUwmHPAA=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med2/investigation_discovery/ndashd/investigation_discovery.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=da3505bfb2663f72bd43e27235e58869:cfb1202dd5acfb00ac40a54248ecfb28
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=zee-anmol
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_ANMOL" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978f59b315d22c1f80fba/images/599.webp" group-title="Entertainment", Zee Anmol
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV9hbm1vbC9uZGFzaGQv:Expires=1739203355:KeyName=iptv-prod-media-cdn-keys:Signature=s8xf1fT6E_yflwjh3BJLBjfFESW2Ssjkx0AO7s9ZITTrfOMPyKmm762FL3N0dUWbq7EdF0-_iKBUabok7nwIBQ=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV9hbm1vbC9uZGFzaGQv:Expires=1739291598:KeyName=iptv-prod-media-cdn-keys:Signature=rq1xvX_HYB_5URQ4BEe4n4wbXtv0U6ExPVa9xMGL_4cSH0P2sKD1dd8VVsDIkDwntvn4RuCJg-TMUJHijwP_Cg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med12/zee_anmol/ndashd/zee_anmol.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d57fc2e5eda934f8954c95930fefedde:de286ba04a64e29cb82480ad6d4f2eeb
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=ishara-tv
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ISHARA_TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bfeb23d1fb238115e25d/images/778.webp" group-title="Entertainment", Ishara TV
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L2lzaGFyYV90di9uZGFzaGQv:Expires=1739203356:KeyName=iptv-prod-media-cdn-keys:Signature=RlzxoGjtuOkIKQYFdVuvjle37pV_HJuzSkjmudT-yiuScpxEJ-HFH-io1OwmgppzEA341Bh1dq7vcB9tKckvDA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L2lzaGFyYV90di9uZGFzaGQv:Expires=1739291601:KeyName=iptv-prod-media-cdn-keys:Signature=avHAJDu4IvUvVeR5sxUTW5Wl0vel7j8FJ86GBeWKk-TBFfJWM0D7HkzW3UTUh9alHD2-zZLFDMe5RxHG5QvLBg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med14/ishara_tv/ndashd/ishara_tv.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4537ba2caf7385abf106ac3d3172aa2:22050109321548dec777e03021a4c9a5
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=ez-mall
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_EZ_MALL" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736e831cd2bb19dca3115c/images/208.webp" group-title="Entertainment", EZ Mall
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1L2V6X21hbGwvbmRhc2hkLw==:Expires=1739203357:KeyName=iptv-prod-media-cdn-keys:Signature=7WZ92ToO6iq5b_2YmX8wWgTnGKWxEOmSVK7grdveAexA6KI9APuQlYUGxKjf4DeOW5KrJPN4pGuCXC00HNCKBQ=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1L2V6X21hbGwvbmRhc2hkLw==:Expires=1739291603:KeyName=iptv-prod-media-cdn-keys:Signature=QyfN9tcXDABLAwsfNwH7J3P9mP3MQ7j9SMfJPgXtnifceX4r6M5ieTOw6sAbp2wnOYjkHUGp6KWNfgG9c6XJDg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med15/ez_mall/ndashd/ez_mall.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e0cfcb785f8f3ca0b5f77719abca3e3c:a7331d573ef3aeafb1401ada4d7a1a67
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=dd-national
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_NATIONAL" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657611b152133304ca060093/images/550.webp" group-title="Entertainment", DD National
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvZGRfbmF0aW9uYWwvbmRhc2hkLw==:Expires=1739203358:KeyName=iptv-prod-media-cdn-keys:Signature=EB1mg_N6_VHYoejMbMU43M4sdHwMc_Pg5KsmAL3F2Gxycgu3wzyoC8zQWOysQYqi2cAtnVo0sE6IJRYq4uRCCQ=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvZGRfbmF0aW9uYWwvbmRhc2hkLw==:Expires=1739291606:KeyName=iptv-prod-media-cdn-keys:Signature=myOAsX8QHVtPThLrwA7jpjZvN0SoIJREOZNOSNI_nd2-DOLMhJBg01PRCAmDvlz68bxnpfIvoH1868SrI3mFCg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/dd_national/ndashd/dd_national.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ed04e72681e324fb1cf10469d4177c3:2aa83fcaf7e0e966dbbf5d3c083baef5
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=dd-india
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_INDIA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610f961da8470744738e1/images/456.webp" group-title="Entertainment", DD India
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwL2RkX2luZGlhL25kYXNoZC8=:Expires=1739203360:KeyName=iptv-prod-media-cdn-keys:Signature=KVUr-KcY8zZWZg5ZKi02hz__CMCEsd0GOG0--O_ob6pHc3tTKCRQwcAK7O50fdbVPrr6KA44eL5cQukeqOdeDg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwL2RkX2luZGlhL25kYXNoZC8=:Expires=1739291608:KeyName=iptv-prod-media-cdn-keys:Signature=vjfN_GSWXG4AHJBopA_s_pTZKTwk9SV4BcUCRtOElHUlwlJiB1Sp0XhDG2A4-7yTl-xUv05h9dITXpL2fpNRCg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med10/dd_india/ndashd/dd_india.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e99c9fe4c778322caa4cdf2876b4584c:e2736f125bb2c4c08b24503abaa75b5f
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=dd-bharati
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_BHARATI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6576110f6886c012a8aa294c/images/366.webp" group-title="Entertainment", DD Bharati
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvZGRfYmhhcmF0aS9uZGFzaGQv:Expires=1739203361:KeyName=iptv-prod-media-cdn-keys:Signature=cT2XKomUkFcXrxBQsd42d8NOlCilV0Zryrfvwdex3IZ6fAmB15J15Z2ePNaJrLeIqkTs035eeBNfqX8hiMCUCA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvZGRfYmhhcmF0aS9uZGFzaGQv:Expires=1739291611:KeyName=iptv-prod-media-cdn-keys:Signature=F7euorTDW2ND4bMnIKSaWJyERZLTqWBy4Jslz8ZA-qBjpAmPORgHZ-JJsnPsQVtUQHqh86eOk2AIiM0uGmocDQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/dd_bharati/ndashd/dd_bharati.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5c858470533b34b49028725ee43c2ae8:8e96b541bde1a21ccdc5650f855221c5
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=dd-kisan
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_KISAN" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65761106a3b7866cb8414c70/images/665.webp" group-title="Infotainment", DD Kisan
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwL2RkX2tpc2FuL25kYXNoZC8=:Expires=1739203362:KeyName=iptv-prod-media-cdn-keys:Signature=Q9IPgqO2JgQIzAJqk0itlsoNrPehY0h6VIPFsEC9adhw-C7B9O6Edm9bEZlKsJiQrNKoY9IQ0oQzaPotBOhhBA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwL2RkX2tpc2FuL25kYXNoZC8=:Expires=1739291614:KeyName=iptv-prod-media-cdn-keys:Signature=NOmrYPe4bb7_AVUudDMkmDwDpSKATiYyQAdcWYFnUamchN9lmLI1-O781cLp0BtXqQ83niqKw-6vQRJzGLbSCQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med10/dd_kisan/ndashd/dd_kisan.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6abe51a584e73970badcddcdc0097d3f:78c5e6a068875109b573499e3f917d6e
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=dd-up
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_UP" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e623d1fb238115f8ae/images/568.webp" group-title="Entertainment", DD UP
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvZGRfdXAvbmRhc2hkLw==:Expires=1739203363:KeyName=iptv-prod-media-cdn-keys:Signature=hk_Pjo1JgqPP4yKsnjLsHty9_4ya0aGxUs9JjvDQgT8xnP5tTkQpSrgFVC_yDM6Cn3Rg7Se5-VVMP1SfZA2eCQ=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvZGRfdXAvbmRhc2hkLw==:Expires=1739291616:KeyName=iptv-prod-media-cdn-keys:Signature=kqEsm9_8QZSVnv8Q_u5CaUWWVfE_H6AM1DPcBu8-EJAcXNxLrRmfx1Y7YxidoRIocCPV45WTjtY26AtNEj_TCw=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/dd_up/ndashd/dd_up.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d7a716f41dc3a60be0d1a81837e5e27:1d0ee2dfab371d87151e6f78d44e463f
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=dd-rajasthan
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_RAJASTHAN" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6576113851545a065210830f/images/349.webp" group-title="Entertainment", DD Rajasthan
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvZGRfcmFqYXN0aGFuL25kYXNoZC8=:Expires=1739203364:KeyName=iptv-prod-media-cdn-keys:Signature=xMO8C81_I1lmlgHTJd2F1ZWKc4D3GW8mZpZxR7qYz0-KBQNocJXwHT_8fAVNFoZ3Gsw4I7VSB35ye_ZN8qNFAg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvZGRfcmFqYXN0aGFuL25kYXNoZC8=:Expires=1739291619:KeyName=iptv-prod-media-cdn-keys:Signature=MREalqUR7H_eAF2XVmUGLvqdqsPSSPhHiGgWR5mIMRP-IoLG0qF-oFSvT2MMq4Le2y4iDF686haCpGpbJvssAg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/dd_rajasthan/ndashd/dd_rajasthan.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c88874cdd33c3240a4ccc20b8bf9000f:4839c814b2e0e81da72baeff94327e82
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=dd-mp
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_MP" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6616ec3851d9d7117a501879/images/399.webp" group-title="Entertainment", DD MP
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwL2RkX21wL25kYXNoZC8=:Expires=1739203365:KeyName=iptv-prod-media-cdn-keys:Signature=6iqalLEzdTDF5RoTVyLXKHjAWnkmbwQVYe-S-Dtw-N3sjSNoMeSj9n3YazKETPktW31-U2SurDGCRvHevQllAw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwL2RkX21wL25kYXNoZC8=:Expires=1739291622:KeyName=iptv-prod-media-cdn-keys:Signature=lT6uvneXbNhpkTYwQkp8xBqpmvjIU6aE8Yzyu99Gr1bh2LyerA-3DxVaHJrThz-UZCWvCm4_Y-JjrCG7T7wtBQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med10/dd_mp/ndashd/dd_mp.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d46d955693433b9f9249f4dffd6f016b:22d33ed8879ddd6e4eda0bee6e2055f1
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=sony-max
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_MAX" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f1fd033abf53d08e75ac/images/97221101.webp" group-title="Movies", SONY Max
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvc29ueV9tYXgvbmRhc2hkLw==:Expires=1739203366:KeyName=iptv-prod-media-cdn-keys:Signature=v8r4_gdt8qGFbONJo-CmAJ601W7j8NrVKiMc9S0Rp4_NVVp86rWebbqjNP_PXS5GNo_8F5NZsiOkqGuEjrTmAg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvc29ueV9tYXgvbmRhc2hkLw==:Expires=1739291624:KeyName=iptv-prod-media-cdn-keys:Signature=48Z9SXcD97DYmuR5rmcheCdrey69XV-9Yz0hrrHGEj-IE5fcqsNFzhxQelDQ_Z_Uf5Tv8yifgASS0JgjDnejAQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/sony_max/ndashd/sony_max.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56e4c07c58693945831f20b7ffee4ca3:6c5f7b5e77419fcc1e954c518efc10bf
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=zee-cinema
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_CINEMA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f51c033abf53d08e967a/images/350.webp" group-title="Movies", ZEE CINEMA
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV9jaW5lbWEvbmRhc2hkLw==:Expires=1739203367:KeyName=iptv-prod-media-cdn-keys:Signature=8CpEoGYu6M59ZsNlifQwJbfVo-c6m7N2gZ5JtixEO4t5bxbhyifup0VH_M05PHixTFkr-XVPKz7GWyIOkXkoDw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV9jaW5lbWEvbmRhc2hkLw==:Expires=1739291627:KeyName=iptv-prod-media-cdn-keys:Signature=Tfn6t0QPA8qmyhx-enbd_zzAXdp8tNlJY2SvzZjVOd7hIxi9IVKe0a2w6i-v3u8SqnAp6wphpqtPrNrwazaWBA=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med12/zee_cinema/ndashd/zee_cinema.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c23701522dc53a78a3869ee6b1d2d8f5:4f2a47857d6724c84852447cdcb02765
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=sony-max-2
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_MAX_2" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f584fe0772265fedff18/images/13221101.webp" group-title="Movies", Sony Max 2
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3NvbnlfbWF4XzIvbmRhc2hkLw==:Expires=1739203369:KeyName=iptv-prod-media-cdn-keys:Signature=MDueMDU_0WJDD7GXV4oqENIQ2dDiHTVCmqyU84T73V6uNFAXgdlSzNNr-aMNEofG-LDf4X3BMrdCx7l3wRTqAw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3NvbnlfbWF4XzIvbmRhc2hkLw==:Expires=1739291629:KeyName=iptv-prod-media-cdn-keys:Signature=w6Pvad6cC2wN5eArY96eLllOZHrPLsufXLHfA30t0FcOoZG68jXdve5umw-LrhnRYZZIzq-723LGQ49NL9PGBg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med14/sony_max_2/ndashd/sony_max_2.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=292a69002b353485998153ebb37d7946:ba27a317790d6b06f7497695d0b61ca9
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=andpictures
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SYMANDPICTURES" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6584951a0a0fe453216392c3/images/LANDSCAPE_169/LANDSCAPE_169_Fo9O5mMuw_32.webp" group-title="Movies", &Pictures
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1L2FuZF9waWN0dXJlcy9uZGFzaGQv:Expires=1739203370:KeyName=iptv-prod-media-cdn-keys:Signature=z-YlblpboJ2OdvNByBMI9RDRsSAYz1NhVsLhpaEpBfHSDoh6z3HEtd0_VD6InI07FfVjMrjJMeYUaJVXsbO2AA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1L2FuZF9waWN0dXJlcy9uZGFzaGQv:Expires=1739291632:KeyName=iptv-prod-media-cdn-keys:Signature=rmwvDIvX8LjFFk_k9PnNH-PYz5WsZ_lWjN6e0AqT81IRvrWquUu3--UQaXk0G8HN8VTMPgy_TGutLrwKkTcyAA=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med15/and_pictures/ndashd/and_pictures.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8a1a9e1e57403add84c1425bc1c35ef7:ecbe6a25a5ada5583721eec4563ce8db
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=zee-bollywood
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_BOLLYWOOD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f6f7033abf53d08eaa29/images/654.webp" group-title="Movies", Zee Bollywood
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDUvemVlX2JvbGx5d29vZC9uZGFzaGQv:Expires=1739203370:KeyName=iptv-prod-media-cdn-keys:Signature=NouvwYMLvGXbIUdMsoODodX8Rp0lb4iEgg8w18wlj_H_3FulSaqgx1oqdEE_qcZ8BTpMe15O7xp3idjX2axbCg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDUvemVlX2JvbGx5d29vZC9uZGFzaGQv:Expires=1739291635:KeyName=iptv-prod-media-cdn-keys:Signature=7MAdWRHoe2bRmkmvYT91_DYtdxXzkVvr3gI2DsHjTiUso1yXwmht97SzTmz2CdV-YPx2WhbHYJ8qOol0kkDfDQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med5/zee_bollywood/ndashd/zee_bollywood.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a55dc1b9bfc39e6acb35c9278449116:1806c5cbf0b66a06ff2d2821f35e89bc
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=action-cinema
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ACTION_CINEMA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ACTION_CINEMA/images/LANDSCAPE_169/LANDSCAPE_169_0n2PRFWbT_Zee-Action_264x144.webp" group-title="Movies", Action Cinema
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1L2FjdGlvbl9jaW5lbWEvbmRhc2hkLw==:Expires=1739203371:KeyName=iptv-prod-media-cdn-keys:Signature=LKIJ3s3n8wh6s7ClgDjQfARpbpkJyP_l3xy0TQmLfk95fPCWNP49T4__otFC6diPmvlyEbgQ_bwuLV6ELCxBCA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1L2FjdGlvbl9jaW5lbWEvbmRhc2hkLw==:Expires=1739291638:KeyName=iptv-prod-media-cdn-keys:Signature=mGglVQktO43nIRtOCMl-3BfxpzRGIUzVclrjuGcjdJAQ2jJNnW5gZqMJzZA4vUxfJlzdxJujMP4lXqkJEapUBg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med15/action_cinema/ndashd/action_cinema.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ccacc3e29e438faaabbc8f7cb8d1fe7:d8b40fedaf5d18f69c7061dfcfbfa407
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=sony-wah
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_WAH" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f4d8033abf53d08e93a2/images/294221101.webp" group-title="Movies", Sony Wah
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3Nvbnlfd2FoL25kYXNoZC8=:Expires=1739203372:KeyName=iptv-prod-media-cdn-keys:Signature=Ax3cvYBdQ2OwZEpU29jsQl9_BFg4txbqEPj_2Qr7SKXEzWxAFMbhwOYN7vCkklglyQ5tsUU8kkKLAexYt91lBg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3Nvbnlfd2FoL25kYXNoZC8=:Expires=1739291640:KeyName=iptv-prod-media-cdn-keys:Signature=_R4Zc22SgvGM8GMXETsjqzt1mie0_SXzlPkqX4nS4rljAYawM4MjIabQzZxvgibfTZvauRMeksxB7Vk7rO65DQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med14/sony_wah/ndashd/sony_wah.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8cfaa50e379239d79d09e95f0ca3579e:ac57f7a3d3c6156daca24122f24a853d
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=zee-anmol-cinema
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572fdf1fe0772265fee5bf3/images/108.webp" group-title="Movies", Zee Anmol Cinema
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV9hbm1vbF9jaW5lbWEvbmRhc2hkLw==:Expires=1739203373:KeyName=iptv-prod-media-cdn-keys:Signature=MLWwsmMcdAcMqM0beB3Yl4GUXjNhwgMeXuT2fdO7vdIhZVROX15OUV5szT1YEZ3Axl77rUz89ad0phP76T6YDA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV9hbm1vbF9jaW5lbWEvbmRhc2hkLw==:Expires=1739291643:KeyName=iptv-prod-media-cdn-keys:Signature=5a3KQoB8nCS0K2q56zGs7B13sMTMQ68aV2SUfiyXwnRjo4Cc_nUVxyALAilf-2Bblgu7mhWMGnY5Oy5a8GTLAQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med12/zee_anmol_cinema/ndashd/zee_anmol_cinema.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6b56fdae345237b690052e5007f00ee5:4fa3289f47007bc93d15c01bac096534
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=b4u-kadak
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_B4U_KADAK" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_B4U_KADAK/images/LANDSCAPE_169/LANDSCAPE_169_Ce4nkpXRD_B4U-Kadak_264x144.webp" group-title="Movies", B4U Kadak
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDIvYjR1X2thZGFrL25kYXNoZC8=:Expires=1739203374:KeyName=iptv-prod-media-cdn-keys:Signature=qvq-AH2kdpxH7hohGA1b-Uv3DXlchirshVHmTY7-JrS0mGtc-nHEd4tbxCgY9QMsy63ZNYmJwgnskMXTbbVSAA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDIvYjR1X2thZGFrL25kYXNoZC8=:Expires=1739291645:KeyName=iptv-prod-media-cdn-keys:Signature=VcNhxNP3u556sIOoM-w3SnLw6IkR3ZnBmnq-VOQVCVh5ZVHfZql6IU4SsK9mFE4TD2Gm-7zGgR8_j6rAl2kpCQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med2/b4u_kadak/ndashd/b4u_kadak.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d60ff3e153935cd8ea12b5f596bc3c2:5670d878de24a25b5f38caa51f3c0e0a
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=zee-classic
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_CLASSIC" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797923c4589e08ce80f411/images/547.webp" group-title="Movies", Zee Classic
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV9jbGFzc2ljL25kYXNoZC8=:Expires=1739203375:KeyName=iptv-prod-media-cdn-keys:Signature=um63TAWwbXe-V6XicdFIBHeCXX7s8hl3_wgRkTZ5beMmkzAxdzHkjzVCKydC0lY31YZv2covvX0437JRfUGFCg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV9jbGFzc2ljL25kYXNoZC8=:Expires=1739291648:KeyName=iptv-prod-media-cdn-keys:Signature=pNqFDWGvO2RmZqL7VwHTeO5khotUShUq1gHkbnvDixJs-0ob6WEGWBeuT269QoZKw-jQ7C6voNc8hGqhi0j3CQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med12/zee_classic/ndashd/zee_classic.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5c492058ca0c3666a372c84c5a3379c9:f841ff79eca11ae0603ea08155b5cca8
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=b4u-movies
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_B4U_MOVIES" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572ef03dc5dfc4403f7a33a/images/650.webp" group-title="Movies", B4U Movies
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvYjR1X21vdmllcy9uZGFzaGQv:Expires=1739203376:KeyName=iptv-prod-media-cdn-keys:Signature=_nV5fALeybuepfszJX23gtW5vqyPGHo3iQvvB3EhvHxfHeCT7NpHuL4Uel7x2GwflkIrsbUH0qIkE3pIBdxPDQ=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvYjR1X21vdmllcy9uZGFzaGQv:Expires=1739291650:KeyName=iptv-prod-media-cdn-keys:Signature=IMwyWbls5J-2jYI3AGp0i10Smzi10stequWMq0Oy9gKpKA3On-45La9SXJMZSwdVHBPKUtFp-WjSiZErAnpNAQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/b4u_movies/ndashd/b4u_movies.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40427c3be5cf31f280666fb1e9e27a50:f8409a6575826b939253ad29dd1c42d9
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=zee-anmol-cinema-2
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2/images/LANDSCAPE_169/LANDSCAPE_169_bRqgJsZ24_ZAC2-ORANGE_264x144.webp" group-title="Movies", Zee Anmol Cinema 2
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV9hbm1vbF9jaW5lbWFfMi9uZGFzaGQv:Expires=1739203377:KeyName=iptv-prod-media-cdn-keys:Signature=9PuV7GCVqJbi0esuu-qC8cJnl4P99IE8t_opWx6wc9-M4DUzmHfeoetj2ddELiMtevozOcbEyZHNsAcn2K51Ag=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV9hbm1vbF9jaW5lbWFfMi9uZGFzaGQv:Expires=1739291653:KeyName=iptv-prod-media-cdn-keys:Signature=KM6EkeQVV2DZAOuYdLeTlW7njJrliMvW6j3JYMZ6URFWUU-Wgckja9cCkgSCU-OuFgacGInNHzvlXoXBd-1rBQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med12/zee_anmol_cinema_2/ndashd/zee_anmol_cinema_2.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=89c2689ca67732689761fc3fb73a03da:e74667a42a1ca4628b2d691abf047d26
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=mh-one-dil-se
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_MH_ONE_DIL_SE" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572ef81033abf53d08e5b99/images/887.webp" group-title="Regional", MH One Dil Se
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L21oX29uZV9kaWxfc2UvbmRhc2hkLw==:Expires=1739203378:KeyName=iptv-prod-media-cdn-keys:Signature=y4zCmD17SCR1TzBM49izM4My_6xFW0tQ6AGuQI_tD_nh-sfcRpM5IJ78Pl5udxjROAxb9_8NqVi_kqA4r-ExCQ=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L21oX29uZV9kaWxfc2UvbmRhc2hkLw==:Expires=1739291655:KeyName=iptv-prod-media-cdn-keys:Signature=FnFrHYTZAhZ5qsjtT0qUPZmxhwdNTcf7VcI-d6ULbR9M3NmvuRlI7jz033uIfR5Eqw5_1y4sZXpJJvQR6WI_Dw=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med14/mh_one_dil_se/ndashd/mh_one_dil_se.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec2d298cc5943dbfb2fd1b75d54c4c9a:bb2c99d764f17b708e7cdd5878535b4e
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=sony-sports-ten-3
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_3" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b44/images/386221101.webp" group-title="Sports", SONY SPORTS TEN 3
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzL3Nvbnlfc3BvcnRzX3Rlbl8zL25kYXNoZC8=:Expires=1739203379:KeyName=iptv-prod-media-cdn-keys:Signature=GibInCY0QvLeIQuCF-vOrIHHs6PZLMoelOqgCWkG0qKhD7YVSzcz3-A-X1cye5nRFi_XLDA66v-KH6y2XGMDCg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzL3Nvbnlfc3BvcnRzX3Rlbl8zL25kYXNoZC8=:Expires=1739291658:KeyName=iptv-prod-media-cdn-keys:Signature=WK493g7vKonyDSi3aoaqK8mf1NP2MyYP3Km0qGdqCrc1-N8GI53sbLHG-tJmOp1Od-79BPFP3mp4qsc_WNKyAw=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med13/sony_sports_ten_3/ndashd/sony_sports_ten_3.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8432f0d30cb8340c9eb7823ea0e501a8:29527903a014cb1bdc62a1cb486887ee
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=dd-sports
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_SPORTS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610ee83bf8d2567aaca6a/images/667.webp" group-title="Sports", DD Sports
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvZGRfc3BvcnRzL25kYXNoZC8=:Expires=1739203381:KeyName=iptv-prod-media-cdn-keys:Signature=WR2EQeRtmvgd0cGYn2g1Zdfub3u27kSda34u6UkPMcp9ucLSy9ATez6ofxb17iX1AaBYeLS0pDEW1Nyu6h12Cw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvZGRfc3BvcnRzL25kYXNoZC8=:Expires=1739291661:KeyName=iptv-prod-media-cdn-keys:Signature=9KIpwyem7hoCthJ4Tm6SgaHxuGQGmSxXZJGoo_4zwYYUCHrzlGVW2b7qjUaVsLz8M4nBBSDolCmyJovqOoyMAQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/dd_sports/ndashd/dd_sports.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d29f9cc2592833ab83522ffa033ab71f:ed09ed7a6d148026e5a0555f3e32630a
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=eurosport
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_EUROSPORT" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bfe21d2c0e2cbafc1adb/images/19.webp" group-title="Sports", Eurosport
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDExL2V1cm9zcG9ydC9uZGFzaGQv:Expires=1739203382:KeyName=iptv-prod-media-cdn-keys:Signature=voVlJOTTf56nU1wDP8GU0hshglkEij3BxtbYm3KXujcZLupfz0EA3749CH1tm1R7cZ3hByfnUu0ZKVigP9sfCg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDExL2V1cm9zcG9ydC9uZGFzaGQv:Expires=1739291663:KeyName=iptv-prod-media-cdn-keys:Signature=5yDFVh7KCSg4pdDgWtxqjalLpvfSwRrmFlXLnzHyv9NDcPTLTnqd4bXrovQE5BAm6Jb-CMeLkN22K-FTvsqhBg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med11/eurosport/ndashd/eurosport.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f8f44a4f28533484ba96362d7bd5e96f:3311ab1ca6e4df8b3fd7093190faffbb
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=abp-news
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ABP_NEWS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eedd033abf53d08e53f8/images/LANDSCAPE_169/LANDSCAPE_169_t9XCpWn0A_ABP-NEWS-LOGO_264x144.webp" group-title="News", ABP News
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L2FicF9uZXdzL25kYXNoZC8=:Expires=1739203383:KeyName=iptv-prod-media-cdn-keys:Signature=O0Ryz8IAuYCm-s2WIYkQ8Yqa4osEq4ZlDcow_Yin-O-4yHF9_pDmE5qugGJljkQzNfRxuDfSuK03a-y5WQciAw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L2FicF9uZXdzL25kYXNoZC8=:Expires=1739291666:KeyName=iptv-prod-media-cdn-keys:Signature=q4t180gpCB3J0XNfH9w3eshKULWdaw6Yb_eYVSOYhiUR4t88OrWTqz23TTXpfOByRO4ldDYHmB8qQs_H5BkHBA=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med14/abp_news/ndashd/abp_news.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1e45b2b72adb3f67b71ea83e28dc4d4c:29574224e3be8cd17afb42e0122fb40f
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=zee-news
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_NEWS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797945a8676a17df1036cd/images/583.webp" group-title="News", Zee News
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV9uZXdzL25kYXNoZC8=:Expires=1739203384:KeyName=iptv-prod-media-cdn-keys:Signature=77dTj9AwWNVvDjeHt-QhY5-oqqUyJYo4ocB_ELC3lj0hkIwtuPvO_kpfr6guRSv415kh14kgU6ALai-8yCu8Cw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV9uZXdzL25kYXNoZC8=:Expires=1739291668:KeyName=iptv-prod-media-cdn-keys:Signature=ipeQdIx_W3nFsBppfJZ11E4ZDi4asSIIC4WxOsyi3tmLNVP1v5dEd0XP-JMno6xMSEPP-u-QurxGlJVaW-GkCg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med12/zee_news/ndashd/zee_news.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=22274ee0087b33b8a925c7463c792eff:741b9f3d3fa7fde05b19f2a79f293318
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=aaj-tak
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_AAJ_TAK" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eec8fe0772265fedb972/images/566.webp" group-title="News", Aaj Tak
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvYWFqX3Rhay9uZGFzaGQv:Expires=1739203385:KeyName=iptv-prod-media-cdn-keys:Signature=IlZ4h1IXWGe8jjJrFRPByeKTciEYDNmSMAiqYtZAOOLgRay3TQi5W2WG94k02G0sp9zPVKyyw1GYRW4v84xQAw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvYWFqX3Rhay9uZGFzaGQv:Expires=1739291671:KeyName=iptv-prod-media-cdn-keys:Signature=2iE9AEm9bMghcwjZDXFvjTsHqq40AhtH4ijwnVFVNxASS77TxAukY5PHooqVinj2StJbwz_EzSLFKTLFTWm0CQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/aaj_tak/ndashd/aaj_tak.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c10c62fcfafd3ff189ef85480b9c7988:bd94ae47aaa8e9880c5f95e8b32c0330
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=india-tv
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_INDIA_TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bff251545a0652105dfd/images/546.webp" group-title="News", India TV
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvaW5kaWFfdHYvbmRhc2hkLw==:Expires=1739203386:KeyName=iptv-prod-media-cdn-keys:Signature=rlc_x3Ef8fMn-CSUKuaBps_gH7qOhGrJHMJUOFtb3r5BvNiiGPWZ9SqmkCKhWgaCwylfMOTlSBcobR8TWOz8CA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvaW5kaWFfdHYvbmRhc2hkLw==:Expires=1739291674:KeyName=iptv-prod-media-cdn-keys:Signature=4A-PMEQhO0cVJ6V14WO-AeqREg4wth9wwq1Ga2_hIFXspzny2zBhclsjNplnIOrB0gtQzUKEfhkaR3IMNbEGCw=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/india_tv/ndashd/india_tv.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c43a2f41043a758b1bbd1dfdcb5c90:b7785e4dd461bcbb05604423d4add024
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=r-bharat
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_R_BHARAT" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978cea9540e6b3ede3fb6/images/8.webp" group-title="News", R Bharat
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3JfYmhhcmF0L25kYXNoZC8=:Expires=1739203387:KeyName=iptv-prod-media-cdn-keys:Signature=2LXwMdomGuHyrF8qQiWLr4xIIHOTycI-AeO33c0aVSspzDDDjUoqOICJLvm3v_vNg947QeXod_aGPAK70gx5AA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3JfYmhhcmF0L25kYXNoZC8=:Expires=1739291677:KeyName=iptv-prod-media-cdn-keys:Signature=QQjxTuF5Y58LTwYKQU9-MfqCL9l5pwLK_wcBcT0T0VnA0JIuSfVRc8xf_KGMCPZMCYqQDx2BqnU6oqM216l7Bg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med14/r_bharat/ndashd/r_bharat.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f336d1c226f6308786b87067687cc60e:8b09d754b244fc1580e00115bc2a63ae
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=ndtv-india
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_NDTV_INDIA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bff4885fc401d48ff794/images/304.webp" group-title="News", NDTV India
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMvbmR0dl9pbmRpYS9uZGFzaGQv:Expires=1739203388:KeyName=iptv-prod-media-cdn-keys:Signature=5Z2qK6DNAljRE7vivJFYJog_GS681tsqLl145H__KIdSoIZDt05bnh2iNg3bMwynp-v4EF-zvcyVXdxdRfXYBg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMvbmR0dl9pbmRpYS9uZGFzaGQv:Expires=1739291679:KeyName=iptv-prod-media-cdn-keys:Signature=v1TY_LPCfwZ8YliXsgp1JVdAQYLN_vK1035RYZK7GxJK79gAbTeP4ZyJH7sTs_JJVcNVbd_F6g0aa_ED_1zDBQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med3/ndtv_india/ndashd/ndtv_india.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5e0617eabae3534b5ec94b460e55135:a1acbed0271364e202ed55c63d79e8f4
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=zee-bharat
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_BHARAT" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657979c2a8676a17df103ee5/images/430280923.webp" group-title="News", Zee Bharat
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvemVlX2JoYXJhdC9uZGFzaGQv:Expires=1739203390:KeyName=iptv-prod-media-cdn-keys:Signature=INtYH2YpZIcl1PQR_-TfTiydYndbJoL8k7i6lacJ6If-B_2E6mOkLa_FnoC9iWrOH7dyZ4gMu6zDuOlqV5_hBw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvemVlX2JoYXJhdC9uZGFzaGQv:Expires=1739291682:KeyName=iptv-prod-media-cdn-keys:Signature=LqsbZ6Fne-6t5dVRIJAyjiqNQXAk6_PlyYVNKkRwBAAiBy82ZQUs2crrwN-bVK9Jb8xfbRPJ_8s4xzR2zvWyAA=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/zee_bharat/ndashd/zee_bharat.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6e4e7ea9ad9c3b128ebd2e7dac83ef47:b7d8230b2c4e518fb0a8e00217765604
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=news-nation
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_NEWS_NATION" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6579788f8d36cd1598f95f1f/images/577.webp" group-title="News", News Nation
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMvbmV3c19uYXRpb24vbmRhc2hkLw==:Expires=1739203391:KeyName=iptv-prod-media-cdn-keys:Signature=8uo2lnEFrxQMBGmdbjem8oX8h5XrXRDAJN1HyV3e9F33dbARdv_3JclNs5WKyRve5hoOaou9ZAnQYJyJ-IU_Bw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMvbmV3c19uYXRpb24vbmRhc2hkLw==:Expires=1739291684:KeyName=iptv-prod-media-cdn-keys:Signature=NF5b1kEYn7XUjKka3MtP5aS0R1bCF6kaQg29x0ukiiIiF3d8divz2cvz-cJ3jJ_gUWnt1sk0rkCK4wwTdI-YAw=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med3/news_nation/ndashd/news_nation.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=84547885167239d8825a012c8f1996d9:83b2de8db5661999615d5822b1d13446
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=good-news-today
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_GOOD_NEWS_TODAY" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bfeb23d1fb238115e252/images/618.webp" group-title="News", Good News Today
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDIvZ29vZF9uZXdzX3RvZGF5L25kYXNoZC8=:Expires=1739203392:KeyName=iptv-prod-media-cdn-keys:Signature=S_F01dBi2na2yU5BXPekgPISla1VCGUoiPm2RjOIxgZat4F2CUmNTvD4icXe1kPnEGKkIdTw98F7MRuyd-afCw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDIvZ29vZF9uZXdzX3RvZGF5L25kYXNoZC8=:Expires=1739291687:KeyName=iptv-prod-media-cdn-keys:Signature=_xJMqbSQvdhDlACaCByFVmawPmfOwZZsQ9TPKBiQtqrgzYALaG2tUWZ45-8yK1up-f-20ymrJnhuAccnK7OyDg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med2/good_news_today/ndashd/good_news_today.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2aadec05e909366aa4870267b850aee5:7a89dd14b89959f633b385bd5fcfd6c8
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=times-now-navbharat
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_TIMES_NOW_NAVBHARAT" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978c1c5625a16ee72eb49/images/818220423.webp" group-title="News", Times Now Navbharat
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3RpbWVzX25vd19uYXZiaGFyYXQvbmRhc2hkLw==:Expires=1739203393:KeyName=iptv-prod-media-cdn-keys:Signature=DREDAu_mg5ut1SaVJE5KXCzedsEa7lOKJOUJ6ezF7sGwluvxVk_OXplDPIbuTgC2XPKvQnNBJVzHUKSYCXXHAQ=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3RpbWVzX25vd19uYXZiaGFyYXQvbmRhc2hkLw==:Expires=1739291689:KeyName=iptv-prod-media-cdn-keys:Signature=OAnv8RROWHhaj2Yy1nP_jRRXDAKfyT-x3_TpbDvKzsqfFPcfZ-xPvSWkz417ZnZ4an66JVlD08bRhXYolAHBAw=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med14/times_now_navbharat/ndashd/times_now_navbharat.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1cd45425036b309db1e9724da73cbee0:923ecbc3b0ead639fbe76abcc56572d2
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=news24
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_NEWS24" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a59d8fb452ad919b7e/images/556.webp" group-title="News", News24
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMvbmV3czI0L25kYXNoZC8=:Expires=1739203394:KeyName=iptv-prod-media-cdn-keys:Signature=OTY4FPOihls1l07dlpND0VRPuw1wMl0vj2d699MZo081b5oMKzSMeDwITLwWfMNwdJ_fF2MO_u5PymeG-o5ICA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMvbmV3czI0L25kYXNoZC8=:Expires=1739291692:KeyName=iptv-prod-media-cdn-keys:Signature=eZqNeMkOy3YaHA_Sn6l2VdCT9SDiiL_2Tl9K3lL_mniStKstB0bEHUJeZYicUayffKcSmIWv0SAeCGp24OzHDg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med3/news24/ndashd/news24.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0344fe89babf377dad8e8fb22aeb204a:3c92fcf1422e2ae5f087f0aa343c614e
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=zee-business
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_BUSINESS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797977c4589e08ce80f9b8/images/141.webp" group-title="News", Zee Business
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV9idXNpbmVzcy9uZGFzaGQv:Expires=1739203395:KeyName=iptv-prod-media-cdn-keys:Signature=NkWivPJtqZBJ2O2BNt2n13QVZDJ3BHwSe76Er4oZIfdWMHbJeEx2tdwaPEnKFHJ_oRjKaaIxmR4I-LwSLxnWBQ=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV9idXNpbmVzcy9uZGFzaGQv:Expires=1739291694:KeyName=iptv-prod-media-cdn-keys:Signature=MFaHeajlA3mRE-JV0w4qivJ-G9C8bX5yopia02SzE8a2kLyqr1cOwhRiVhWWYaMHegmQCiQmM9gw3e6ilR8mAA=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med12/zee_business/ndashd/zee_business.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=98614f133df434aa85073a2ba7c61c03:3764151be113023ec8fe62ae297cf465
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=et-now-swadesh
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ET_NOW_SWADESH" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65761110e533e2124e759923/images/813.webp" group-title="News", ET NOW SWADESH
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzL2V0X25vd19zd2FkZXNoL25kYXNoZC8=:Expires=1739203396:KeyName=iptv-prod-media-cdn-keys:Signature=0Vu3NxQBhL2SoG7Y5_XIBU7rsPX2tpZLp23zxBoRqGKrwvsBDHXPncspaj24FxxH53bqHRe1Z2HV6EPd3SrlAw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzL2V0X25vd19zd2FkZXNoL25kYXNoZC8=:Expires=1739291697:KeyName=iptv-prod-media-cdn-keys:Signature=xr1jQa62q7WZu9dgPODSTGDB1d-LYx5nUE7j42ZECcUzfsJn5SR6y-xeLUdOuDob9-xaoi0_RVl0luU6R0ibBg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med13/et_now_swadesh/ndashd/et_now_swadesh.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a41f83316bdb3453bb6b444d837f4795:b3f1ce80a4583976f8337d17fae3286c
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=zee-rajasthan-news
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_RAJASTHAN_NEWS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657979c5a9540e6b3ede4a58/images/376.webp" group-title="News", Zee Rajasthan News
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV9yYWphc3RoYW5fbmV3cy9uZGFzaGQv:Expires=1739203397:KeyName=iptv-prod-media-cdn-keys:Signature=EO_HOmRp7ghYfz5wLh06aeFqiKR5PXeZ4aEh51HQYIjIgK46adNDRop5eC2RUgF0XYUep2NbccmknXsVvXbPCQ=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV9yYWphc3RoYW5fbmV3cy9uZGFzaGQv:Expires=1739291700:KeyName=iptv-prod-media-cdn-keys:Signature=FUkbx58k5xYKf6J1cqLglKwy-9gpHboAQ8KK2BZIf-T64suU-GGYFcYeKY3T9tsLI-x1t8hK9w9LjHxuZjRXCQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med12/zee_rajasthan_news/ndashd/zee_rajasthan_news.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5828c99e52aa3eada9a2171c3e504a2f:dced37a2974cc479d2be03bb5ed901fc
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=zee-madhya-pradesh-chhattisgarh
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_MADHYA_PRADESH_CHHATTISGARH" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6579792dc4589e08ce80f4db/images/658.webp" group-title="Regional", Zee Madhya Pradesh Chhattisgarh
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV9tYWRoeWFfcHJhZGVzaF9jaGhhdHRpc2dhcmgvbmRhc2hkLw==:Expires=1739203398:KeyName=iptv-prod-media-cdn-keys:Signature=Jm3Tq1cswJvAfwWKu1opyeymymwT6s9ooc8yvco2EOo-P0kHazjmFU3mq0AEyvNY8JFI02tcf7VhWo_XwwqCAQ=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV9tYWRoeWFfcHJhZGVzaF9jaGhhdHRpc2dhcmgvbmRhc2hkLw==:Expires=1739291703:KeyName=iptv-prod-media-cdn-keys:Signature=taRs8x6uWt32yzj6r1ITM4K3pN8l8aVEVQNh22y_4Iafo_TUWQXmKfxYZEATYtA5EGwK9ThB3izPf6G_ymUbBA=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med12/zee_madhya_pradesh_chhattisgarh/ndashd/zee_madhya_pradesh_chhattisgarh.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e8054e1b63613841bc6d55eb99c7292a:f06eff4bcdf3c21e97138ac761f8280e
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=dd-news
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_NEWS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610ed83bf8d2567aaca69/images/447.webp" group-title="News", DD News
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvZGRfbmV3cy9uZGFzaGQv:Expires=1739203399:KeyName=iptv-prod-media-cdn-keys:Signature=aJwo2yOteyy1Vq3Kp8mfkKamxoBMsCwOaNibKuWsPicGo-df9hElNwgzJtQ_XF7MWovoacLtWXLhQ7ZunDdADA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvZGRfbmV3cy9uZGFzaGQv:Expires=1739291705:KeyName=iptv-prod-media-cdn-keys:Signature=1s1Jn7oBVN0WW8EYqImVx8D10c-EdW15dG9rGQIZKJiniCN-meeOGpK8CLrODAM4bvTd9-Td2M0PSCXtK8YRAA=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/dd_news/ndashd/dd_news.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2da58f9d805236069409e14c2bf1cda9:e3b9e3ccf07e55bb41102af856a61c93
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=mirror-now
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_MIRROR_NOW" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bff751545a0652105e7d/images/482.webp" group-title="News", MIRROR NOW
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDIvbWlycm9yX25vdy9uZGFzaGQv:Expires=1739203400:KeyName=iptv-prod-media-cdn-keys:Signature=FV25IZEG4S2XmYLDgdo3G2ohoR_fOecB9FjhWByj5raIShbK-EBvtnChUue10Iqj5YcR5q80Q5GWK1wpbcmzCw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDIvbWlycm9yX25vdy9uZGFzaGQv:Expires=1739291708:KeyName=iptv-prod-media-cdn-keys:Signature=H46pbonwCHn_qkNi6GGZiHRsiyTr2bCkQNGqKGxPzQIuF2EjbgoVZI92TzXDWeZEyx8mbZKi6gLI-73t0j_lCw=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med2/mirror_now/ndashd/mirror_now.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba1c8d5c434934fbbd2690deb0b23a48:bb7fa25f439f20add4cff5f2ef0ea5d3
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=wion
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_WION" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978e39b315d22c1f80e84/images/606.webp" group-title="News", WION
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE4L3dpb24vbmRhc2hkLw==:Expires=1739203401:KeyName=iptv-prod-media-cdn-keys:Signature=QOiLiNlSfs2tSLj1imBE_rvu4P9AfpLT9-N13XJtBe_soZj19zdE_aTcfCUuRWNgammjP4-dW-v4HyVJBD-TCA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE4L3dpb24vbmRhc2hkLw==:Expires=1739291710:KeyName=iptv-prod-media-cdn-keys:Signature=4lGrqOzEiZldzEnCTZCVBN2So9SyQX-HOPVZEdU2Hryg__w48sT61KX3nZn9rKadpxGvhD2usdKCXGVWh5Q0Ag=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med18/wion/ndashd/wion.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3afab93ca6834b29c466c3312a58eb9:0a697307b408a8abe7460a88407398f6
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=tlc
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_TLC" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978ab25986346a8f0e2f1/images/275.webp" group-title="Lifestyle", TLC
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDQvdGxjL25kYXNoZC8=:Expires=1739203402:KeyName=iptv-prod-media-cdn-keys:Signature=jQ_Jy-q0ZUTU0luksjdrat-MqvRtHV_mvkT4TQglpTzs_ngSK6uPrJJodN7XMoRP1ExS7A8nnnvwu6Ybur6QBA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDQvdGxjL25kYXNoZC8=:Expires=1739291713:KeyName=iptv-prod-media-cdn-keys:Signature=5GVayyIoX22VLNv-I5PE-54LmQx-XbSJcud99EpuQe8hohdG6dzq62o8SySkfaNxuxEEANYVpWePGUXdm5zFAg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med4/tlc/ndashd/tlc.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=74f55de298fa3d62bf122cafc75f17b7:824d821582d0049db8e2fc2b92c893a6
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=zee-zest
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_ZEST" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978e7a8676a17df103068/images/497.webp" group-title="Entertainment", Zee Zest
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV96ZXN0L25kYXNoZC8=:Expires=1739203404:KeyName=iptv-prod-media-cdn-keys:Signature=lBrSTqpl89uZS-PI0zlUHjsfSnJFP_qGDjP5ucjuQNy-unf2EKSH1HqYSNzT6Snaewj1Ci74rniynrpKHvVjAw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV96ZXN0L25kYXNoZC8=:Expires=1739291715:KeyName=iptv-prod-media-cdn-keys:Signature=GYcIh47zpDHf76EJH-gIz8V9zBmZSicL43Lpr0n3Oi_6i2pGFOvqpzYRXHL7tlL0omB2tLyIZTM4cWCXiZe1Aw=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med12/zee_zest/ndashd/zee_zest.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=733e53683ab43db8a9a28d3e5c5c6342:64229714fb07cf96c5221536fa67caf5
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=travelxp
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_TRAVELXP" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978c3c5625a16ee72eb73/images/412.webp" group-title="Lifestyle", Travelxp
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDQvdHJhdmVseHAvbmRhc2hkLw==:Expires=1739203405:KeyName=iptv-prod-media-cdn-keys:Signature=OwWUzniqppcTfZ07PSeBdRud1XRNx7BkK_SlO82SVJND_Kc6W-EnA6LRwZve9lr00NH4O17F6Y1NtfNqgMcoAg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDQvdHJhdmVseHAvbmRhc2hkLw==:Expires=1739291719:KeyName=iptv-prod-media-cdn-keys:Signature=s_GEwBmrjU-F2zjAhh8kjrq_4Eux_rHHSzxK0dxBQuK25mQUAmKqLuiRtLhJrH7HiA_d2URehNwT7bXWM_KoCw=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med4/travelxp/ndashd/travelxp.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=97edea2a7c37373e810d03f6441c7b2c:b8c76ec061878fe2a4a801907a515179
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=discovery-channel
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DISCOVERY_CHANNEL" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65761105e533e2124e759846/images/313.webp" group-title="Infotainment", Discovery Channel
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvZGlzY292ZXJ5X2NoYW5uZWwvbmRhc2hkLw==:Expires=1739203406:KeyName=iptv-prod-media-cdn-keys:Signature=q7r6bAclmszEYHXodZ4ULcRh-33Qwcci0IK7BRPNAOaMwcHCN-kgT4pWAJbyKzrddcEU2DJ9vEiwpoUBpPSWDg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvZGlzY292ZXJ5X2NoYW5uZWwvbmRhc2hkLw==:Expires=1739291721:KeyName=iptv-prod-media-cdn-keys:Signature=HZ2xhpmkhTekpvhdEPUFd5qBsyetPX6h_aSxN3rnUQBdSBwXXGJAz0as_RYcLVHB7C-varY1S9gOG4fHVMFjDw=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/discovery_channel/ndashd/discovery_channel.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1826a27346ee3546b68b65cf369d6171:f20616a6c1292abed2ba6c3aafc61540
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=animal-planet
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ANIMAL_PLANET" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e283bf8d2567aac9d7/images/262.webp" group-title="Infotainment", Animal Planet
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvYW5pbWFsX3BsYW5ldC9uZGFzaGQv:Expires=1739203407:KeyName=iptv-prod-media-cdn-keys:Signature=GY1TVqRNzOejndOM2ddnIyEBmSAZDoXvvxsSi-uS33MeGCxpMaNOI1DBDA2yFhtvUHkms8mihf9M2ibFoSNsAg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvYW5pbWFsX3BsYW5ldC9uZGFzaGQv:Expires=1739291724:KeyName=iptv-prod-media-cdn-keys:Signature=JU1sZf0sftRLC9q2J3zDBt4f8kuBDyLrsrZQyGg7jWrsE3Z8VpyuQOtXzET0Da39OxTOqS_B4niP-KW10odhCg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/animal_planet/ndashd/animal_planet.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2241443a13b439d5a741a7bd6915b354:8df3f646d7378dac47aa70b041fe3999
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=discovery-science
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DISCOVERY_SCIENCE" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65761111a3b7866cb8414d76/images/110.webp" group-title="Infotainment", Discovery Science
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzL2Rpc2NvdmVyeV9zY2llbmNlL25kYXNoZC8=:Expires=1739203408:KeyName=iptv-prod-media-cdn-keys:Signature=dBMtuqfgHI2TPqREv6j-I0BTJz_0JYh0LOZNWGK985wYLwVww7321ObqeYd_bc0pyKuNT0HknaRC5xAGFk0YDg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzL2Rpc2NvdmVyeV9zY2llbmNlL25kYXNoZC8=:Expires=1739291729:KeyName=iptv-prod-media-cdn-keys:Signature=AsOB26eEw9XHleAH7dqwGWM9Qn1yhk-C6Vj417zbl-NPWVIjIAT7uP9cVyiY90xoTeDXlLwZzKMAZA6thz6aDA=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med13/discovery_science/ndashd/discovery_science.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=be1ca994bc243a9fb997cb71932c9269:4b4d9b54a8aa08696d4959db80e3e6a7
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=discovery-turbo
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e623d1fb238115f8b3/images/303.webp" group-title="Infotainment", Discovery Turbo
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L2Rpc2NvdmVyeV90dXJiby9uZGFzaGQv:Expires=1739203409:KeyName=iptv-prod-media-cdn-keys:Signature=VutlndrjYbh98dXCwGELOqfEOD-XlbeSGULQWsskhlCucOtJn_vJLHDoXCmA9ydNWv_rw2zRL0synQ0DcVggAg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L2Rpc2NvdmVyeV90dXJiby9uZGFzaGQv:Expires=1739291732:KeyName=iptv-prod-media-cdn-keys:Signature=iti--pfsHFATQGuo6w6-MBGfFIVs72AocHsr9U2epz__uhFvasU8BPeLa9Akg_akmJQlWqzSrU2yEwM_QC-UBw=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med14/discovery_turbo/ndashd/discovery_turbo.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0aada281b4a0349daad3b87bebd9a40a:8ae627c083b99207f8221ac2afcc3243
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=sony-bbc-earth
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_BBC_EARTH" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f5e6033abf53d08e9e78/images/LANDSCAPE_169/LANDSCAPE_169_zNKeOGwCp_Sony-BBC-Earth-SD_264x144.webp" group-title="Infotainment", Sony BBC earth
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzL3NvbnlfYmJjX2VhcnRoL25kYXNoZC8=:Expires=1739203410:KeyName=iptv-prod-media-cdn-keys:Signature=Xq13UWBIlMKTcclYFVROPXU1uqtnyOeHYxjSE1aszwGiDraVNh3hKLA4XKgHiJkXdML2Fj_bhLxavtqlH32XCg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzL3NvbnlfYmJjX2VhcnRoL25kYXNoZC8=:Expires=1739291735:KeyName=iptv-prod-media-cdn-keys:Signature=emkHiI0rUoXrAfX7IFZFuQVCl1LUn5lhEvBxfpE03aEQ-lrY5a2upJv6M_1IWvEPoqmYNo065rvxxNlHVmMXAQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med13/sony_bbc_earth/ndashd/sony_bbc_earth.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=557207f822f836e08652d1c61ad0a0d9:3e488c20f5a04383ed1cdf165dbf6449
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=sansad-tv---1-sd
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SANSAD_TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736e891cd2bb19dca31199/images/384.webp" group-title="Infotainment", Sansad TV - 1 SD
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3NhbnNhZF90di9uZGFzaGQv:Expires=1739291740:KeyName=iptv-prod-media-cdn-keys:Signature=eQ1WhwleU_cpY5rmakt8DHBgUitHW6a3Zx7bfWnwCuuPSODGULcP85g3ytq326KiQl6G8JcrU4i8r4Zpt2X4Bw=="}
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://companion-live-play1.streamready.in/live/med14/sansad_tv/ndashd/sansad_tv.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=sansad-tv---2-hd
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SANSAD_TV_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736f14d21a0c75770866eb/images/239.webp" group-title="Infotainment", Sansad TV - 2 HD
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDYvc2Fuc2FkX3R2X2hkL25kYXNoaGQv:Expires=1739203412:KeyName=iptv-prod-media-cdn-keys:Signature=OPBedUtC3HGtygMfr4LhfH25vGwQm202v_wWJttt9SRobzBdnM9iOjGsigho53c-ma14BR5IRUNA5OGJPs1BAg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDYvc2Fuc2FkX3R2X2hkL25kYXNoaGQv:Expires=1739291743:KeyName=iptv-prod-media-cdn-keys:Signature=InI2w4BZKtlcdYoOddsPSPSqIFfd1G3Bd0wF1R1G_ODRVSy08tQyE8WdZiVDlwkK85FRZ2neRUsMYcn5nE83Dg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med6/sansad_tv_hd/ndashhd/sansad_tv_hd.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=21e42f32ecbe31cf8d704f523cbb787a:09ecdc5e366638bcbabb5e5aeae78e62
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=gyandarshan
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_GYANDARSHAN" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bfeb23d1fb238115e255/images/132.webp" group-title="Infotainment", Gyandarshan
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwL2d5YW5kYXJzaGFuL25kYXNoZC8=:Expires=1739203413:KeyName=iptv-prod-media-cdn-keys:Signature=aERWgBrO8ElrpLsHfBqu34bMbh2m1lh04YUx78bjZqCvrqv3M9gEHBXnjWRtqQQdrfplEGRZbcRuZwPhwD6SCA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwL2d5YW5kYXJzaGFuL25kYXNoZC8=:Expires=1739291746:KeyName=iptv-prod-media-cdn-keys:Signature=0hTruTzm53rI8XnwSZOm41zgWxbrwW-nMUnIMMReEbfIJYd3AslcNs2jOMY09XomY-0SVMltk-61r_Yh11TnAQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med10/gyandarshan/ndashd/gyandarshan.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bef75a8c91e238089d17aabf8a32fcd8:1f0ee2f4af859cf5de7f98fe0f96f075
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=cartoon-network
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_CARTOON_NETWORK" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572ef03dc5dfc4403f7a33c/images/594.webp" group-title="Kids", Cartoon Network
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMvY2FydG9vbl9uZXR3b3JrL25kYXNoZC8=:Expires=1739203414:KeyName=iptv-prod-media-cdn-keys:Signature=__sXTltvUS-wH8zIxncZPhy2H9F2jrYUAUzA64YDcT1Lu0VDHHETaoZYrGqRSTEELuLTdBjKaLmRe1rdCImZCg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMvY2FydG9vbl9uZXR3b3JrL25kYXNoZC8=:Expires=1739291748:KeyName=iptv-prod-media-cdn-keys:Signature=knra1ZlUPSHzWcjghlu7rgUeBIfx_BdqYMJ9dS5B1WYxJCSmyBBbdd04JByNIW_AuJy-I0MSdLBsHPXSLJhPDg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med3/cartoon_network/ndashd/cartoon_network.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60e3db5b69203c6e882b52e9767b5f76:7d1640bce412b08f20b71a2226e5609e
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=pogo
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_POGO" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a69d8fb452ad919b83/images/494.webp" group-title="Kids", Pogo
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDQvcG9nby9uZGFzaGQv:Expires=1739203415:KeyName=iptv-prod-media-cdn-keys:Signature=3byVNbak3964kOHBC-397lvdb_AtwX-vXTWdyR5aEoQfQ6Aoh-axTLLfs_AcKXcB6cUxbrOw4J6utOkBA_i-AQ=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDQvcG9nby9uZGFzaGQv:Expires=1739291750:KeyName=iptv-prod-media-cdn-keys:Signature=VodEXpg9dylZPDrZxAflF-ifW5R99AYKMbg0CiktPW7eFLiyeQwCpiWSXJb9ExxMJhTnPhblgSivtwKBKwVYAg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med4/pogo/ndashd/pogo.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3eec4a1a86f53202b33fa368ba56481d:13f023cd7173da9623e41493467046c3
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=discovery-kids
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DISCOVERY_KIDS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e623d1fb238115f8b8/images/169.webp" group-title="Kids", Discovery Kids
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvZGlzY292ZXJ5X2tpZHMvbmRhc2hkLw==:Expires=1739203416:KeyName=iptv-prod-media-cdn-keys:Signature=2G5b8jZ3czolqRp40sKbbJ6hrPMaVen71d5aGnHDUfXcFHplzfAVLDnSTmdmCx9rlPKLgDR0eLLVIeeYHpATAA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvZGlzY292ZXJ5X2tpZHMvbmRhc2hkLw==:Expires=1739291754:KeyName=iptv-prod-media-cdn-keys:Signature=R_6r7V9R3YQKe1hjPpNmdAeQXi-0juluohfayrxctzw1piBxA0mLwP24TgTK8D6Ok7PRH8KmPBZYKuDEma4LAw=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/discovery_kids/ndashd/discovery_kids.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cde3379bf61d323ca1d60f8c14c4d0d3:6a2a37188c98c4869736d85c29952b07
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=gubbare
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_GUBBARE" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bff483bf8d2567aab4d1/images/770.webp" group-title="Kids", Gubbare
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L2d1YmJhcmUvbmRhc2hkLw==:Expires=1739203417:KeyName=iptv-prod-media-cdn-keys:Signature=R8UYQc3IN5Ni1mKfF-_Tpy_R_5bcUHvDQT4lr1bwOA8eiLJn_Id9gygOAZPwLM2r7BGLyyOoi8Hz2xyt9_CAAA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L2d1YmJhcmUvbmRhc2hkLw==:Expires=1739291758:KeyName=iptv-prod-media-cdn-keys:Signature=0QNqg79klrmZj4nCX38ka1JwgTZIpDMqBSVotOsOPbftXvVdZgcnKyKDkojLiwKp_z2Gex_FylWkecoH_NbUBA=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med14/gubbare/ndashd/gubbare.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bea660d6490d30d8a21b69db6730e322:8bd64c3a5a5ca59ef7c25c9adc40e648
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=sony-yay
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_YAY" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978bbac7f66229607b5db/images/189221101.webp" group-title="Kids", Sony Yay
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDExL3NvbnlfeWF5L25kYXNoZC8=:Expires=1739203418:KeyName=iptv-prod-media-cdn-keys:Signature=PzCmpfoJIyZyIt3rmuLdG2Epy3V51UZ0OS5LxaEPQMyoLENeU0y2NfyLV2iO-e8KgQBI1m5kRowov4BHOW18Cw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDExL3NvbnlfeWF5L25kYXNoZC8=:Expires=1739291761:KeyName=iptv-prod-media-cdn-keys:Signature=svPz7P8YukUq4bdWcvjxsvMgrUntEs8rHJvdqg_U1Esgoys1z1X1JuTImihuwjGycSiGZddvvjj7lfC7H8mXBQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med11/sony_yay/ndashd/sony_yay.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7fe4b4b9c1bc3ddea40a29c96aa56c37:6bfddc3b50d6d782748f5a7184356da4
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=b4u-music
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_B4U_MUSIC" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610f151545a0652107a65/images/527.webp" group-title="Music", B4U Music
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDQvYjR1X211c2ljL25kYXNoZC8=:Expires=1739203420:KeyName=iptv-prod-media-cdn-keys:Signature=BzhxiLiPpZMphRbWgACYegSJ302jE8MNdEcUeCbFaucFq48M5dmyxOTvFaU_6OyOudMcscMF7ogPhRP3XQtADg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDQvYjR1X211c2ljL25kYXNoZC8=:Expires=1739291763:KeyName=iptv-prod-media-cdn-keys:Signature=b3sgEJ1OY1RVzxrCekBdo7ixXwB1GBprm5kwaavzJzaE0-H2pkswDIMh8vWOov4ik33sYKzv_dWlLaeVhH_2DQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med4/b4u_music/ndashd/b4u_music.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=33307c8eaf953a609d7060ad96f0f284:5d35465bd077f9bd00ae00b5e517190c
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=showbox
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SHOWBOX" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978af9b315d22c1f80b77/images/565.webp" group-title="Music", Showbox
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3Nob3dib3gvbmRhc2hkLw==:Expires=1739203421:KeyName=iptv-prod-media-cdn-keys:Signature=Ql_Fk5xaoFKQRGy1ncGJz--qXiCG_tykGIN0j-YsX_FAushOxJdujRKWl8KOR4-oJCggg78NTfNYVfmBZPvECg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3Nob3dib3gvbmRhc2hkLw==:Expires=1739291766:KeyName=iptv-prod-media-cdn-keys:Signature=7g1-P2cm8nl9vTCWX7xNUrfSUHE-HynUAHBUtXBVkDVOI3hP0NYSTPVnFM9hPB2Si1vJiR_DgB1OF6-MYLcNBg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med14/showbox/ndashd/showbox.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=24ea9b12b6113236ae745bdd417c6a49:d398049e87090ab2f2dfd7373883e6c7
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=zoom
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZOOM" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6579794e25986346a8f0edcf/images/51.webp" group-title="Music", Zoom
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMvem9vbS9uZGFzaGQv:Expires=1739203422:KeyName=iptv-prod-media-cdn-keys:Signature=9oOOBppciVPAup73s4D2kI7f57RNSgNFPj1xyE-mQZdCYIb984U8NbIzJ7Ynmf0YjSsaQk_lUigJGBnK895MBA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMvem9vbS9uZGFzaGQv:Expires=1739291768:KeyName=iptv-prod-media-cdn-keys:Signature=k7DYoSvaGz_vQ3ErJP1y_0aCMWAuRveZfI01pY-P85PbhtwayjupMRcHQczFtUN7fL8lPFI85K6cwy7EKZRwCg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med3/zoom/ndashd/zoom.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b2ae002f2ab3f0389807f0e688c4ed1:5a3d11b5e7a77dcecdce75682e580fb2
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=zing
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZING" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978eca8676a17df1030b6/images/285220610.webp" group-title="Music", Zing
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE2L3ppbmcvbmRhc2hkLw==:Expires=1739203423:KeyName=iptv-prod-media-cdn-keys:Signature=k5snePKZGl6sz88Bq2BY3HOaIqL0fs-2UkkRCHMqfoLErgut8r9ugKkUG-n-x6n6CczU8_5Xt7rK27rMEubbBQ=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE2L3ppbmcvbmRhc2hkLw==:Expires=1739291771:KeyName=iptv-prod-media-cdn-keys:Signature=h4YJCMfEG42fGuNILeJdjaad4shZmceCfgNdPduDMVszXWfNTF7UaN8l_2AuO3ZIswlmh7qkolxuCJ6Cm-BqDw=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med16/zing/ndashd/zing.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=da4901499aa53185ab045b2ee06eb980:5a3e11038b70246f602b394c80556967
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=zee-marathi
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_MARATHI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65776427c4589e08ce80e5d2/images/209.webp" group-title="Regional", Zee Marathi
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV9tYXJhdGhpL25kYXNoZC8=:Expires=1739203424:KeyName=iptv-prod-media-cdn-keys:Signature=-Yt3NlWCFT2PvJFIDsTXNjmuwvDimzthAAIBiLAs-fDfaOF7gH10zWTv3y8GGkWKT3WkowZoZsmudXD3z6giDw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV9tYXJhdGhpL25kYXNoZC8=:Expires=1739291774:KeyName=iptv-prod-media-cdn-keys:Signature=EOfLOiMRok0z-FvDHd5J4wrNmWyjFqq-ZBv7iWv8jMmXRoi8W__jNTaj-EGuwNAAjWqtpEP5RPIj2dt4FVXFDA=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med12/zee_marathi/ndashd/zee_marathi.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=92a450bef3d53fbca380b9d454f7cbb3:5aceca06891968cb326a80406c4af412
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=zee-yuva
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_YUVA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6577641e8d36cd1598f9538a/images/668.webp" group-title="Regional", Zee Yuva
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV95dXZhL25kYXNoZC8=:Expires=1739203425:KeyName=iptv-prod-media-cdn-keys:Signature=3LxRidY0jMbCAgWeuVM6HRT-7ARZPXFA75TwlWbVrk24nQvoZR-gZgN07VXDRjvxq8KTYfYe7bPm7GoJ28TXCA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV95dXZhL25kYXNoZC8=:Expires=1739291777:KeyName=iptv-prod-media-cdn-keys:Signature=UjfQZ8Y-Vy-GpchhP8151C7RAM5QqTu3FyfCdCOPH-LGG6N1MYwihNDRVHJ9cDuD5250xocxV206VsvQ5auODQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med12/zee_yuva/ndashd/zee_yuva.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=28fd7bb19b9430608489f48e4638555e:9482c2ce1e97f1b2f6814841e6afcc32
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=sony-marathi
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_MARATHI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978e36cbc4372820a5a9c/images/351221101.webp" group-title="Regional", Sony Marathi
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3NvbnlfbWFyYXRoaS9uZGFzaGQv:Expires=1739203426:KeyName=iptv-prod-media-cdn-keys:Signature=RAy_sYEl67WqBrdzLHXDOXGIOlBVGAqpQbbs_PrGTlaMEDxyOszCb6_0vXDTENC7NML8ym03U7lh6paTVzEHDw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3NvbnlfbWFyYXRoaS9uZGFzaGQv:Expires=1739291779:KeyName=iptv-prod-media-cdn-keys:Signature=W43xndb4SILMNbtzZooICbUJn5qk1S85NaTMOhxIbwmk0Yh2sE9WKeRDca0kYuc4orUCPPsKplI4Tk1A-QWmDw=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med14/sony_marathi/ndashd/sony_marathi.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4549c90ea394353ea7075a070cff34bf:d4b1cb1b3d597d49e0e7782246cb16a7
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=zee-talkies
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_TALKIES" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6579798dc5625a16ee72fb5a/images/128.webp" group-title="Regional", Zee Talkies
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV90YWxraWVzL25kYXNoZC8=:Expires=1739203427:KeyName=iptv-prod-media-cdn-keys:Signature=o7wUf-kUZco3gRjRg01DbMaPYSpdoWuiat-iTxitZ_RIppzw6ncm-20GVlkyF9o2_9BjfNEV9bHLsZEGz5OjCQ=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV90YWxraWVzL25kYXNoZC8=:Expires=1739291782:KeyName=iptv-prod-media-cdn-keys:Signature=rU9kS-l2PBM7cTTHBpsDrU1mHdEMjmeITPP9WcEb29THceLcJULpyo8i1qitD_9ztOpWBsi7n1Z_8_Xilup_DA=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med12/zee_talkies/ndashd/zee_talkies.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=97c02ac374da3d588ebf694ee9c29ac0:63e74f391a554c863642031a52cddcbd
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=fakt-marathi
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_FAKT_MARATHI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f968fe0772265fee2883/images/295.webp" group-title="Regional", Fakt Marathi
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDIvZmFrdF9tYXJhdGhpL25kYXNoZC8=:Expires=1739203428:KeyName=iptv-prod-media-cdn-keys:Signature=gAtMifqTzAk9I0iEIG579NrtEY9AxcKzosevtmu2UjVrQZUxR-ivaSMz22A9tmjxhx083kTQjVw9Tl4xs6sJAw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDIvZmFrdF9tYXJhdGhpL25kYXNoZC8=:Expires=1739291784:KeyName=iptv-prod-media-cdn-keys:Signature=Dm4RewzwUWvjVGxLVmIOIanEa-PMLeGt8bQY6xnO12Yb6jg3Nm5i_M5k2cZymPk26uJk6fRpS3Fxmtav_m-nCg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med2/fakt_marathi/ndashd/fakt_marathi.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd240d5f2ebb30d1994388010747cd10:da6fce9410d69732618170484d613b81
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=abp-majha
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ABP_MAJHA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f15cfe0772265fedd308/images/615.webp" group-title="News", ABP Majha
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvYWJwX21hamhhL25kYXNoZC8=:Expires=1739203429:KeyName=iptv-prod-media-cdn-keys:Signature=K4bry95picnMXv3ST3n7HIK69eJhsQvtsSsCBoDFBvEE6bVgB9DUocCLJM8geQDZKd1K4y9IYKtljEf29UavCg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvYWJwX21hamhhL25kYXNoZC8=:Expires=1739291787:KeyName=iptv-prod-media-cdn-keys:Signature=xNZMiSlJb6t3XTxZHR6w2aKeWrcGVRIZWyWo3gK3l5druLAfP7Zws1CRZvLbbQhwCj_3TZN8GPfBRtQJKsDJCg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/abp_majha/ndashd/abp_majha.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6785533705883c0282a77cd8accfd7c1:0c3040f192de0f73bc6e9be91dd45bb2
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=saam-tv
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SAAM_TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978d211ea19309d4c5be8/images/38.webp" group-title="Regional", Saam TV
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMvc2FhbV90di9uZGFzaGQv:Expires=1739203431:KeyName=iptv-prod-media-cdn-keys:Signature=NFXVY_lvyHlwsCOC6bxy7Qz7qi_a5MlT2deX08XXu0Yqt2UXP6LwpsER4qFqV0PISg9qAcP8FnZIYPNmQQTDAA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMvc2FhbV90di9uZGFzaGQv:Expires=1739291790:KeyName=iptv-prod-media-cdn-keys:Signature=tzh3gnLEgNyimI9FzoCuyfM62NW2yLep-XpAzna_t9ewd02xsRqNyDnewZew4hVauxm0bbM1t16c7rp1Yp47Cw=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med3/saam_tv/ndashd/saam_tv.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7bd74ffab3a358c9bfec89eb37af1f2:eae537fd6db7d19f6eaad8219e28b5ad
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=zee-24-taas
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_24_TAAS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657979f0c5625a16ee730316/images/458.webp" group-title="News", Zee 24 Taas
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvemVlXzI0X3RhYXMvbmRhc2hkLw==:Expires=1739203432:KeyName=iptv-prod-media-cdn-keys:Signature=3-8CYzWi6cNsyrhzQnzbrS7as4NLKSEzV2rWoR6JDCwUREe4TiIeHn_qzEatSti3zDcsLtYJKRqyJeU740FuCQ=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvemVlXzI0X3RhYXMvbmRhc2hkLw==:Expires=1739291792:KeyName=iptv-prod-media-cdn-keys:Signature=osv4S-mv9RBZClc-ZCy7f5kMt2Ku_sHHlLtB1D1qOGi7MrVWiBuO5EC9QlOlCWd6d5D0ukcN8YpogbIWDdytBQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/zee_24_taas/ndashd/zee_24_taas.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8fee8ee758d639ecba383f207ff251f0:9f2629c41850e8e6fe90abb7157ffc89
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=dd-sahyadri
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_SAHYADRI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657611a9e533e2124e75aae4/images/292.webp" group-title="Regional", DD Sahyadri
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwL2RkX3NhaHlhZHJpL25kYXNoZC8=:Expires=1739203434:KeyName=iptv-prod-media-cdn-keys:Signature=Ne2MjEKt9mqtI2oloOZeGzQ1Ugdf-NyECKur_IqqOzPZ0lQDJ3aLf6kFkIxOVOiw0iLts_hMILgxopLG6HDgCA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwL2RkX3NhaHlhZHJpL25kYXNoZC8=:Expires=1739291795:KeyName=iptv-prod-media-cdn-keys:Signature=ngH70H-x0ObMTz2RcniEHw8WiVctaqiplvE_DyLpRKHAnRVlgcPh8MVyY1XfftYY8Njrd9ky_R3h_gSQcsJTCg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med10/dd_sahyadri/ndashd/dd_sahyadri.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7889f78a20a3cfe94ae1302c5808f75:a1b025d54dd334eda9b266453851f3a8
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=ptc-punjabi
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_PTC_PUNJABI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978979383dc75068840db/images/231.webp" group-title="Regional", PTC Punjabi
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvcHRjX3B1bmphYmkvbmRhc2hkLw==:Expires=1739203434:KeyName=iptv-prod-media-cdn-keys:Signature=5vqmWuQdzFyNE-Jq-PYtn_6Dlb8twjKAESIRyhv82RyKXfCxfJGpomAypapoa3pJK-f7FXHxMdm-FXzUOGNwBA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvcHRjX3B1bmphYmkvbmRhc2hkLw==:Expires=1739291798:KeyName=iptv-prod-media-cdn-keys:Signature=-rTIHXwe7LNhbw1ufPxUwhETCT1utPf0bvr_chBL8vj1rNpGKKi1ADZQZjox6cs4TOVgD-LliMBN-c2OXDMTDw=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/ptc_punjabi/ndashd/ptc_punjabi.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7d5f35ba4d3fe99ce276760a9e2a24:653225d7d42bc7f44f5b14ccf546e63f
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=zee-punjabi
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_PUNJABI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574c00ae533e2124e7579e5/images/672.webp" group-title="Regional", Zee Punjabi
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV9wdW5qYWJpL25kYXNoZC8=:Expires=1739203436:KeyName=iptv-prod-media-cdn-keys:Signature=LvnOMCy6tC9CGiQuIIaGagwgf76w6wP-Nb7sbEVXBzndLkA0D-sdpr7ApeC3NPJFOsPqCwXL6FUIGepeh2BIBQ=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV9wdW5qYWJpL25kYXNoZC8=:Expires=1739291800:KeyName=iptv-prod-media-cdn-keys:Signature=vOvkhtk15wjyFs-U8aLcxKVOKQ6JPumHRMxaU48Q8vtbm_rWuHipdISYc_eEDG5rs5anpq7sTv87EWDKI-e0BA=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med12/zee_punjabi/ndashd/zee_punjabi.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4f55725282830c69d4b49f0bd09411f:50c2a9665cd4dac2ad58f9cca7815319
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=pitaara
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_PITAARA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736f0c1cd2bb19dca31753/images/280.webp" group-title="Regional", Pitaara
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3BpdGFhcmEvbmRhc2hkLw==:Expires=1739203437:KeyName=iptv-prod-media-cdn-keys:Signature=MqQ3dskseLcycDVNwifn0kbyYBMXERudDvKdhl9jGE7M3AQBuhjC4feGP2LGv4G0Dr7QxSX7UwOMA6lAmaFDCg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3BpdGFhcmEvbmRhc2hkLw==:Expires=1739291803:KeyName=iptv-prod-media-cdn-keys:Signature=o_bzDxhBXtuSGpIuJGwV_Yo3yCTKnGjIW6vxkWS9svMsYDPszULMQYaYFlfDr5xkC0nwv2tSRhuC4oCFU99eBQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med14/pitaara/ndashd/pitaara.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4fffa1377ad38f38fd82293a438f71b:1db2d7a0c2827d4619332301ff3064d7
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=ptc-simran
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_PTC_SIMRAN" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f5c9033abf53d08e9d33/images/506.webp" group-title="Regional", PTC Simran
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3B0Y19zaW1yYW4vbmRhc2hkLw==:Expires=1739203438:KeyName=iptv-prod-media-cdn-keys:Signature=FCoqtCZssl4GRKfpH-wimFnJVO3ycguG1TeA8XBHBR-661SGz8M1YsILrOZDirnYLrLKug0BiT4HgKZ5q5YLAg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3B0Y19zaW1yYW4vbmRhc2hkLw==:Expires=1739291805:KeyName=iptv-prod-media-cdn-keys:Signature=ZvbIk57wYO2tJg4SWd_cUG75H1POjqjSIQZuHOS7bMSO-h2SfK02jDkQKAguF6EW0oyKQTTBjkVAa2HCRDBHBw=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med14/ptc_simran/ndashd/ptc_simran.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=79168b41459e3fc7881f763a36ba6805:6747235f79fa89bebef69b23ea640b86
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=mh1
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_MH1" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574c00ef03c4100b4b695bc/images/360.webp" group-title="Regional", MH1
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDIvbWgxL25kYXNoZC8=:Expires=1739203439:KeyName=iptv-prod-media-cdn-keys:Signature=eFOOGSGNLnroK-8RI3oAL29KX1gWcKz_8TX9EyrOQhlUzVxeI8RP_v0hV_CEmi99tz8cUBJJEfs1YtsgyfQrDA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDIvbWgxL25kYXNoZC8=:Expires=1739291817:KeyName=iptv-prod-media-cdn-keys:Signature=gPXntYmRAWJDFIa8zWQ3E-G_kZnCJpUDJKjQGBX0YjfONLvD_nooHOdIyHJ7y2_dTFSBQx1whEP1SanYy4OnDQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med2/mh1/ndashd/mh1.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7d470fd7a2b3b5496760f0f5d08b3e7:6613042e35847c39378534097d608642
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=dd-punjabi
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_PUNJABI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610ec23d1fb238115f940/images/12.webp" group-title="Regional", DD Punjabi
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvZGRfcHVuamFiaS9uZGFzaGQv:Expires=1739203440:KeyName=iptv-prod-media-cdn-keys:Signature=feiKfFwNKUthOLVmQUSJG5QYVPiPyiWoL2pBDkOE7BCUxMjo6vGWhIYKSK479zwRfshYJA_gL-l2CiG0UNNhCg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvZGRfcHVuamFiaS9uZGFzaGQv:Expires=1739291822:KeyName=iptv-prod-media-cdn-keys:Signature=GSFrc--poHRKl3y6vXStybhiQRmt3i7EYYZgbT4CQmWe8vVXCv3IrpUDMCryBLkkUyVqe_Px2sl4e3FRzN4pAg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/dd_punjabi/ndashd/dd_punjabi.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=605b0efb9fdc3d97839de35529ea48bd:edbbe9f5400613ec1da6158e03cc4e2a
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=zee-24-kalak
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_24_KALAK" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a89b315d22c1f80b15/images/246.webp" group-title="News", Zee 24 Kalak
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV8yNF9rYWxhay9uZGFzaGQv:Expires=1739203441:KeyName=iptv-prod-media-cdn-keys:Signature=CiS46VhtAeo6vkcpbEQLsm63TEaYHKruVMsr8U1bUvvqs8QrD3E5O75mrUKBjGlo2cHDHGiJfGXvAIUZfBE0CQ=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV8yNF9rYWxhay9uZGFzaGQv:Expires=1739291825:KeyName=iptv-prod-media-cdn-keys:Signature=pAXjpN-c9s7FshtCV7nTXH_tbuUVJPCVlfsmEl6XL9OhGEHvo-vkkUBlaVq76it2MPNRcKMI8XISBKzMt-3UCw=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med12/zee_24_kalak/ndashd/zee_24_kalak.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2f1676373aa2300784dab4419fcf48df:75908ba4b14f4531f096e5f6fd4c0014
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=abp-asmita
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ABP_ASMITA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eedd033abf53d08e53ee/images/287.webp" group-title="News", ABP Asmita
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L2FicF9hc21pdGEvbmRhc2hkLw==:Expires=1739203442:KeyName=iptv-prod-media-cdn-keys:Signature=XDa07Dza-0Gp5c_KRRHgE4LQy-lEe49Z2FnncIk0EdwUOJ9jESAS3iwpfUHU2mMyFwXDZgSv6yQVN1d6yh71BQ=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L2FicF9hc21pdGEvbmRhc2hkLw==:Expires=1739291828:KeyName=iptv-prod-media-cdn-keys:Signature=PxG9USkaDkvt4ZyU8uWsPEaNe2EMYnxpeDZm4_KkQC1NA2ehK5e0BuuXiIOjzYFMIbUJxN5wfK7NhtC6xxnSAA=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med14/abp_asmita/ndashd/abp_asmita.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0e8474dda383378b80ade66d41c74ced:4db0497c24e0fe9ff7b3e305a5de393e
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=dd-girnar
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_GIRNAR" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610ec23d1fb238115f939/images/78.webp" group-title="Regional", DD Girnar
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwL2RkX2dpcm5hci9uZGFzaGQv:Expires=1739203443:KeyName=iptv-prod-media-cdn-keys:Signature=e7piyp_4dWGchogwy-M96lIy9wBY4KuY4SJl1YKewaYJmyQtZUS2cze71LrtoBRVr-nw-IdDC4YmHNfrPQiOBw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwL2RkX2dpcm5hci9uZGFzaGQv:Expires=1739291831:KeyName=iptv-prod-media-cdn-keys:Signature=ARu4bxbBzZmnbTDBwqOfW_P0NJrFH42x7jZSzg2IkG57dBXInf8Io6L2RYPGiGa95Y2D-JP8dViXXFMQRa7vDQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med10/dd_girnar/ndashd/dd_girnar.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f406fffea9d6310a9b8bda9001ee7bb8:aeb361056a1394e343c49c4860072b08
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=otv
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_OTV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657764159f7e407f8ff23c00/images/319.webp" group-title="Regional", OTV
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvb3R2L25kYXNoZC8=:Expires=1739203444:KeyName=iptv-prod-media-cdn-keys:Signature=OgpMErw0mE9Kj8O9QeBx9Y-2aQBFuszaywUaNAzgtHqaaauw_DkS5d0-sccjDZaz6DW_yKw3z0Fo0DxsEuyVDw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvb3R2L25kYXNoZC8=:Expires=1739291833:KeyName=iptv-prod-media-cdn-keys:Signature=wRn6IdBlX71XPCnAQphcjipnf2pEGY41AcUmYG-APw9IpHa-UHeKBXjxtv3pU3tFKyeUUM2SL8monC7sXtQ-CA=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/otv/ndashd/otv.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a7c8d8333bf32a8a54474a17b504e87:e0ab16c481675ba30c66a0d4b323ff54
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=dd-oriya
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_ORIYA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610f961da8470744738e7/images/155.webp" group-title="Regional", DD Oriya
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvZGRfb3JpeWEvbmRhc2hkLw==:Expires=1739203445:KeyName=iptv-prod-media-cdn-keys:Signature=S1nNqy7E6eTWFx3ZZ_ZG1IAYFHUySn5jSIKA6ZRTfzv0A5xHnMHlPIC_EK1hvzEsePY9BCqGs3bHdupgnveXAQ=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvZGRfb3JpeWEvbmRhc2hkLw==:Expires=1739291836:KeyName=iptv-prod-media-cdn-keys:Signature=Z2rTmgiExtJr5QUSq2GcoD1tDZLve71GmLrAcqdPE0ekN-QR-oo2XvLhANBQaJmuAbt_WKsRm2Hx5NOanoq3CQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/dd_oriya/ndashd/dd_oriya.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fae423755f31390f9a0ed4ffb1652000:28e597e95a65df1b364ba23925127887
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=salaam-tv
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SALAAM_TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/658c0fb69699c97abab27e50/images/LANDSCAPE_169/LANDSCAPE_169_mfjG54ytJ_Salaam_TV_Eng_264x144.webp" group-title="Regional", Salaam TV
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDgvc2FsYWFtX3R2L25kYXNoZC8=:Expires=1739203446:KeyName=iptv-prod-media-cdn-keys:Signature=HVy1gDmNatJRMtTYm2SivdvqI9L6AZN24FjQvdsdUU7a1BJZyAOL81jXczanPpJiBy8PRjGk2bigxV072QiHCA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDgvc2FsYWFtX3R2L25kYXNoZC8=:Expires=1739291838:KeyName=iptv-prod-media-cdn-keys:Signature=24Nj5zsaHG1VHwZ4pulfKPZYmw_WEL6Z3qSEaEXNR1hFo22hYGRqkRzJJT4Wz_UzQGN2tWAHyZT1PBFIGkorBA=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med8/salaam_tv/ndashd/salaam_tv.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4690c214423e3cb7a5f5fcad17d7f673:9213d6c3e9396eb6185412d15c1cad82
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=dd-urdu
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_URDU" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e623d1fb238115f8af/images/466.webp" group-title="Regional", DD Urdu
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvZGRfdXJkdS9uZGFzaGQv:Expires=1739203447:KeyName=iptv-prod-media-cdn-keys:Signature=-d5081gf_TJrKT9gIZAKBioNNopg1hgLJmMebjm6yJNiUAgYUSaleT0a-kurmr6rMuWtff0nKoY3Pat6JDMUCw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvZGRfdXJkdS9uZGFzaGQv:Expires=1739291841:KeyName=iptv-prod-media-cdn-keys:Signature=gAJf1GkYplMSKUETZ-65qIz7fHzkno44opqVFNq3du5cIJtft8R77rA1SUQhFWLtWWGze6c96OZG6X-yKuTdBA=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/dd_urdu/ndashd/dd_urdu.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fb48058fbc1d3bb6bd7abd3bfe4a9162:3213912e94d7d8cca278e9e59202f48d
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=dd-kashir
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_KASHIR" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610f961da8470744738e6/images/273.webp" group-title="Regional", DD Kashir
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwL2RkX2thc2hpci9uZGFzaGQv:Expires=1739203448:KeyName=iptv-prod-media-cdn-keys:Signature=rgHF5vZ-ZkmogZ-e6bXGseX972fk9qwKKDb9VHjV7CPewuUvobGE7sKEflawH5IAAeGyawBThsGN2FkUuDzcBA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwL2RkX2thc2hpci9uZGFzaGQv:Expires=1739291843:KeyName=iptv-prod-media-cdn-keys:Signature=jo9dym_pwmzGnA-KJFICwdczwyXNryU2Pl2OZOENaFBx0AEFgmDpJOBtuiyceQY1ME8Dzjk2eprjOusqDnYnCQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med10/dd_kashir/ndashd/dd_kashir.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5ad1b41bba973ed2a830efcb6ff4a905:aae094ab25f62dedb1fd9b2e3de13dda
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=rengoni-tv
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_RENGONI_TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bffd1d2c0e2cbafc1d91/images/242.webp" group-title="Regional", Rengoni TV
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMvcmVuZ29uaV90di9uZGFzaGQv:Expires=1739203449:KeyName=iptv-prod-media-cdn-keys:Signature=e8rFbkrxrRg9wDoXnrpNgIQyO8I6p99HviGkHDqd4mr0LCXw2DVxwGzcM_otGiqlguI3-PL_qj91npOJusLgAA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMvcmVuZ29uaV90di9uZGFzaGQv:Expires=1739291846:KeyName=iptv-prod-media-cdn-keys:Signature=MdDSueejQOA18IhyZt8ixNjV1HydUG5d6DmxDXHZCXghAxRK6_80CHvitume1l-d6Rt9Bf5TQRhhEOg_UJMbAg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med3/rengoni_tv/ndashd/rengoni_tv.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fc68a31ebda13403858c0f08f866eb5f:e67b2eb340b3713005318c6d176a6f66
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=dd-imphal
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_IMPHAL" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610ec23d1fb238115f93b/images/23.webp" group-title="News", DD Imphal
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwL2RkX2ltcGhhbC9uZGFzaGQv:Expires=1739203450:KeyName=iptv-prod-media-cdn-keys:Signature=PZf5EpylkDtJ5zFZRFJtmc1nId15JKzaGJPcOBCF1-B3RHF167Ni6Vim36uaRKcL-Iz5qRBW3WJctu25OCxQCw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwL2RkX2ltcGhhbC9uZGFzaGQv:Expires=1739291848:KeyName=iptv-prod-media-cdn-keys:Signature=qIIgubFFeNKgsb8nrFazZj3Na4kBcKddxwIOfzOcB3R6uYQX-Cbv0__SD1X0ZPmjfF8FF3PlXVYr8HUZzGxiDg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med10/dd_imphal/ndashd/dd_imphal.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b885917361193c7190960d8727838956:478574c3fc368154a99ed4755bc5c6f3
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=dd-north-east
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_NORTH_EAST" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6576110f6886c012a8aa2950/images/LANDSCAPE_169/LANDSCAPE_169_FSJdlxo_n_DD-North-East_264x144.webp" group-title="Regional", DD North East
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvZGRfbm9ydGhfZWFzdC9uZGFzaGQv:Expires=1739203451:KeyName=iptv-prod-media-cdn-keys:Signature=Q6hkVfso6Z9S09pYaTyrV-WtuW3HUjry7vPTv_lkpqqZrmjPiTOFSowaEt55eX0L2W6kuB_nK977EqvkfP0HCw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvZGRfbm9ydGhfZWFzdC9uZGFzaGQv:Expires=1739291851:KeyName=iptv-prod-media-cdn-keys:Signature=ASTYMnuh9kijMwkAaYp5A0cF2C5B7UMdKlGwr6aPK-Nfac042Kknl3q4hZkcJMNdjCFFVASPRPD_BNkRTisaDg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/dd_north_east/ndashd/dd_north_east.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2820e5c4803433adb14c8b6189ec51ba:e53a9ab7d78e73a318e0e2cfd69001ac
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=b4u-bhojpuri
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_B4U_BHOJPURI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572ef49fe0772265fedbf4c/images/307.webp" group-title="Regional", B4U Bhojpuri
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvYjR1X2Job2pwdXJpL25kYXNoZC8=:Expires=1739203452:KeyName=iptv-prod-media-cdn-keys:Signature=VqS1h-oJ4Q9LDnKNj1xYXKSdfnUlAPmOePzhcQkRfW-hiEFxElzl6EpPY2yigl-s1Zjyt-1NbkudFAAc8tdkDw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvYjR1X2Job2pwdXJpL25kYXNoZC8=:Expires=1739291854:KeyName=iptv-prod-media-cdn-keys:Signature=a4bIA7E8KOPZA62CJ11vQFbCh4gOqhu2COqGckcXegg8hfPbb-TyBBr6Qth85ZvS_hhkXFKrJ-jY0yQgfakLAA=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/b4u_bhojpuri/ndashd/b4u_bhojpuri.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d13ff1bce093392e934917a2f6e7bf09:b8d03daf958c91bb0954e5ff3d1e9274
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=zee-biskope
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_BISKOPE" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797941a8676a17df103684/images/670.webp" group-title="Regional", Zee Biskope
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV9iaXNrb3BlL25kYXNoZC8=:Expires=1739203453:KeyName=iptv-prod-media-cdn-keys:Signature=0wolGk0Mp4iLLMaYAjTajIcfg89W6GHa5VyaoYbWUrKPi0zvBsAmD55muLa3w9L6gl1dbQJrmQ6JGNdq0MYKCw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyL3plZV9iaXNrb3BlL25kYXNoZC8=:Expires=1739291856:KeyName=iptv-prod-media-cdn-keys:Signature=6JnRbjYb7HN_j7EUjUpVWvbKwXdgjLTdIqVitsU_YMI3UElk8Dk89iZH7eNOEKlaibnnogV2HxolZpBx37sgAA=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med12/zee_biskope/ndashd/zee_biskope.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae147c396473369e93ca65899f801e9f:26dc9871e1a282db4c5180e89118ed98
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=dd-bihar
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_BIHAR" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6576113851545a0652108306/images/514.webp" group-title="News", DD Bihar
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwL2RkX2JpaGFyL25kYXNoZC8=:Expires=1739203455:KeyName=iptv-prod-media-cdn-keys:Signature=qEnWL3O04fSZalpXBwfLBroarEV4Wr5LMEkE3kX4k-LbkF6M1ii0pA_3cmq80pQwcvmBtXwhsPiNdC9yoqMEDQ=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwL2RkX2JpaGFyL25kYXNoZC8=:Expires=1739291860:KeyName=iptv-prod-media-cdn-keys:Signature=DB-YDW5_3mOyjJp88HsU1cHZbiwwpgclBlZ6Y1IZNJVxtxRjjxDiTMF1v8UFxKHu9N52sm-ceVi7YL01NkgQDw=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med10/dd_bihar/ndashd/dd_bihar.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a3498e348d1d3b0cbc1071b8731d611b:5ce5d065b83066d916b9bfeb609d25ee
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=aastha
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_AASTHA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eed7033abf53d08e53b4/images/491.webp" group-title="Devotional", Aastha
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvYWFzdGhhL25kYXNoZC8=:Expires=1739203456:KeyName=iptv-prod-media-cdn-keys:Signature=dMZb1mvB11K-BhqiQoMCHxFLjb75MM63k3pAJKLxSPGFcmIRIygUuW96nWZibyJXaHHGvnufvSD8Sny5wY1BBQ=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvYWFzdGhhL25kYXNoZC8=:Expires=1739291864:KeyName=iptv-prod-media-cdn-keys:Signature=DeySJGJywNlopY8r9dmPat7gyFLwb4kdtMtTuh5GKEDt0ccY20KlcAet0dviR9rvKz69FcsPIXWh73DfSCtAAg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/aastha/ndashd/aastha.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f882129215803c82b82d93588aa58a8a:2e26f95f7cff6bd0868c52705a3736ab
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=sanskar
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SANSKAR" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978ad9b315d22c1f80b64/images/557.webp" group-title="Devotional", Sanskar
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMvc2Fuc2thci9uZGFzaGQv:Expires=1739203457:KeyName=iptv-prod-media-cdn-keys:Signature=mIDyIbKIkY0gBJMFY0dRcE5L_CMMewPQ3yYIkvDHWA28RVRl_GrhleQBJqmHp8UIEsLYajwzWN4wQeWO_L8RAA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMvc2Fuc2thci9uZGFzaGQv:Expires=1739291867:KeyName=iptv-prod-media-cdn-keys:Signature=-d9tYDdbk3WbxMs61rtZ16EkQ5kDXo9tYIANVzwOn93wN519aUVU3fb4-leOHguD3uI3S_nDPgrP4Rj-m2S8CA=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med3/sanskar/ndashd/sanskar.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=711f43c497a83fd9a949a896a14c10e9:1763661fadeee1d4d07e46eb6127adba
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=mh-one-shraddha
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_MH_ONE_SHRADDHA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bff5e533e2124e757677/images/20.webp" group-title="Devotional", MH One Shraddha
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDQvbWhfb25lX3NocmFkZGhhL25kYXNoZC8=:Expires=1739203458:KeyName=iptv-prod-media-cdn-keys:Signature=qPRD4mKq0-_UD3KnTI6v3et61ngqNJgAcvnESzhr8k9rSs_vNJ3pikaDhmh5RzfYeUfPw11LANO9PEUxBKZvAw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDQvbWhfb25lX3NocmFkZGhhL25kYXNoZC8=:Expires=1739291870:KeyName=iptv-prod-media-cdn-keys:Signature=2p7st30n55GxYjwzub68bmEjzELgbdrcTTq3kYFZQVE2qTCwuxbFH3R9H3CgO_24vUWnEGmmYqJZ8VKo5RdsCQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med4/mh_one_shraddha/ndashd/mh_one_shraddha.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=205182a1550b365db1156cf76f529bf1:260011c0acaa754846e6d89eb834e957
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=divya-tv
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DIVYA_TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65761107a3b7866cb8414c72/images/107.webp" group-title="Devotional", Divya TV
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDIvZGl2eWFfdHYvbmRhc2hkLw==:Expires=1739203459:KeyName=iptv-prod-media-cdn-keys:Signature=1dz7zuIk4VGUAndbT5w_8yf9ECT8kkE5MpV_G-rt7t8cWUKNIT1pDtCtRwhsGp7vhlz_0Y-nzqjv4pp9ZAmfBg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDIvZGl2eWFfdHYvbmRhc2hkLw==:Expires=1739291873:KeyName=iptv-prod-media-cdn-keys:Signature=9cy0mVfw3jDMYj03xoeNW6xvMY9UWicIg_6AV4f5-ECP56rB8ze3ruv7lxmAy1xP9Jv6RiuAFfFHqOspgeRKDg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med2/divya_tv/ndashd/divya_tv.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03a398ea18773544b6e378c5304b183a:9508bbc4aeaa87a91c6fb1dba9a60215
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=satsang
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SATSANG" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978f68d36cd1598f9677a/images/642.webp" group-title="Devotional", Satsang
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3NhdHNhbmcvbmRhc2hkLw==:Expires=1739203460:KeyName=iptv-prod-media-cdn-keys:Signature=xJnYprbsTRyfkxRAwmUVYfM1aSlmJUwwKDtNbB74_Q3uVtoAeIcSISHH09a4arxELEr9C9C-jXf5oW8j7gr9AA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3NhdHNhbmcvbmRhc2hkLw==:Expires=1739291875:KeyName=iptv-prod-media-cdn-keys:Signature=8h6wr6UnTG3QOvcKF7w4NCX9t-s1sKCKFFzcALAs_Yz0idgZoOXrRpJOk1LX-XrHS2Pho_SHRfMEM_b7OfcfDw=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med14/satsang/ndashd/satsang.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e7e91642d9713e6b89c0268a70003b4e:a4072845adf7ee188a001ca940b5acae
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=enterr10-bangla
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ENTERR10_BANGLA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f323fe0772265fede4ba/images/76.webp" group-title="Regional", Enterr10 Bangla
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvZW50ZXJyMTBfYmFuZ2xhL25kYXNoZC8=:Expires=1739203461:KeyName=iptv-prod-media-cdn-keys:Signature=WzODk-i_ZK9pm8rp1kJjvadWd1_4WYWKxNo3E7c7rGQhVhRc1Ze6FgXhUytXz878G7JC6uDlRWPbt2vowJIUBA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvZW50ZXJyMTBfYmFuZ2xhL25kYXNoZC8=:Expires=1739291878:KeyName=iptv-prod-media-cdn-keys:Signature=NozI5Mw2fJLjLGUFOXGiomKTn6JJwbFtH7bXVn8DhS373v9nc3_VsFMoexm3_-meauewrkrh6cbei2lVYDCvAw=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/enterr10_bangla/ndashd/enterr10_bangla.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0fe14048d43139d2bab489918d2896ac:bcdb76ba833b9183d843cc449dd633f2
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=rongeen-tv
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_RONGEEN_TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574c00b885fc401d48ff875/images/910.webp" group-title="Entertainment", Rongeen Tv
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3JvbmdlZW5fdHYvbmRhc2hkLw==:Expires=1739203462:KeyName=iptv-prod-media-cdn-keys:Signature=nmnZkmCe8klpyKyXy2R7xAumd29PRid5GG5NV3iivqpAhQ993NsW8jOgSUmQ8Ck8VD7X-NvIU1D4kLYexB3-CA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3JvbmdlZW5fdHYvbmRhc2hkLw==:Expires=1739291880:KeyName=iptv-prod-media-cdn-keys:Signature=Th3CKoJjnvXGloFdBlyZbh7J6v4tmTa8fdiY2tEJfNb6ud3Wvtl4rcCF_UI4SMDyV0J5c7wTMwdwQRX1Dk3tDA=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med14/rongeen_tv/ndashd/rongeen_tv.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=edadec08c9673bd789dd896293ae7f31:2953380ac768a95689bd85a5da6f3b63
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=abp-ananda
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ABP_ANANDA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eecefe0772265fedb9da/images/LANDSCAPE_169/LANDSCAPE_169_hfSOYTVDB_ABP-Ananda.webp" group-title="News", ABP Ananda
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L2FicF9hbmFuZGEvbmRhc2hkLw==:Expires=1739203463:KeyName=iptv-prod-media-cdn-keys:Signature=IS7a0Q3kT1gqEOKthj4DUaTz7JiRJfoINLtOnbOTzyJTrAsC1mmB7lqg7m_lDOC7_twHcgX3nWJnrF97D4AsBQ=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L2FicF9hbmFuZGEvbmRhc2hkLw==:Expires=1739291883:KeyName=iptv-prod-media-cdn-keys:Signature=zl0UEaGS6KSbNTX1d37gNPeb_Y-xkdkdNaJqjgPyUrt7z3hm_p4eXPK78dgdAraxPWZ3GCn6SfTsRN6KC5U7BA=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med14/abp_ananda/ndashd/abp_ananda.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d22b394080fd314a8e410a710d5f0731:8045b94f1a60de6117e9aaede00a9a87
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=r.-bangla
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_RSYMDOT_BANGLA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574c00b885fc401d48ff870/images/780.webp" group-title="News", R. Bangla
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3JfYmFuZ2xhL25kYXNoZC8=:Expires=1739203464:KeyName=iptv-prod-media-cdn-keys:Signature=Z65itnN2WQXU2oogTVs9qGq_EkNa-WaINB9v2k00sXYnRnpkOxmNqVL_vhQK-RfzojVt7rtfZwpWmO8Chx5eDw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3JfYmFuZ2xhL25kYXNoZC8=:Expires=1739291885:KeyName=iptv-prod-media-cdn-keys:Signature=f4g0eQX7x67X4V-5hLWUTTu5Abdo7XcG2BLKH5ItkIWrQ5dBo_5wRT46lvILA1AZMAcvUkvpKAWwfK0zPw8fDQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med14/r_bangla/ndashd/r_bangla.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab55d16a8f5d3af3adfcd981bb0804cc:d0e14e5175edd65a5d4e10ec6a85ec0c
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=dd-bangla
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_BANGLA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657611a052133304ca05ffc7/images/478.webp" group-title="Regional", DD Bangla
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvZGRfYmFuZ2xhL25kYXNoZC8=:Expires=1739203465:KeyName=iptv-prod-media-cdn-keys:Signature=6kTd7n1eqzWmt-d8JP0gos5r81RHsucp9AK4YV20HQ5_edEgfbvK9y-5UoCbvBI8tomBSclIlNMmDf56R9SoDQ=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvZGRfYmFuZ2xhL25kYXNoZC8=:Expires=1739291888:KeyName=iptv-prod-media-cdn-keys:Signature=pB9KJlKcf5NlTww8kVs3dqPV_CvklsKhK-leD_1QWWpIj5IQmvfA6kC8VqGRdElvO5gk0Shex2OEuMhhMnS_AA=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/dd_bangla/ndashd/dd_bangla.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f311b6837dba38269368f4dad91d7ca7:b508424a43fc6873ddabeb3b301e90cd
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=puthu-yugam
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_PUTHU_YUGAM" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f5bc033abf53d08e9ca4/images/638.webp" group-title="Regional", Puthu Yugam
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMvcHV0aHVfeXVnYW0vbmRhc2hkLw==:Expires=1739203466:KeyName=iptv-prod-media-cdn-keys:Signature=BvdMuh5zrSU70TBY7aTT2ZJpIzH0vWrwCOv49QtmJACXoBt1gJNoH0DTQC-J_FMftu_m6tDyTNxg3uFOBGsNDg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMvcHV0aHVfeXVnYW0vbmRhc2hkLw==:Expires=1739291891:KeyName=iptv-prod-media-cdn-keys:Signature=XvCgUBrWSHoL8PCgtHL9g0eJlQMEBfTUhACEz7ZnhEafU7qD9BPRsUin7jltTBrSuw7ddLzbcQX4O1zldKw3Cg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med3/puthu_yugam/ndashd/puthu_yugam.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=06026c5cb0ae3986956ab857931a1cb9:1a68d832df896ef7e4c7779521c6c522
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=vasanth-tv
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_VASANTH_TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572fde6fe0772265fee5b84/images/327.webp" group-title="Regional", Vasanth TV
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3Zhc2FudGhfdHYvbmRhc2hkLw==:Expires=1739203467:KeyName=iptv-prod-media-cdn-keys:Signature=yJWPuhsWTLrTYc5mXk7LuK-zVdjncwmflTpsmVus6D16cVa4tQpAy6HvuEM_XWbilEg6aS7UkTaGIT0_bdSiDQ=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3Zhc2FudGhfdHYvbmRhc2hkLw==:Expires=1739291894:KeyName=iptv-prod-media-cdn-keys:Signature=FHVpEMt6CjR-kGzoewKRXlFechobLOL5YdbM4mPSFzXOwrX7_4MfUxUjOvkqd1E-H-B4mBvqCkWeV8GIFj7HBQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med14/vasanth_tv/ndashd/vasanth_tv.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=320f1c20490b33388d14ef52257aba58:6c8c9321ac4f8370925c65cad6cc62a9
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=puthiya-thalaimurai
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_PUTHIYA_THALAIMURAI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f032033abf53d08e6245/images/481.webp" group-title="News", Puthiya Thalaimurai
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMvcHV0aGl5YV90aGFsYWltdXJhaS9uZGFzaGQv:Expires=1739203469:KeyName=iptv-prod-media-cdn-keys:Signature=D2EPa1IDYzkdInFsWbjoXVqU4YarX00UMzH6MMCJsA7Ca0WVw2lnOuP4Gqk1-thlHxpXGoFfkB9YaPwhTPohDA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMvcHV0aGl5YV90aGFsYWltdXJhaS9uZGFzaGQv:Expires=1739291896:KeyName=iptv-prod-media-cdn-keys:Signature=gFmAuVDQQYkoQM54q_lFcVg3llHUPwz1ELhRF14u2_ZQrAJPbTjkq9sNGqD8xAVbRTzSAVGz7XeJfwCDkruSBg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med3/puthiya_thalaimurai/ndashd/puthiya_thalaimurai.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b353331acc8d3d88bfc56e7fb0b3b391:6c928c8cd63d1e73a9a00a4731368849
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=sathiyam-tv
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SATHIYAM_TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f07d033abf53d08e6559/images/630.webp" group-title="News", Sathiyam TV
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMvc2F0aGl5YW1fdHYvbmRhc2hkLw==:Expires=1739203470:KeyName=iptv-prod-media-cdn-keys:Signature=RusjZv7bo2pm_Aht2WJWRdu2bc2QbT1dHCOjxNtCD2n9C3IU_f-s1HKICQwptnP7V8ekMUIbkVq630gUvm-6DA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMvc2F0aGl5YW1fdHYvbmRhc2hkLw==:Expires=1739291899:KeyName=iptv-prod-media-cdn-keys:Signature=DPCyRIs9S06Na3flTEm3ClsyyVOdsEUMeXhOKGR7O386W7lu6XA8tHvyk0XKDjmzIbiaWPz7B3oPUxkk_We8Cw=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med3/sathiyam_tv/ndashd/sathiyam_tv.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9daff0561ac43417ad3e75b89b08ee34:c2c5a0291dbc525b5274a6c7d3ca9a18
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=sony-sports-ten-4
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_4" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f16cdc5dfc4403f7beeb/images/LANDSCAPE_169/LANDSCAPE_169_1WRe-uvTy_Sony-sports-Ten-4_264x144.webp" group-title="Sports", SONY SPORTS TEN 4
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzL3NvbnlfdGVuXzQvbmRhc2hkLw==:Expires=1739203471:KeyName=iptv-prod-media-cdn-keys:Signature=m7iRl76g32h9WevUFsR2R1PBX_pUjfCPlYc5AVCQqpc---dyEHfy0g-TMI-FdyUHsSLV99OfZXsutg00LhnqDg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzL3NvbnlfdGVuXzQvbmRhc2hkLw==:Expires=1739291902:KeyName=iptv-prod-media-cdn-keys:Signature=hW7_M-uNRBmTmFIgnkf8ZRO437Udq58YoWavJ3-SjxtOdQk7S81zfv_UCBCBzt51n1qFo2zDNu0CJvqpGOSoBQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med13/sony_ten_4/ndashd/sony_ten_4.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=17cbd93034203c59bd62df1469f21734:839a56eda559a4385be2a5a2cafada28
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=dd-tamil
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_TAMIL" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_TAMIL/images/LANDSCAPE_169/LANDSCAPE_169_AvMnOEpSh_DD-Tamil_264x144.webp" group-title="Regional", DD Tamil
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvZGRfdGFtaWwvbmRhc2hkLw==:Expires=1739203472:KeyName=iptv-prod-media-cdn-keys:Signature=0BJR59VmytqX_fNdmUsBipd6xWpR-3KqsngvxkrGkq0fdJSwBD7u1aZDgTML3kRXqdvP7scxPaczhrcW4TLaCw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvZGRfdGFtaWwvbmRhc2hkLw==:Expires=1739291904:KeyName=iptv-prod-media-cdn-keys:Signature=IzLuVCbY9Nj9B5r8Q_4o6FME8cq5OYZ_yx33gfuiEFMsA_9xUMGOxbFVBtkYS7UpQvJ5DcgOJ2rlT5ekl7sxBA=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/dd_tamil/ndashd/dd_tamil.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3a962d4c9ea430ffa2114c9a32804d6c:da734a11c03cc0cb142467ecbfec2c08
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=mazhavil-manorama
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_MAZHAVIL_MANORAMA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bff251545a0652105e03/images/5.webp" group-title="Regional", Mazhavil Manorama
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDIvbWF6aGF2aWxfbWFub3JhbWEvbmRhc2hkLw==:Expires=1739203473:KeyName=iptv-prod-media-cdn-keys:Signature=KbGCeV9OMvWLm8Czs7RG_v3aILyFJih3qPogPk63d7MSvUG3LiRdUvwUgpqgFV9mynyQNfPy0Cbjts_gz30hDw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDIvbWF6aGF2aWxfbWFub3JhbWEvbmRhc2hkLw==:Expires=1739291907:KeyName=iptv-prod-media-cdn-keys:Signature=ngVpV9YCx9KYM5zFvMqXd8ekZzXiRti7Qz2EpuaR9QFyXxVwKK9Hj_MHcttk8IK_fPuks1fNmO7Kt_zxlaz8Aw=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med2/mazhavil_manorama/ndashd/mazhavil_manorama.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=02c5d50e77323a739ec587c8d176367c:a31b057b7831b946ccb8c46a178511bb
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=asianet-news
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ASIANET_NEWS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65a0461aaa41b21ae460a1b8/images/LANDSCAPE_169/LANDSCAPE_169_hMw_9cMa-_DAsianet-News_264x144.webp" group-title="News", Asianet News
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvYXNpYW5ldF9uZXdzL25kYXNoZC8=:Expires=1739203474:KeyName=iptv-prod-media-cdn-keys:Signature=u2fvfWYS2NyV7MDKSBVJa99yyCJ_vBhsloYXB2Oj9HAxIVFhkPcBEWTQ-0mOnwAjESpQcrgvkuTuBn2UK77pBQ=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvYXNpYW5ldF9uZXdzL25kYXNoZC8=:Expires=1739291909:KeyName=iptv-prod-media-cdn-keys:Signature=LP-6S8AWih08JcheEI-U4IhEkCGdffE9YPqj9DcLTUMNhen6zKoiVJMarcFLVnsth-1jKtc33yG-9sgietDdAw=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/asianet_news/ndashd/asianet_news.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=999fcdfe30f03f59ad7af400e7b226b6:a4ea895305973755113adc4b5e1d1845
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=twenty-four
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_TWENTY_FOUR" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f231033abf53d08e7832/images/644.webp" group-title="News", Twenty Four
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDQvdHdlbnR5X2ZvdXIvbmRhc2hkLw==:Expires=1739203475:KeyName=iptv-prod-media-cdn-keys:Signature=3QbPAZVQOl1Z2E4a2v2J3pQSl7JBc8e5qFDEArSSjn9DL99L677PVQxP7kNx7AaNuFynR5BFX6Z4-_LOZNpfCA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDQvdHdlbnR5X2ZvdXIvbmRhc2hkLw==:Expires=1739291912:KeyName=iptv-prod-media-cdn-keys:Signature=TF4H8RIPuyy9NyD4OnhyZH8y7ZU6B8YFfRX0yXlhbUlX8-Iq8leyLmcAKN0dz4f4LZFkupeikFGhM4g-R5NMBA=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med4/twenty_four/ndashd/twenty_four.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8e13b377f5e3be5a0007bfd2eabb4a8:897bebc6bba662fe1b898c486349a183
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=dd-malayalam
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_MALAYALAM" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610ec23d1fb238115f943/images/199.webp" group-title="News", DD Malayalam
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvZGRfbWFsYXlhbGFtL25kYXNoZC8=:Expires=1739203476:KeyName=iptv-prod-media-cdn-keys:Signature=2ngzgt3MmZgBdNw1ziEKpukXKV7Kluy-Wt7JtzUuB6nkE2HLUNmPOubjbXADqwlUZfo3y438CVoQ43xcSruUAQ=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvZGRfbWFsYXlhbGFtL25kYXNoZC8=:Expires=1739291917:KeyName=iptv-prod-media-cdn-keys:Signature=ewNugWibQ1g9bPp7CHeXLm5iuozFc03Ky0LpxSC-_3xPegnA_tgrPL-lk2KTeIze3h3UjNkYl3z1a2xzZ8l_DQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/dd_malayalam/ndashd/dd_malayalam.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f9b1f33dc79b38fbb0813203ad3c0a72:884c4ca1d2d3e6fe485f84fcb0ccb456
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=ntv
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_NTV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f0a3dc5dfc4403f7b5a1/images/121.webp" group-title="News", NTV
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMvbnR2L25kYXNoZC8=:Expires=1739203477:KeyName=iptv-prod-media-cdn-keys:Signature=DOQVrjO_RMZFRj6ISqRAZZfCLldrVEh337h4T0Lqxf400zGhokNcxKmp33iCOjc9Tq_CITUTEWWcSzs6zlstBw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMvbnR2L25kYXNoZC8=:Expires=1739291920:KeyName=iptv-prod-media-cdn-keys:Signature=fSZpw_50nbyUZA9IOlVDAru5N8BEBXmw-AWUuIvEC9ZaoeMGx-_sA4sh_ksBLBYLWO6i2QIiMgixRZ5_dUuDBQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med3/ntv/ndashd/ntv.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5630ec0571333658d07383a5617cda2:2f12a58067c1374811bec4b5febc43f2
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=v6-news
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_V6_NEWS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f4f5033abf53d08e94f2/images/190.webp" group-title="News", V6 NEWS
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3Y2X25ld3MvbmRhc2hkLw==:Expires=1739203478:KeyName=iptv-prod-media-cdn-keys:Signature=kdTDiSsrg7DrDcXl7RrhGQw_U5I4iTFhDnubyFmleC35UhY-3O6goTw2tLGDmT2xzi9AQsp1AS4O00rwszTOAg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3Y2X25ld3MvbmRhc2hkLw==:Expires=1739291923:KeyName=iptv-prod-media-cdn-keys:Signature=F38YareE8j9o2mli4AFPkhVXvPTKSwjSE0L7-MNM1UdFBJKW9z4OfrMikF3silpBlPvUUFaLRGni578sjoO_Cg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med14/v6_news/ndashd/v6_news.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2fde97a2af4e3d9ba9da1e961e62daea:4adff91df59e432b246f9564a34f580c
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=10tv
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_10TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f11cfe0772265fedd068/images/123.webp" group-title="Regional", 10TV
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvMTB0di9uZGFzaGQv:Expires=1739203479:KeyName=iptv-prod-media-cdn-keys:Signature=u9V2RHmEij05rtKiRiz5cQ-7VaSl5IacYP9QMwUiikf00sJWjPHgNX3TM7IcE8o4INv3ed-Q8Y1rppW7N74FBw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvMTB0di9uZGFzaGQv:Expires=1739291927:KeyName=iptv-prod-media-cdn-keys:Signature=d7HA4XrCoGjyE0-cvFynD4LsRM1sBPXCkxPSbMdZ97P7KjVOEXibUsFdcZ5262Wr82Aiq4i-oEqQwbXrnoe7CA=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/10tv/ndashd/10tv.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7832deeb25473b2da95a8fcdee2c05a2:1bf08de964b99ec51ef03a795065464c
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=bhakti-tv
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_BHAKTI_TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e283bf8d2567aac9d9/images/176.webp" group-title="Devotional", Bhakti TV
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDIvYmhha3RpX3R2L25kYXNoZC8=:Expires=1739203480:KeyName=iptv-prod-media-cdn-keys:Signature=sYnXUKCUrNBewy-PuOuSMJHAZQXM6YnFc_xxEflp49eoERq9o7NZzFbMkcVeAJ_Aj3YuSwFGyRbaRGcUby6lCQ=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDIvYmhha3RpX3R2L25kYXNoZC8=:Expires=1739291931:KeyName=iptv-prod-media-cdn-keys:Signature=ZPJtEHpMvNaPpaZkvvmtoR_uSUwWlY90n-j0RGOsqBLw0-waNe6nn4KenhMRZOfLa4SNvR6A8V9kCM9jXJU-AQ=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med2/bhakti_tv/ndashd/bhakti_tv.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e4108e0fcb635b9b05a49460b3fb09e:79c4aa64a44ab61de4087cb15e4ba4be
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=dd-yadagiri
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_YADAGIRI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e651545a0652107952/images/555.webp" group-title="Regional", DD Yadagiri
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwL2RkX3lhZGFnaXJpL25kYXNoZC8=:Expires=1739203481:KeyName=iptv-prod-media-cdn-keys:Signature=y3_XaVM_CLn9LUct34KsxYbfj9RcZ8aK2m9H_JYSkG-MTXvVcm9eOYexY_vUbj1XWsrHJAGz1z7JMh1ZeL4uBw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwL2RkX3lhZGFnaXJpL25kYXNoZC8=:Expires=1739291934:KeyName=iptv-prod-media-cdn-keys:Signature=-5p8j1GdyrvQy-LH3k63nX0DiMhjPLkpG8F4D0bxhg3SBdIMtfIsxHGppOrs5gxgC3H2aL80r_I2rS-emr5-Dg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med10/dd_yadagiri/ndashd/dd_yadagiri.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=79ac6809415233fe8f21ea56cbb48f36:999f3b1b626929fa4a4778e6dd2aacd6
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=dd-saptagiri
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_SAPTAGIRI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e623d1fb238115f8b0/images/365.webp" group-title="Regional", DD Saptagiri
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwL2RkX3NhcHRhZ2lyaS9uZGFzaGQv:Expires=1739203482:KeyName=iptv-prod-media-cdn-keys:Signature=8oh7RdGEClcVH8FJh0VkI0gopFVSyOHmLwtO4SviR0aB5bSKfE_1TE2W0eQNiPRnGzroIBe8FDFtNoDKyZZcCg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwL2RkX3NhcHRhZ2lyaS9uZGFzaGQv:Expires=1739291936:KeyName=iptv-prod-media-cdn-keys:Signature=OM5wrBYXtH6jhooMWX9b4ia-80HBGr1zyf0Uk2qLrRHHhr5-2Aq76dXrENqYgmVkGoAo4jZNwjMetdAcw-cKAg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med10/dd_saptagiri/ndashd/dd_saptagiri.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f54127b9ac03bb695e61dcdbac5f1fb:dc36b78f9165b3ed1ff613781fc23bfe
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=public-movies
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_PUBLIC_MOVIES" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f43afe0772265fedf0d1/images/693.webp" group-title="Regional", PUBLIC MOVIES
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3B1YmxpY19tb3ZpZXMvbmRhc2hkLw==:Expires=1739203483:KeyName=iptv-prod-media-cdn-keys:Signature=FLNphJSuXwKClEuNr9H4sMY35-Za9Kr1grNqOWCF2L3beuo3szgJWHtlP2h4SExar3-79DlNzM-ryRkdGNl3BA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3B1YmxpY19tb3ZpZXMvbmRhc2hkLw==:Expires=1739291939:KeyName=iptv-prod-media-cdn-keys:Signature=9-Fi6wyJu7vF5D9gl_HjQUrtemtdUYDtdzoZM77Fj5EIU4fauyeg0ixAIV8zQke_vXMdivBWKZn1Dll2QoAZCw=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med14/public_movies/ndashd/public_movies.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11a5ce9518e1363aa83643a0a62d9480:d12c9b605e645ae9d77f8316adbea20f
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=zee-picchar
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_PICCHAR" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572fd4bfe0772265fee5474/images/697.webp" group-title="Regional", Zee Picchar
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzL3plZV9waWNjaGFyL25kYXNoZC8=:Expires=1739203485:KeyName=iptv-prod-media-cdn-keys:Signature=Zev3zO4r70o7mMVnzHS7gI4ZW9OWmt97aQFKswRZ3iQ9dL6DNtHJleZcESltMl2jrGYk7_JwdoJlp0xdbUDUCw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEzL3plZV9waWNjaGFyL25kYXNoZC8=:Expires=1739291941:KeyName=iptv-prod-media-cdn-keys:Signature=Lh7iylZ19ACNv4hrODBUmkK8P9Oj7CXs8-8FX0lQTbjkCV1d8YUpFdtbsw_aBdN3Xa10zpznU_g6jBtEmutsAw=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med13/zee_picchar/ndashd/zee_picchar.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=895ebf6f1172391bbfddfafe7d004e9b:c8b5539bf310bf22b513070810ce2194
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=asianet-suvarna-news
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ASIANET_SUVARNA_NEWS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65a0461aaa41b21ae460a1bb/images/LANDSCAPE_169/LANDSCAPE_169_5UD-yVOeT_Asianet-suvarna-news_264x144.webp" group-title="News", Asianet Suvarna News
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvYXNpYW5ldF9zdXZhcm5hX25ld3MvbmRhc2hkLw==:Expires=1739203486:KeyName=iptv-prod-media-cdn-keys:Signature=ZVDkJaTw925mzQGrNg6sXSqnUNWdgA390h0qOxv-RgY4FuN8BOOiE1outKUq8PwCkaoQVfUUYmlsb88Yi6j5Cg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEvYXNpYW5ldF9zdXZhcm5hX25ld3MvbmRhc2hkLw==:Expires=1739291944:KeyName=iptv-prod-media-cdn-keys:Signature=-baIg3Dq6pfwgoNZll9FNzBLHa5_NjvUkVGtosYi2MZRrxyuCulLsEFOGIUOdpjplm0lvGriPwD_KCdplRjtBg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med1/asianet_suvarna_news/ndashd/asianet_suvarna_news.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=654d40a8ceb132ddbf37e7f371c9c605:06f57883a70510254531f41eb7ab8dc8
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=public-tv
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_PUBLIC_TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736eb4ded97660c182aba8/images/323.webp" group-title="Regional", Public TV
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMvcHVibGljX3R2L25kYXNoZC8=:Expires=1739203487:KeyName=iptv-prod-media-cdn-keys:Signature=e6zL6U3V4HblUNA2aOaWu9NwSLh72wMxL5fM6cT4-XGM1fkghh263tijGjD_AeOmyHbBKUSN-f3f0ogUBrlFBA=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDMvcHVibGljX3R2L25kYXNoZC8=:Expires=1739291946:KeyName=iptv-prod-media-cdn-keys:Signature=6iVTY3wrgBNp1d1DzqMuJv-QrG087u0x3b7AhS6ypaIU0aW85BfI-DBV1xRyQCobIzVqSwZmMqC4XQgzgkO5Ag=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med3/public_tv/ndashd/public_tv.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ff8b5147a883d789ae9135b17a76be2:42ed6dfadf7efb120e77f910325d5829
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=r.kannada
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_RSYMDOTKANNADA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f3bc033abf53d08e879e/images/250231007.webp" group-title="News", R.Kannada
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3Jfa2FubmFkYS9uZGFzaGQv:Expires=1739203488:KeyName=iptv-prod-media-cdn-keys:Signature=Y1NWI_PdtpqdbPJZIW-4btqCrssCITnXqvLhHkblSTPRJGAs9bp9-XMX04MAYw3L6ju-8mwQmAp8ijB8qGybBw=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3Jfa2FubmFkYS9uZGFzaGQv:Expires=1739291949:KeyName=iptv-prod-media-cdn-keys:Signature=EXBv4VUADdU7Ozh94Yw8x6wXuqJO9OAxfTKi0aOwxHTdxT6SFLVCQDLhrhKE7sHrP-ESOSPz8tZJzln-W1TyBg=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med14/r_kannada/ndashd/r_kannada.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bb20e5a08a493f779d1089b9ef6e5319:69f0f90ff695c58a0f401ad8471bace6
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=dd-chandana
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_CHANDANA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e651545a065210794b/images/535.webp" group-title="Regional", DD Chandana
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwL2RkX2NoYW5kYW5hL25kYXNoZC8=:Expires=1739203489:KeyName=iptv-prod-media-cdn-keys:Signature=vGdBIw1O8Bve8pY5KSoD_M2namIkqw9bHtwzLCSrO0W2nTgDgG2pE5Q8wRvPqntWzjFFnEqrRlrGUI6DazBmCQ=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEwL2RkX2NoYW5kYW5hL25kYXNoZC8=:Expires=1739291952:KeyName=iptv-prod-media-cdn-keys:Signature=F_jDZDdyoR58IjZgZQMJ7HmE3wc0cjEAOdE4Zcwhz9F6zMyqiV4pqg_3_CyDeWIIpCS8f0-iY40zOUO6s3nfDw=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med10/dd_chandana/ndashd/dd_chandana.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=19e43c96cd933698abc71bb34627c8f6:d0d3aebf1eb9d9e2b1f7bfc49c1a3b96
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.xyz/artl/key.php?id=public-music
 #EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_PUBLIC_MUSIC" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736f1b1cd2bb19dca317ec/images/875.webp" group-title="Music", PUBLIC MUSIC
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3B1YmxpY19tdXNpYy9uZGFzaGQv:Expires=1739203490:KeyName=iptv-prod-media-cdn-keys:Signature=Qm0z3fKJ4hF-y_AdYQZowfvnphVV_sEal_IDWS8o1ZCKX1h9U3qk3MByGLB3tICJWAZuFaeEOLtjI03gZDHHCg=="}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0L3B1YmxpY19tdXNpYy9uZGFzaGQv:Expires=1739291954:KeyName=iptv-prod-media-cdn-keys:Signature=ZxmSPo0trf7-M037VPDeT1TrYNrfJnx7Pw4hj-TY6I3WX6jmuCEhVFRZ2CMtS1e7CEyiLZ6B5wlnEzfxkYxxCA=="}
 #EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://companion-live-play1.streamready.in/live/med14/public_music/ndashd/public_music.mpd
