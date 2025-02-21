@@ -2,7 +2,7 @@ name: Update z5.m3u
 
 on:
   schedule:
-    - cron: '*/360 * * * *' # Runs every 20 minutes..
+    - cron: '0 */12 * * *' # Runs every 20 minutes..
 
 jobs:
   update-file:
