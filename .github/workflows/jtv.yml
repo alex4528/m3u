@@ -1,8 +1,9 @@
 name: Update jtv.m3u
 
 on:
+  workflow_dispatch:  # <-- This enables manual triggering
   schedule:
-    - cron: '0 */12 * * *' # Runs every 20 minutes..
+    - cron: '0 */12 * * *' # Runs every 12hr..
 
 jobs:
   update-file:
